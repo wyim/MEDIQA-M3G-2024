@@ -1,0 +1,2700 @@
+C0000768|CHI|-|-|-|-|Y|-|deformity|-|-|CUSTOM|Disease|-|畸形|0|N|256
+C2117111|CHI|-|-|-|-|Y|-|deformity|-|-|CUSTOM|Disease|-|畸形|0|N|256
+C0302142|CHI|-|-|-|-|Y|-|deformity|-|-|CUSTOM|Disease|-|畸形|0|N|256
+C0000768|CHI|-|-|-|-|Y|-|malformation|-|-|CUSTOM|Disease|-|畸形|0|N|256
+C2117111|CHI|-|-|-|-|Y|-|malformation|-|-|CUSTOM|Disease|-|畸形|0|N|256
+C0302142|CHI|-|-|-|-|Y|-|malformation|-|-|CUSTOM|Disease|-|畸形|0|N|256
+C0000768|CHI|-|-|-|-|Y|-|malformations|-|-|CUSTOM|Disease|-|畸形|0|N|256
+C2117111|CHI|-|-|-|-|Y|-|malformations|-|-|CUSTOM|Disease|-|畸形|0|N|256
+C0302142|CHI|-|-|-|-|Y|-|malformations|-|-|CUSTOM|Disease|-|畸形|0|N|256
+C0000833|CHI|-|-|-|-|Y|-|abscess|-|-|CUSTOM|Disease|-|脓疡|0|N|256
+C0000889|CHI|-|-|-|-|Y|-|acanthosis|-|-|CUSTOM|Disease|-|黑棘皮症|0|N|256
+C0221270|CHI|-|-|-|-|Y|-|acanthosis|-|-|CUSTOM|Disease|-|黑棘皮症|0|N|256
+C0000889|CHI|-|-|-|-|Y|-|acanthosis nigricans|-|-|CUSTOM|Disease|-|黑棘皮症|0|N|256
+C0221270|CHI|-|-|-|-|Y|-|acanthosis nigricans|-|-|CUSTOM|Disease|-|黑棘皮症|0|N|256
+C0000925|CHI|-|-|-|-|Y|-|cut|-|-|CUSTOM|Treatment|-|切除|0|N|256
+C0000925|CHI|-|-|-|-|Y|-|cuts|-|-|CUSTOM|Treatment|-|切除|0|N|256
+C0000975|CHI|-|-|-|-|Y|-|acetate|-|-|CUSTOM|Treatment|-|乙酸盐|0|N|256
+C0000983|CHI|-|-|-|-|Y|-|acetic acid|-|-|CUSTOM|Treatment|-|乙酸|0|N|256
+C0001041|CHI|-|-|-|-|Y|-|acetylcholine|-|-|CUSTOM|Treatment|-|乙酰胆碱|0|N|256
+C0001175|CHI|-|-|-|-|Y|-|aids|-|-|CUSTOM|Disease|-|艾滋病|0|N|256
+C0001202|CHI|-|-|-|-|Y|-|acrokeratosis|-|-|CUSTOM|Disease|-|肢端角化症|0|N|256
+C0001261|CHI|-|-|-|-|Y|-|actinomycosis|-|-|CUSTOM|Disease|-|癣菌|0|N|256
+C0001367|CHI|-|-|-|-|Y|-|acyclovir|-|-|CUSTOM|Treatment|-|阿昔洛韦|0|N|256
+C0001551|CHI|-|-|-|-|Y|-|immunomodulators|-|-|CUSTOM|Treatment|-|免疫调节剂|0|N|256
+C0005525|CHI|-|-|-|-|Y|-|immunomodulators|-|-|CUSTOM|Treatment|-|免疫调节剂|0|N|256
+C1527392|CHI|-|-|-|-|Y|-|immunomodulators|-|-|CUSTOM|Treatment|-|免疫调节剂|0|N|256
+C0001563|CHI|-|-|-|-|Y|-|oral administration|-|-|CUSTOM|Treatment|-|口服给药|0|N|256
+C0001614|CHI|-|-|-|-|Y|-|cortex|-|-|CUSTOM|Disease|-|皮层|0|N|256
+C0001617|CHI|-|-|-|-|Y|-|corticosteroid|-|-|CUSTOM|Treatment|-|皮质类固醇|0|N|256
+C3536709|CHI|-|-|-|-|Y|-|corticosteroid|-|-|CUSTOM|Treatment|-|皮质类固醇|0|N|256
+C0001617|CHI|-|-|-|-|Y|-|corticosteroid[SEP]corticosteroids|-|-|CUSTOM|Treatment|-|皮质类固醇|0|N|256
+C3536709|CHI|-|-|-|-|Y|-|corticosteroid[SEP]corticosteroids|-|-|CUSTOM|Treatment|-|皮质类固醇|0|N|256
+C0001617|CHI|-|-|-|-|Y|-|corticosteroids|-|-|CUSTOM|Treatment|-|皮质类固醇|0|N|256
+C3536709|CHI|-|-|-|-|Y|-|corticosteroids|-|-|CUSTOM|Treatment|-|皮质类固醇|0|N|256
+C0001815|CHI|-|-|-|-|Y|-|myelofibrosis|-|-|CUSTOM|Disease|-|骨髓纤维化|0|N|256
+C0026987|CHI|-|-|-|-|Y|-|myelofibrosis|-|-|CUSTOM|Disease|-|骨髓纤维化|0|N|256
+C4722417|CHI|-|-|-|-|Y|-|myelofibrosis|-|-|CUSTOM|Disease|-|骨髓纤维化|0|N|256
+C0001933|CHI|-|-|-|-|Y|-|alcian blue|-|-|CUSTOM|Treatment|-|阿尔西安蓝|0|N|256
+C0002092|CHI|-|-|-|-|Y|-|allergen|-|-|CUSTOM|Treatment|-|致敏物|0|N|256
+C0002092|CHI|-|-|-|-|Y|-|allergens|-|-|CUSTOM|Treatment|-|过敏原|0|N|256
+C0002170|CHI|-|-|-|-|Y|-|hair loss|-|-|CUSTOM|Disease|-|脱发|0|N|256
+C0002598|CHI|-|-|-|-|Y|-|amiodarone|-|-|CUSTOM|Treatment|-|胺碘酮|0|N|256
+C0002611|CHI|-|-|-|-|Y|-|ammonium|-|-|CUSTOM|Treatment|-|铵|0|N|256
+C0002645|CHI|-|-|-|-|Y|-|amoxicillin|-|-|CUSTOM|Treatment|-|阿莫西林|0|N|256
+C0002716|CHI|-|-|-|-|Y|-|amyloid|-|-|CUSTOM|Treatment|-|类淀粉蛋白|0|N|256
+C0002726|CHI|-|-|-|-|Y|-|amyloidosis|-|-|CUSTOM|Disease|-|淀粉样变|0|N|256
+C0002766|CHI|-|-|-|-|Y|-|relieving pain|-|-|CUSTOM|Treatment|-|止痛|0|N|256
+C0002771|CHI|-|-|-|-|Y|-|analgesics|-|-|CUSTOM|Treatment|-|镇痛药|0|N|256
+C0002842|CHI|-|-|-|-|Y|-|anti-androgens|-|-|CUSTOM|Treatment|-|抗雄激素|0|N|256
+C0002871|CHI|-|-|-|-|Y|-|anemia|-|-|CUSTOM|Disease|-|贫血|0|N|256
+C4554633|CHI|-|-|-|-|Y|-|anemia|-|-|CUSTOM|Disease|-|贫血|0|N|256
+C0002921|CHI|-|-|-|-|Y|-|local anesthesia|-|-|CUSTOM|Treatment|-|局部麻醉|0|N|256
+C0002994|CHI|-|-|-|-|Y|-|giant urticaria|-|-|CUSTOM|Disease|-|巨大荨麻疹|0|N|256
+C0003175|CHI|-|-|-|-|Y|-|anthrax|-|-|CUSTOM|Treatment|-|炭疽病|0|N|256
+C0358297|CHI|-|-|-|-|Y|-|anthrax|-|-|CUSTOM|Treatment|-|炭疽病|0|N|256
+C0003205|CHI|-|-|-|-|Y|-|antiseptic|-|-|CUSTOM|Treatment|-|抗菌剂|0|N|256
+C0770751|CHI|-|-|-|-|Y|-|antiseptic|-|-|CUSTOM|Treatment|-|抗菌剂|0|N|256
+C0003209|CHI|-|-|-|-|Y|-|anti-inflammatory|-|-|CUSTOM|Treatment|-|抗炎性|0|N|256
+C0003209|CHI|-|-|-|-|Y|-|anti-inflammatory drugs|-|-|CUSTOM|Treatment|-|抗炎性|0|N|256
+C0003211|CHI|-|-|-|-|Y|-|nsaid|-|-|CUSTOM|Treatment|-|非甾体类抗炎药|0|N|256
+C0003232|CHI|-|-|-|-|Y|-|antibiotic|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C0003237|CHI|-|-|-|-|Y|-|antibiotic|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540704|CHI|-|-|-|-|Y|-|antibiotic|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540705|CHI|-|-|-|-|Y|-|antibiotic|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540706|CHI|-|-|-|-|Y|-|antibiotic|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540707|CHI|-|-|-|-|Y|-|antibiotic|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540708|CHI|-|-|-|-|Y|-|antibiotic|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540709|CHI|-|-|-|-|Y|-|antibiotic|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540710|CHI|-|-|-|-|Y|-|antibiotic|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C0003232|CHI|-|-|-|-|Y|-|antibiotics|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C0003237|CHI|-|-|-|-|Y|-|antibiotics|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540704|CHI|-|-|-|-|Y|-|antibiotics|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540705|CHI|-|-|-|-|Y|-|antibiotics|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540706|CHI|-|-|-|-|Y|-|antibiotics|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540707|CHI|-|-|-|-|Y|-|antibiotics|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540708|CHI|-|-|-|-|Y|-|antibiotics|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540709|CHI|-|-|-|-|Y|-|antibiotics|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C3540710|CHI|-|-|-|-|Y|-|antibiotics|-|-|CUSTOM|Treatment|-|抗生素|0|N|256
+C0003240|CHI|-|-|-|-|Y|-|macrolide antibiotics|-|-|CUSTOM|Treatment|-|大环内酯类|0|N|256
+C0282563|CHI|-|-|-|-|Y|-|macrolide antibiotics|-|-|CUSTOM|Treatment|-|大环内酯类|0|N|256
+C0003240|CHI|-|-|-|-|Y|-|macrolides|-|-|CUSTOM|Treatment|-|大环内酯类|0|N|256
+C0282563|CHI|-|-|-|-|Y|-|macrolides|-|-|CUSTOM|Treatment|-|大环内酯类|0|N|256
+C0003243|CHI|-|-|-|-|Y|-|ana|-|-|CUSTOM|Treatment|-|抗核抗体|0|N|256
+C0587178|CHI|-|-|-|-|Y|-|ana|-|-|CUSTOM|Treatment|-|抗核抗体|0|N|256
+C0003243|CHI|-|-|-|-|Y|-|antinuclear antibody|-|-|CUSTOM|Treatment|-|ana|0|N|256
+C0587178|CHI|-|-|-|-|Y|-|antinuclear antibody|-|-|CUSTOM|Treatment|-|ana|0|N|256
+C0003308|CHI|-|-|-|-|Y|-|antifungal|-|-|CUSTOM|Treatment|-|抗真菌药|0|N|256
+C1442872|CHI|-|-|-|-|Y|-|antifungal|-|-|CUSTOM|Treatment|-|抗真菌药|0|N|256
+C5399711|CHI|-|-|-|-|Y|-|antifungal|-|-|CUSTOM|Treatment|-|抗真菌药|0|N|256
+C0003308|CHI|-|-|-|-|Y|-|antifungal drug|-|-|CUSTOM|Treatment|-|抗真菌药|0|N|256
+C1442872|CHI|-|-|-|-|Y|-|antifungal drug|-|-|CUSTOM|Treatment|-|抗真菌药|0|N|256
+C5399711|CHI|-|-|-|-|Y|-|antifungal drug|-|-|CUSTOM|Treatment|-|抗真菌药|0|N|256
+C0003308|CHI|-|-|-|-|Y|-|antifungal drugs|-|-|CUSTOM|Treatment|-|抗真菌药物|0|N|256
+C1442872|CHI|-|-|-|-|Y|-|antifungal drugs|-|-|CUSTOM|Treatment|-|抗真菌药物|0|N|256
+C5399711|CHI|-|-|-|-|Y|-|antifungal drugs|-|-|CUSTOM|Treatment|-|抗真菌药物|0|N|256
+C0003308|CHI|-|-|-|-|Y|-|antifungal[SEP]antifungal agents|-|-|CUSTOM|Treatment|-|抗真菌药|0|N|256
+C1442872|CHI|-|-|-|-|Y|-|antifungal[SEP]antifungal agents|-|-|CUSTOM|Treatment|-|抗真菌药|0|N|256
+C5399711|CHI|-|-|-|-|Y|-|antifungal[SEP]antifungal agents|-|-|CUSTOM|Treatment|-|抗真菌药|0|N|256
+C0003320|CHI|-|-|-|-|Y|-|antigens|-|-|CUSTOM|Treatment|-|抗原|0|N|256
+C0003364|CHI|-|-|-|-|Y|-|antihypertensive drugs|-|-|CUSTOM|Treatment|-|抗高血压药|0|N|256
+C0003417|CHI|-|-|-|-|Y|-|antipruritic|-|-|CUSTOM|Treatment|-|止痒药|0|N|256
+C0003419|CHI|-|-|-|-|Y|-|antipyretic|-|-|CUSTOM|Treatment|-|退烧药|0|N|256
+C0003451|CHI|-|-|-|-|Y|-|antiviral|-|-|CUSTOM|Treatment|-|抗菌治疗|0|N|256
+C0261780|CHI|-|-|-|-|Y|-|antiviral|-|-|CUSTOM|Treatment|-|抗菌治疗|0|N|256
+C0161504|CHI|-|-|-|-|Y|-|antiviral|-|-|CUSTOM|Treatment|-|抗菌治疗|0|N|256
+C2876912|CHI|-|-|-|-|Y|-|antiviral|-|-|CUSTOM|Treatment|-|抗菌治疗|0|N|256
+C5551438|CHI|-|-|-|-|Y|-|antiviral|-|-|CUSTOM|Treatment|-|抗菌治疗|0|N|256
+C0280274|CHI|-|-|-|-|Y|-|antiviral|-|-|CUSTOM|Treatment|-|抗菌治疗|0|N|256
+C2363964|CHI|-|-|-|-|Y|-|antiviral|-|-|CUSTOM|Treatment|-|抗菌治疗|0|N|256
+C0003451|CHI|-|-|-|-|Y|-|antiviral drug|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0261780|CHI|-|-|-|-|Y|-|antiviral drug|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0161504|CHI|-|-|-|-|Y|-|antiviral drug|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C2876912|CHI|-|-|-|-|Y|-|antiviral drug|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C5551438|CHI|-|-|-|-|Y|-|antiviral drug|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0280274|CHI|-|-|-|-|Y|-|antiviral drug|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C2363964|CHI|-|-|-|-|Y|-|antiviral drug|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0003451|CHI|-|-|-|-|Y|-|antiviral drugs|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0261780|CHI|-|-|-|-|Y|-|antiviral drugs|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0161504|CHI|-|-|-|-|Y|-|antiviral drugs|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C2876912|CHI|-|-|-|-|Y|-|antiviral drugs|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C5551438|CHI|-|-|-|-|Y|-|antiviral drugs|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0280274|CHI|-|-|-|-|Y|-|antiviral drugs|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C2363964|CHI|-|-|-|-|Y|-|antiviral drugs|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0003451|CHI|-|-|-|-|Y|-|antiviral therapy|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0261780|CHI|-|-|-|-|Y|-|antiviral therapy|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0161504|CHI|-|-|-|-|Y|-|antiviral therapy|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C2876912|CHI|-|-|-|-|Y|-|antiviral therapy|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C5551438|CHI|-|-|-|-|Y|-|antiviral therapy|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0280274|CHI|-|-|-|-|Y|-|antiviral therapy|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C2363964|CHI|-|-|-|-|Y|-|antiviral therapy|-|-|CUSTOM|Treatment|-|抗病毒治疗|0|N|256
+C0003782|CHI|-|-|-|-|Y|-|argyria|-|-|CUSTOM|Disease|-|银质沉着症|0|N|256
+C0003860|CHI|-|-|-|-|Y|-|arteritis|-|-|CUSTOM|Disease|-|动脉炎|0|N|256
+C0003862|CHI|-|-|-|-|Y|-|joint pain|-|-|CUSTOM|Disease|-|关节疼痛|0|N|256
+C0003872|CHI|-|-|-|-|Y|-|psoriatic arthritis|-|-|CUSTOM|Disease|-|干癣性关节炎|0|N|256
+C0003948|CHI|-|-|-|-|Y|-|asbestos exposure|-|-|CUSTOM|Disease|-|石棉|0|N|256
+C0003969|CHI|-|-|-|-|Y|-|vitamin c deficiency|-|-|CUSTOM|Disease|-|维生素c缺乏|0|N|256
+C0004096|CHI|-|-|-|-|Y|-|asthma|-|-|CUSTOM|Disease|-|哮喘|0|N|256
+C0004110|CHI|-|-|-|-|Y|-|astringent|-|-|CUSTOM|Treatment|-|收敛剂|0|N|256
+C0004110|CHI|-|-|-|-|Y|-|astringents|-|-|CUSTOM|Treatment|-|收敛剂|0|N|256
+C0004364|CHI|-|-|-|-|Y|-|autoimmune diseases|-|-|CUSTOM|Disease|-|自身免疫性疾病|0|N|256
+C0004504|CHI|-|-|-|-|Y|-|azole|-|-|CUSTOM|Treatment|-|唑|0|N|256
+C0004623|CHI|-|-|-|-|Y|-|bacterial infection|-|-|CUSTOM|Disease|-|细菌感染|0|N|256
+C0004943|CHI|-|-|-|-|Y|-|behcet's disease|-|-|CUSTOM|Disease|-|白塞氏病|0|N|256
+C0005038|CHI|-|-|-|-|Y|-|lindane|-|-|CUSTOM|Treatment|-|Γ-六氯环己烷|0|N|256
+C0005122|CHI|-|-|-|-|Y|-|beri beri|-|-|CUSTOM|Disease|-|脚气|0|N|256
+C0005122|CHI|-|-|-|-|Y|-|beriberi|-|-|CUSTOM|Disease|-|脚气病|0|N|256
+C0005308|CHI|-|-|-|-|Y|-|betamethasone|-|-|CUSTOM|Treatment|-|倍他米松|0|N|256
+C0005658|CHI|-|-|-|-|Y|-|bite|-|-|CUSTOM|Disease|-|咬|0|N|256
+C0005658|CHI|-|-|-|-|Y|-|bite wound|-|-|CUSTOM|Disease|-|咬|0|N|256
+C0005658|CHI|-|-|-|-|Y|-|bite[SEP]biting|-|-|CUSTOM|Disease|-|咬|0|N|256
+C0005658|CHI|-|-|-|-|Y|-|bites|-|-|CUSTOM|Disease|-|咬|0|N|256
+C0005658|CHI|-|-|-|-|Y|-|biting|-|-|CUSTOM|Disease|-|咬|0|N|256
+C0005716|CHI|-|-|-|-|Y|-|blastomycosis|-|-|CUSTOM|Disease|-|芽生菌病|0|N|256
+C0005740|CHI|-|-|-|-|Y|-|bleomycin|-|-|CUSTOM|Treatment|-|博来霉素|0|N|256
+C0005758|CHI|-|-|-|-|Y|-|blister|-|-|CUSTOM|Disease|-|水泡|0|N|256
+C0344311|CHI|-|-|-|-|Y|-|blister|-|-|CUSTOM|Disease|-|水泡|0|N|256
+C2132198|CHI|-|-|-|-|Y|-|blister|-|-|CUSTOM|Disease|-|水泡|0|N|256
+C0347555|CHI|-|-|-|-|Y|-|blister|-|-|CUSTOM|Disease|-|水泡|0|N|256
+C1579830|CHI|-|-|-|-|Y|-|blister|-|-|CUSTOM|Disease|-|水泡|0|N|256
+C2220104|CHI|-|-|-|-|Y|-|blister|-|-|CUSTOM|Disease|-|水泡|0|N|256
+C0005758|CHI|-|-|-|-|Y|-|blistering|-|-|CUSTOM|Disease|-|水疱|0|N|256
+C0344311|CHI|-|-|-|-|Y|-|blistering|-|-|CUSTOM|Disease|-|水疱|0|N|256
+C2132198|CHI|-|-|-|-|Y|-|blistering|-|-|CUSTOM|Disease|-|水疱|0|N|256
+C0347555|CHI|-|-|-|-|Y|-|blistering|-|-|CUSTOM|Disease|-|水疱|0|N|256
+C1579830|CHI|-|-|-|-|Y|-|blistering|-|-|CUSTOM|Disease|-|水疱|0|N|256
+C2220104|CHI|-|-|-|-|Y|-|blistering|-|-|CUSTOM|Disease|-|水疱|0|N|256
+C0005758|CHI|-|-|-|-|Y|-|blisters|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C0344311|CHI|-|-|-|-|Y|-|blisters|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C2132198|CHI|-|-|-|-|Y|-|blisters|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C0347555|CHI|-|-|-|-|Y|-|blisters|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C1579830|CHI|-|-|-|-|Y|-|blisters|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C2220104|CHI|-|-|-|-|Y|-|blisters|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C0005758|CHI|-|-|-|-|Y|-|bullae|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C0344311|CHI|-|-|-|-|Y|-|bullae|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C2132198|CHI|-|-|-|-|Y|-|bullae|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C0347555|CHI|-|-|-|-|Y|-|bullae|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C1579830|CHI|-|-|-|-|Y|-|bullae|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C2220104|CHI|-|-|-|-|Y|-|bullae|-|-|CUSTOM|Disease|-|大泡|0|N|256
+C0005790|CHI|-|-|-|-|Y|-|coagulation profile|-|-|CUSTOM|Test|-|凝血|0|N|256
+C0005857|CHI|-|-|-|-|Y|-|bloodletting|-|-|CUSTOM|Treatment|-|放血|0|N|256
+C0006020|CHI|-|-|-|-|Y|-|boracic acid|-|-|CUSTOM|Treatment|-|硼酸|0|N|256
+C1161318|CHI|-|-|-|-|Y|-|boracic acid|-|-|CUSTOM|Treatment|-|硼酸|0|N|256
+C1553426|CHI|-|-|-|-|Y|-|boracic acid|-|-|CUSTOM|Treatment|-|硼酸|0|N|256
+C0006020|CHI|-|-|-|-|Y|-|boric acid|-|-|CUSTOM|Treatment|-|硼酸|0|N|256
+C1161318|CHI|-|-|-|-|Y|-|boric acid|-|-|CUSTOM|Treatment|-|硼酸|0|N|256
+C1553426|CHI|-|-|-|-|Y|-|boric acid|-|-|CUSTOM|Treatment|-|硼酸|0|N|256
+C0006664|CHI|-|-|-|-|Y|-|calcinosis cutis|-|-|CUSTOM|Disease|-|皮肤钙化|0|N|256
+C0006675|CHI|-|-|-|-|Y|-|calcium|-|-|CUSTOM|Treatment|-|钙|0|N|256
+C2936886|CHI|-|-|-|-|Y|-|calcium|-|-|CUSTOM|Treatment|-|钙|0|N|256
+C3540037|CHI|-|-|-|-|Y|-|calcium|-|-|CUSTOM|Treatment|-|钙|0|N|256
+C0006726|CHI|-|-|-|-|Y|-|calcium|-|-|CUSTOM|Treatment|-|钙|0|N|256
+C0201925|CHI|-|-|-|-|Y|-|calcium|-|-|CUSTOM|Treatment|-|钙|0|N|256
+C0006699|CHI|-|-|-|-|Y|-|calcium gluconate|-|-|CUSTOM|Treatment|-|葡萄糖酸钙|0|N|256
+C0006826|CHI|-|-|-|-|Y|-|cancer|-|-|CUSTOM|Disease|-|癌症|0|N|256
+C1306459|CHI|-|-|-|-|Y|-|cancer|-|-|CUSTOM|Disease|-|癌症|0|N|256
+C0006826|CHI|-|-|-|-|Y|-|malignancy|-|-|CUSTOM|Disease|-|癌症|0|N|256
+C1306459|CHI|-|-|-|-|Y|-|malignancy|-|-|CUSTOM|Disease|-|癌症|0|N|256
+C0006826|CHI|-|-|-|-|Y|-|malignant tumors|-|-|CUSTOM|Disease|-|恶性肿瘤|0|N|256
+C1306459|CHI|-|-|-|-|Y|-|malignant tumors|-|-|CUSTOM|Disease|-|恶性肿瘤|0|N|256
+C0006840|CHI|-|-|-|-|Y|-|candida infection|-|-|CUSTOM|Disease|-|念珠菌症|0|N|256
+C0006840|CHI|-|-|-|-|Y|-|candidiasis|-|-|CUSTOM|Disease|-|念珠菌症|0|N|256
+C0006849|CHI|-|-|-|-|Y|-|oral thrush|-|-|CUSTOM|Disease|-|口腔念珠菌病|0|N|256
+C0006886|CHI|-|-|-|-|Y|-|cantharidin|-|-|CUSTOM|Treatment|-|斑蝥素|0|N|256
+C0007078|CHI|-|-|-|-|Y|-|carbuncle|-|-|CUSTOM|Disease|-|痈|0|N|256
+C0007117|CHI|-|-|-|-|Y|-|basal cell carcinoma|-|-|CUSTOM|Disease|-|基底细胞癌|0|N|256
+C4721806|CHI|-|-|-|-|Y|-|basal cell carcinoma|-|-|CUSTOM|Disease|-|基底细胞癌|0|N|256
+C0007117|CHI|-|-|-|-|Y|-|bcc|-|-|CUSTOM|Disease|-|bcc|0|N|256
+C4721806|CHI|-|-|-|-|Y|-|bcc|-|-|CUSTOM|Disease|-|bcc|0|N|256
+C0007137|CHI|-|-|-|-|Y|-|squamous cell carcinoma|-|-|CUSTOM|Disease|-|鳞状细胞癌|0|N|256
+C0007137|CHI|-|-|-|-|Y|-|squamous cell carcinoma|-|-|CUSTOM|Disease|-|鳞癌|0|N|256
+C0007471|CHI|-|-|-|-|Y|-|cauterization|-|-|CUSTOM|Treatment|-|烧灼|0|N|256
+C0007471|CHI|-|-|-|-|Y|-|cauterized|-|-|CUSTOM|Treatment|-|烧灼|0|N|256
+C0007971|CHI|-|-|-|-|Y|-|cheilitis|-|-|CUSTOM|Disease|-|唇炎|0|N|256
+C1962954|CHI|-|-|-|-|Y|-|cheilitis|-|-|CUSTOM|Disease|-|唇炎|0|N|256
+C0008049|CHI|-|-|-|-|Y|-|chickenpox|-|-|CUSTOM|Disease|-|水痘|0|N|256
+C0078048|CHI|-|-|-|-|Y|-|chickenpox|-|-|CUSTOM|Disease|-|水痘|0|N|256
+C0008161|CHI|-|-|-|-|Y|-|chloral hydrate|-|-|CUSTOM|Treatment|-|水合氯醛|0|N|256
+C0008168|CHI|-|-|-|-|Y|-|chloramphenicol|-|-|CUSTOM|Treatment|-|氯霉素|0|N|256
+C0202354|CHI|-|-|-|-|Y|-|chloramphenicol|-|-|CUSTOM|Treatment|-|氯霉素|0|N|256
+C0008260|CHI|-|-|-|-|Y|-|chlorophyll|-|-|CUSTOM|Treatment|-|叶绿素|0|N|256
+C0008269|CHI|-|-|-|-|Y|-|chloroquine|-|-|CUSTOM|Treatment|-|氯喹|0|N|256
+C0008281|CHI|-|-|-|-|Y|-|chlorpheniramine|-|-|CUSTOM|Treatment|-|氯苯那敏|0|N|256
+C0008281|CHI|-|-|-|-|Y|-|chlorpheniramine|-|-|CUSTOM|Treatment|-|扑尔敏|0|N|256
+C0008282|CHI|-|-|-|-|Y|-|piriton|-|-|CUSTOM|Treatment|-|皮里顿|0|N|256
+C0008286|CHI|-|-|-|-|Y|-|chlorpromazine|-|-|CUSTOM|Treatment|-|氯丙嗪|0|N|256
+C0008582|CHI|-|-|-|-|Y|-|chromoblastomycosis|-|-|CUSTOM|Disease|-|成色霉菌病|0|N|256
+C0008679|CHI|-|-|-|-|Y|-|chronic disease|-|-|CUSTOM|Disease|-|慢性病|0|N|256
+C0008783|CHI|-|-|-|-|Y|-|cimetidine|-|-|CUSTOM|Treatment|-|西咪替丁|0|N|256
+C0008803|CHI|-|-|-|-|Y|-|cinnarizine|-|-|CUSTOM|Treatment|-|桂利嗪|0|N|256
+C0008809|CHI|-|-|-|-|Y|-|ciprofloxacin|-|-|CUSTOM|Treatment|-|环丙沙星|0|N|256
+C0008857|CHI|-|-|-|-|Y|-|citrate|-|-|CUSTOM|Treatment|-|柠檬酸盐|0|N|256
+C0201956|CHI|-|-|-|-|Y|-|citrate|-|-|CUSTOM|Treatment|-|柠檬酸盐|0|N|256
+C0376259|CHI|-|-|-|-|Y|-|citrate|-|-|CUSTOM|Treatment|-|柠檬酸盐|0|N|256
+C0008947|CHI|-|-|-|-|Y|-|clindamycin|-|-|CUSTOM|Treatment|-|克林霉素|0|N|256
+C0008992|CHI|-|-|-|-|Y|-|clobetasol|-|-|CUSTOM|Treatment|-|氯倍他索|0|N|256
+C0009074|CHI|-|-|-|-|Y|-|clotrimazole|-|-|CUSTOM|Treatment|-|克霉唑|0|N|256
+C0009080|CHI|-|-|-|-|Y|-|clubbed fingers|-|-|CUSTOM|Disease|-|杵状指|0|N|256
+C0009144|CHI|-|-|-|-|Y|-|tongue coating|-|-|CUSTOM|Disease|-|舌苔|0|N|256
+C0009213|CHI|-|-|-|-|Y|-|cod liver oil|-|-|CUSTOM|Treatment|-|鱼肝油|0|N|256
+C0009213|CHI|-|-|-|-|Y|-|cod-liver oil|-|-|CUSTOM|Treatment|-|鱼肝油|0|N|256
+C0009325|CHI|-|-|-|-|Y|-|collagen|-|-|CUSTOM|Treatment|-|胶原蛋白|0|N|256
+C0009378|CHI|-|-|-|-|Y|-|colonoscopy|-|-|CUSTOM|Test|-|大肠镜|0|N|256
+C0009421|CHI|-|-|-|-|Y|-|coma|-|-|CUSTOM|Disease|-|昏迷|0|N|256
+C0009450|CHI|-|-|-|-|Y|-|infection|-|-|CUSTOM|Disease|-|感染|0|N|256
+C3714514|CHI|-|-|-|-|Y|-|infection|-|-|CUSTOM|Disease|-|感染|0|N|256
+C0009450|CHI|-|-|-|-|Y|-|infections|-|-|CUSTOM|Disease|-|感染|0|N|256
+C3714514|CHI|-|-|-|-|Y|-|infections|-|-|CUSTOM|Disease|-|感染|0|N|256
+C0009450|CHI|-|-|-|-|Y|-|infectious|-|-|CUSTOM|Disease|-|感染|0|N|256
+C3714514|CHI|-|-|-|-|Y|-|infectious|-|-|CUSTOM|Disease|-|感染|0|N|256
+C0009450|CHI|-|-|-|-|Y|-|infectious disease|-|-|CUSTOM|Disease|-|感染|0|N|256
+C3714514|CHI|-|-|-|-|Y|-|infectious disease|-|-|CUSTOM|Disease|-|感染|0|N|256
+C0009555|CHI|-|-|-|-|Y|-|complete blood count|-|-|CUSTOM|Test|-|全血细胞计数|0|N|256
+C0009566|CHI|-|-|-|-|Y|-|complication|-|-|CUSTOM|Disease|-|并发症|0|N|256
+C0009566|CHI|-|-|-|-|Y|-|complications|-|-|CUSTOM|Disease|-|并发症|0|N|256
+C0009663|CHI|-|-|-|-|Y|-|genital warts|-|-|CUSTOM|Disease|-|生殖器疣|0|N|256
+C0009759|CHI|-|-|-|-|Y|-|conjunctiva|-|-|CUSTOM|Disease|-|结膜|0|N|256
+C0009763|CHI|-|-|-|-|Y|-|conjunctivitis|-|-|CUSTOM|Disease|-|结膜炎|0|N|256
+C0009782|CHI|-|-|-|-|Y|-|connective tissue disease|-|-|CUSTOM|Disease|-|结缔组织病|0|N|256
+C0010356|CHI|-|-|-|-|Y|-|cross infections|-|-|CUSTOM|Disease|-|交叉感染|0|N|256
+C0010408|CHI|-|-|-|-|Y|-|cryosurgery|-|-|CUSTOM|Treatment|-|冷冻|0|N|256
+C0010495|CHI|-|-|-|-|Y|-|loose skin|-|-|CUSTOM|Disease|-|松弛的皮肤|0|N|256
+C0010651|CHI|-|-|-|-|Y|-|cystectomy|-|-|CUSTOM|Treatment|-|膀胱切除术|0|N|256
+C0010709|CHI|-|-|-|-|Y|-|cyst|-|-|CUSTOM|Disease|-|囊肿|0|N|256
+C0010709|CHI|-|-|-|-|Y|-|cysts|-|-|CUSTOM|Disease|-|囊肿|0|N|256
+C0010803|CHI|-|-|-|-|Y|-|keratin|-|-|CUSTOM|Treatment|-|角蛋白|0|N|256
+C0022564|CHI|-|-|-|-|Y|-|keratin|-|-|CUSTOM|Treatment|-|角蛋白|0|N|256
+C0010980|CHI|-|-|-|-|Y|-|dapsone|-|-|CUSTOM|Treatment|-|达普颂|0|N|256
+C0011079|CHI|-|-|-|-|Y|-|debridement|-|-|CUSTOM|Treatment|-|清创手术|0|N|256
+C0011127|CHI|-|-|-|-|Y|-|bedsore|-|-|CUSTOM|Disease|-|褥疮|0|N|256
+C0011127|CHI|-|-|-|-|Y|-|pressure sores|-|-|CUSTOM|Disease|-|褥疮|0|N|256
+C0011164|CHI|-|-|-|-|Y|-|degeneration|-|-|CUSTOM|Disease|-|减退|0|N|256
+C0011164|CHI|-|-|-|-|Y|-|degenerative|-|-|CUSTOM|Disease|-|退化的|0|N|256
+C0011209|CHI|-|-|-|-|Y|-|childbirth|-|-|CUSTOM|Treatment|-|分娩|0|N|256
+C0581135|CHI|-|-|-|-|Y|-|childbirth|-|-|CUSTOM|Treatment|-|分娩|0|N|256
+C0011276|CHI|-|-|-|-|Y|-|demeclocycline|-|-|CUSTOM|Treatment|-|地美环素|0|N|256
+C0011334|CHI|-|-|-|-|Y|-|cavity|-|-|CUSTOM|Disease|-|洞|0|N|256
+C0011361|CHI|-|-|-|-|Y|-|dental fistula|-|-|CUSTOM|Disease|-|牙瘘|0|N|256
+C0011392|CHI|-|-|-|-|Y|-|porcelain|-|-|CUSTOM|Treatment|-|瓷器|0|N|256
+C0011593|CHI|-|-|-|-|Y|-|dermabrasion|-|-|CUSTOM|Treatment|-|皮肤擦伤|0|N|256
+C0011603|CHI|-|-|-|-|Y|-|dermatitis|-|-|CUSTOM|Disease|-|皮炎|0|N|256
+C0011606|CHI|-|-|-|-|Y|-|exfoliative dermatitis|-|-|CUSTOM|Disease|-|剥脱性皮炎|0|N|256
+C0011615|CHI|-|-|-|-|Y|-|allergic dermatitis|-|-|CUSTOM|Disease|-|特应性湿疹|0|N|256
+C0011615|CHI|-|-|-|-|Y|-|atopic dermatitis|-|-|CUSTOM|Disease|-|异位性皮炎|0|N|256
+C0011615|CHI|-|-|-|-|Y|-|disseminated neurodermatitis|-|-|CUSTOM|Disease|-|特应性湿疹|0|N|256
+C0011616|CHI|-|-|-|-|Y|-|contact dermatitis|-|-|CUSTOM|Disease|-|接触性湿疹|0|N|256
+C0011616|CHI|-|-|-|-|Y|-|contact dermatitis|-|-|CUSTOM|Disease|-|接触性皮炎|0|N|256
+C0011620|CHI|-|-|-|-|Y|-|stasis dermatitis|-|-|CUSTOM|Disease|-|淤滞性湿疹|0|N|256
+C0011620|CHI|-|-|-|-|Y|-|stasis eczema|-|-|CUSTOM|Disease|-|淤滞性湿疹|0|N|256
+C0011620|CHI|-|-|-|-|Y|-|venous eczema|-|-|CUSTOM|Disease|-|淤滞性湿疹|0|N|256
+C0011636|CHI|-|-|-|-|Y|-|dermatophytosis|-|-|CUSTOM|Disease|-|皮癣菌病|0|N|256
+C0011644|CHI|-|-|-|-|Y|-|scleroderma|-|-|CUSTOM|Disease|-|硬皮病|0|N|256
+C0036421|CHI|-|-|-|-|Y|-|scleroderma|-|-|CUSTOM|Disease|-|硬皮病|0|N|256
+C0011777|CHI|-|-|-|-|Y|-|dexamethasone|-|-|CUSTOM|Treatment|-|地塞米松|0|N|256
+C0011860|CHI|-|-|-|-|Y|-|diabetes|-|-|CUSTOM|Disease|-|糖尿病|0|N|256
+C0011849|CHI|-|-|-|-|Y|-|diabetes|-|-|CUSTOM|Disease|-|糖尿病|0|N|256
+C0011906|CHI|-|-|-|-|Y|-|differential diagnosis|-|-|CUSTOM|Test|-|鉴别诊断|0|N|256
+C0011923|CHI|-|-|-|-|Y|-|imaging|-|-|CUSTOM|Test|-|成像|0|N|256
+C0079595|CHI|-|-|-|-|Y|-|imaging|-|-|CUSTOM|Test|-|成像|0|N|256
+C0011957|CHI|-|-|-|-|Y|-|diamine|-|-|CUSTOM|Treatment|-|二胺|0|N|256
+C0012002|CHI|-|-|-|-|Y|-|electrocautery|-|-|CUSTOM|Treatment|-|电灼|0|N|256
+C0013804|CHI|-|-|-|-|Y|-|electrocautery|-|-|CUSTOM|Treatment|-|电灼|0|N|256
+C0013873|CHI|-|-|-|-|Y|-|electrocautery|-|-|CUSTOM|Treatment|-|电灼|0|N|256
+C0203597|CHI|-|-|-|-|Y|-|electrocautery|-|-|CUSTOM|Treatment|-|电灼|0|N|256
+C0012002|CHI|-|-|-|-|Y|-|electrocoagulation|-|-|CUSTOM|Treatment|-|透热疗法|0|N|256
+C0013804|CHI|-|-|-|-|Y|-|electrocoagulation|-|-|CUSTOM|Treatment|-|透热疗法|0|N|256
+C0013873|CHI|-|-|-|-|Y|-|electrocoagulation|-|-|CUSTOM|Treatment|-|透热疗法|0|N|256
+C0203597|CHI|-|-|-|-|Y|-|electrocoagulation|-|-|CUSTOM|Treatment|-|透热疗法|0|N|256
+C0012444|CHI|-|-|-|-|Y|-|dimetridazole|-|-|CUSTOM|Treatment|-|二甲硝咪唑|0|N|256
+C0012522|CHI|-|-|-|-|Y|-|diphenhydramine|-|-|CUSTOM|Treatment|-|苯海拉明|0|N|256
+C0012546|CHI|-|-|-|-|Y|-|diphtheria|-|-|CUSTOM|Disease|-|白喉|0|N|256
+C0012737|CHI|-|-|-|-|Y|-|dissection|-|-|CUSTOM|Treatment|-|解剖|0|N|256
+C0013103|CHI|-|-|-|-|Y|-|drain|-|-|CUSTOM|Treatment|-|排水|0|N|256
+C0013182|CHI|-|-|-|-|Y|-|allergy medication|-|-|CUSTOM|Disease|-|药物过敏|0|N|256
+C0013182|CHI|-|-|-|-|Y|-|drug allergies|-|-|CUSTOM|Disease|-|药物过敏|0|N|256
+C0013231|CHI|-|-|-|-|Y|-|patent medicine|-|-|CUSTOM|Treatment|-|中成药|0|N|256
+C0013343|CHI|-|-|-|-|Y|-|dye|-|-|CUSTOM|Treatment|-|染料|0|N|256
+C0013547|CHI|-|-|-|-|Y|-|econazole|-|-|CUSTOM|Treatment|-|益康唑|0|N|256
+C0013568|CHI|-|-|-|-|Y|-|ecthyma|-|-|CUSTOM|Disease|-|淤血|0|N|256
+C0013595|CHI|-|-|-|-|Y|-|eczema|-|-|CUSTOM|Disease|-|湿疹|0|N|256
+C4553957|CHI|-|-|-|-|Y|-|eczema|-|-|CUSTOM|Disease|-|湿疹|0|N|256
+C0013595|CHI|-|-|-|-|Y|-|eczema[SEP]eczematous dermatitis|-|-|CUSTOM|Disease|-|湿疹|0|N|256
+C4553957|CHI|-|-|-|-|Y|-|eczema[SEP]eczematous dermatitis|-|-|CUSTOM|Disease|-|湿疹|0|N|256
+C0013595|CHI|-|-|-|-|Y|-|eczematous dermatitis|-|-|CUSTOM|Disease|-|湿疹|0|N|256
+C4553957|CHI|-|-|-|-|Y|-|eczematous dermatitis|-|-|CUSTOM|Disease|-|湿疹|0|N|256
+C0013604|CHI|-|-|-|-|Y|-|edema|-|-|CUSTOM|Disease|-|水肿|0|N|256
+C0013604|CHI|-|-|-|-|Y|-|edematous|-|-|CUSTOM|Disease|-|水肿|0|N|256
+C0013720|CHI|-|-|-|-|Y|-|ehlers-danlos syndrome|-|-|CUSTOM|Disease|-|埃勒斯-丹洛斯综合征|0|N|256
+C0013765|CHI|-|-|-|-|Y|-|elastin|-|-|CUSTOM|Treatment|-|弹性蛋白|0|N|256
+C0013798|CHI|-|-|-|-|Y|-|electrocardiogram|-|-|CUSTOM|Test|-|心电图|0|N|256
+C1623258|CHI|-|-|-|-|Y|-|electrocardiogram|-|-|CUSTOM|Test|-|心电图|0|N|256
+C0013882|CHI|-|-|-|-|Y|-|elephantiasis|-|-|CUSTOM|Disease|-|象皮病|0|N|256
+C0013884|CHI|-|-|-|-|Y|-|elephantiasis|-|-|CUSTOM|Disease|-|象皮病|0|N|256
+C0014122|CHI|-|-|-|-|Y|-|subacute bacterial endocarditis|-|-|CUSTOM|Disease|-|亚急性细菌性心内膜炎|0|N|256
+C0014245|CHI|-|-|-|-|Y|-|endoscopy|-|-|CUSTOM|Test|-|内视镜检|0|N|256
+C0014335|CHI|-|-|-|-|Y|-|enteritis|-|-|CUSTOM|Disease|-|小肠炎|0|N|256
+C0014457|CHI|-|-|-|-|Y|-|eosinophilia|-|-|CUSTOM|Disease|-|嗜酸性粒细胞增多|0|N|256
+C0014511|CHI|-|-|-|-|Y|-|sebaceous cyst|-|-|CUSTOM|Disease|-|皮脂腺囊肿|0|N|256
+C0086809|CHI|-|-|-|-|Y|-|sebaceous cyst|-|-|CUSTOM|Disease|-|皮脂腺囊肿|0|N|256
+C0014511|CHI|-|-|-|-|Y|-|sebaceous cysts|-|-|CUSTOM|Disease|-|皮脂腺囊肿|0|N|256
+C0086809|CHI|-|-|-|-|Y|-|sebaceous cysts|-|-|CUSTOM|Disease|-|皮脂腺囊肿|0|N|256
+C0014511|CHI|-|-|-|-|Y|-|wen[SEP]sebaceous cyst|-|-|CUSTOM|Disease|-|皮脂腺囊肿|0|N|256
+C0086809|CHI|-|-|-|-|Y|-|wen[SEP]sebaceous cyst|-|-|CUSTOM|Disease|-|皮脂腺囊肿|0|N|256
+C0014527|CHI|-|-|-|-|Y|-|epidermolysis bullosa|-|-|CUSTOM|Disease|-|表皮溶解水疱症|0|N|256
+C0014718|CHI|-|-|-|-|Y|-|candidal intertrigo|-|-|CUSTOM|Disease|-|候选交织|0|N|256
+C0014733|CHI|-|-|-|-|Y|-|erysipelas|-|-|CUSTOM|Disease|-|丹毒|0|N|256
+C0014743|CHI|-|-|-|-|Y|-|erythema nodosum|-|-|CUSTOM|Disease|-|结节性红斑|0|N|256
+C0014752|CHI|-|-|-|-|Y|-|erythrasma|-|-|CUSTOM|Disease|-|红斑狼疮|0|N|256
+C0014752|CHI|-|-|-|-|Y|-|erythrasma|-|-|CUSTOM|Disease|-|红藓|0|N|256
+C0014806|CHI|-|-|-|-|Y|-|erythromycin|-|-|CUSTOM|Treatment|-|红霉素|0|N|256
+C0014898|CHI|-|-|-|-|Y|-|ester|-|-|CUSTOM|Treatment|-|酯|0|N|256
+C0015230|CHI|-|-|-|-|Y|-|eruption|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0848332|CHI|-|-|-|-|Y|-|eruption|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0302295|CHI|-|-|-|-|Y|-|eruption|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0015230|CHI|-|-|-|-|Y|-|eruption[SEP]rash|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0848332|CHI|-|-|-|-|Y|-|eruption[SEP]rash|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0302295|CHI|-|-|-|-|Y|-|eruption[SEP]rash|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0015230|CHI|-|-|-|-|Y|-|eruption[SEP]rash[SEP]rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0848332|CHI|-|-|-|-|Y|-|eruption[SEP]rash[SEP]rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0302295|CHI|-|-|-|-|Y|-|eruption[SEP]rash[SEP]rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0015230|CHI|-|-|-|-|Y|-|rash|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0848332|CHI|-|-|-|-|Y|-|rash|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0302295|CHI|-|-|-|-|Y|-|rash|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0015230|CHI|-|-|-|-|Y|-|rash[SEP]rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0848332|CHI|-|-|-|-|Y|-|rash[SEP]rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0302295|CHI|-|-|-|-|Y|-|rash[SEP]rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0015230|CHI|-|-|-|-|Y|-|rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0848332|CHI|-|-|-|-|Y|-|rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0302295|CHI|-|-|-|-|Y|-|rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0015230|CHI|-|-|-|-|Y|-|skin rash|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0848332|CHI|-|-|-|-|Y|-|skin rash|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0302295|CHI|-|-|-|-|Y|-|skin rash|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0015230|CHI|-|-|-|-|Y|-|skin spots|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0848332|CHI|-|-|-|-|Y|-|skin spots|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0302295|CHI|-|-|-|-|Y|-|skin spots|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0015230|CHI|-|-|-|-|Y|-|spots|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0848332|CHI|-|-|-|-|Y|-|spots|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0302295|CHI|-|-|-|-|Y|-|spots|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0015230|CHI|-|-|-|-|Y|-|spots[SEP]rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0848332|CHI|-|-|-|-|Y|-|spots[SEP]rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0302295|CHI|-|-|-|-|Y|-|spots[SEP]rashes|-|-|CUSTOM|Disease|-|疹|0|N|256
+C0015231|CHI|-|-|-|-|Y|-|roseola|-|-|CUSTOM|Disease|-|玫瑰疹|0|N|256
+C0595993|CHI|-|-|-|-|Y|-|roseola|-|-|CUSTOM|Disease|-|玫瑰疹|0|N|256
+C0015376|CHI|-|-|-|-|Y|-|leakage|-|-|CUSTOM|Disease|-|渗漏|0|N|256
+C0015399|CHI|-|-|-|-|Y|-|eye drops|-|-|CUSTOM|Treatment|-|滴眼液|0|N|256
+C0015620|CHI|-|-|-|-|Y|-|famotidine|-|-|CUSTOM|Treatment|-|法莫替丁|0|N|256
+C0015967|CHI|-|-|-|-|Y|-|febrile|-|-|CUSTOM|Disease|-|发热|0|N|256
+C0424755|CHI|-|-|-|-|Y|-|febrile|-|-|CUSTOM|Disease|-|发热|0|N|256
+C4552740|CHI|-|-|-|-|Y|-|febrile|-|-|CUSTOM|Disease|-|发热|0|N|256
+C0015967|CHI|-|-|-|-|Y|-|febrile[SEP]fever|-|-|CUSTOM|Disease|-|发热|0|N|256
+C0424755|CHI|-|-|-|-|Y|-|febrile[SEP]fever|-|-|CUSTOM|Disease|-|发热|0|N|256
+C4552740|CHI|-|-|-|-|Y|-|febrile[SEP]fever|-|-|CUSTOM|Disease|-|发热|0|N|256
+C0015967|CHI|-|-|-|-|Y|-|fever|-|-|CUSTOM|Disease|-|发热|0|N|256
+C0424755|CHI|-|-|-|-|Y|-|fever|-|-|CUSTOM|Disease|-|发热|0|N|256
+C4552740|CHI|-|-|-|-|Y|-|fever|-|-|CUSTOM|Disease|-|发热|0|N|256
+C0016045|CHI|-|-|-|-|Y|-|fibroma|-|-|CUSTOM|Disease|-|纤维瘤|0|N|256
+C0016157|CHI|-|-|-|-|Y|-|fish oil|-|-|CUSTOM|Treatment|-|鱼油|0|N|256
+C0016169|CHI|-|-|-|-|Y|-|fistula|-|-|CUSTOM|Disease|-|瘘|0|N|256
+C0016169|CHI|-|-|-|-|Y|-|fistulas|-|-|CUSTOM|Disease|-|瘘|0|N|256
+C0016277|CHI|-|-|-|-|Y|-|fluconazol|-|-|CUSTOM|Treatment|-|氟康唑|0|N|256
+C0812735|CHI|-|-|-|-|Y|-|fluconazol|-|-|CUSTOM|Treatment|-|氟康唑|0|N|256
+C0016277|CHI|-|-|-|-|Y|-|fluconazole|-|-|CUSTOM|Treatment|-|氟康唑|0|N|256
+C0812735|CHI|-|-|-|-|Y|-|fluconazole|-|-|CUSTOM|Treatment|-|氟康唑|0|N|256
+C0016282|CHI|-|-|-|-|Y|-|flufenamic acid|-|-|CUSTOM|Treatment|-|氟非那米酸|0|N|256
+C0016294|CHI|-|-|-|-|Y|-|flumethasone|-|-|CUSTOM|Treatment|-|氟米松|0|N|256
+C0016318|CHI|-|-|-|-|Y|-|immunofluorescence|-|-|CUSTOM|Test|-|免疫荧光|0|N|256
+C1318793|CHI|-|-|-|-|Y|-|immunofluorescence|-|-|CUSTOM|Test|-|免疫荧光|0|N|256
+C0079603|CHI|-|-|-|-|Y|-|immunofluorescence|-|-|CUSTOM|Test|-|免疫荧光|0|N|256
+C0016360|CHI|-|-|-|-|Y|-|fluorouracil|-|-|CUSTOM|Treatment|-|5-氟尿嘧啶|0|N|256
+C0016382|CHI|-|-|-|-|Y|-|flush|-|-|CUSTOM|Disease|-|脸红|0|N|256
+C0016382|CHI|-|-|-|-|Y|-|flushed|-|-|CUSTOM|Disease|-|脸红|0|N|256
+C0016382|CHI|-|-|-|-|Y|-|flushing|-|-|CUSTOM|Disease|-|脸红|0|N|256
+C0016410|CHI|-|-|-|-|Y|-|vitamin b|-|-|CUSTOM|Treatment|-|维生素b|0|N|256
+C0042849|CHI|-|-|-|-|Y|-|vitamin b|-|-|CUSTOM|Treatment|-|维生素b|0|N|256
+C1704763|CHI|-|-|-|-|Y|-|vitamin b|-|-|CUSTOM|Treatment|-|维生素b|0|N|256
+C0016410|CHI|-|-|-|-|Y|-|vitamin b complex|-|-|CUSTOM|Treatment|-|维生素b|0|N|256
+C0042849|CHI|-|-|-|-|Y|-|vitamin b complex|-|-|CUSTOM|Treatment|-|维生素b|0|N|256
+C1704763|CHI|-|-|-|-|Y|-|vitamin b complex|-|-|CUSTOM|Treatment|-|维生素b|0|N|256
+C0016436|CHI|-|-|-|-|Y|-|folliculitis|-|-|CUSTOM|Disease|-|毛囊炎|0|N|256
+C4552822|CHI|-|-|-|-|Y|-|folliculitis|-|-|CUSTOM|Disease|-|毛囊炎|0|N|256
+C0016470|CHI|-|-|-|-|Y|-|food allergy|-|-|CUSTOM|Disease|-|食物过敏|0|N|256
+C0016514|CHI|-|-|-|-|Y|-|foot and mouth disease|-|-|CUSTOM|Disease|-|口蹄疫|0|N|256
+C0016514|CHI|-|-|-|-|Y|-|hand-foot-mouth disease|-|-|CUSTOM|Disease|-|手足口|0|N|256
+C0016736|CHI|-|-|-|-|Y|-|frostbite|-|-|CUSTOM|Disease|-|冻伤|0|N|256
+C0016826|CHI|-|-|-|-|Y|-|fungal granuloma|-|-|CUSTOM|Disease|-|真菌肉芽肿|0|N|256
+C0016849|CHI|-|-|-|-|Y|-|furfural|-|-|CUSTOM|Treatment|-|糠醛|0|N|256
+C0016867|CHI|-|-|-|-|Y|-|furunculosis|-|-|CUSTOM|Disease|-|毛茛病|0|N|256
+C0016875|CHI|-|-|-|-|Y|-|fusidic acid|-|-|CUSTOM|Treatment|-|夫西地酸|0|N|256
+C0017086|CHI|-|-|-|-|Y|-|gangrenous|-|-|CUSTOM|Disease|-|坏疽|0|N|256
+C0017440|CHI|-|-|-|-|Y|-|gentian violet|-|-|CUSTOM|Treatment|-|龙胆紫|0|N|256
+C0017628|CHI|-|-|-|-|Y|-|glibenclamide|-|-|CUSTOM|Treatment|-|格列苯脲|0|N|256
+C0017638|CHI|-|-|-|-|Y|-|glioma|-|-|CUSTOM|Disease|-|神经胶质瘤|0|N|256
+C0017649|CHI|-|-|-|-|Y|-|globulin|-|-|CUSTOM|Treatment|-|球蛋白|0|N|256
+C0017710|CHI|-|-|-|-|Y|-|glucocorticoid|-|-|CUSTOM|Treatment|-|糖皮质激素|0|N|256
+C0017710|CHI|-|-|-|-|Y|-|glucocorticoids|-|-|CUSTOM|Treatment|-|糖皮质激素|0|N|256
+C0017718|CHI|-|-|-|-|Y|-|glucosamine|-|-|CUSTOM|Treatment|-|氨基葡萄糖|0|N|256
+C0017725|CHI|-|-|-|-|Y|-|glucose|-|-|CUSTOM|Treatment|-|葡萄糖|0|N|256
+C0017814|CHI|-|-|-|-|Y|-|glutaraldehyde|-|-|CUSTOM|Treatment|-|戊二醛|0|N|256
+C0017817|CHI|-|-|-|-|Y|-|glutathione|-|-|CUSTOM|Treatment|-|谷胱甘肽|0|N|256
+C0017861|CHI|-|-|-|-|Y|-|glycerin|-|-|CUSTOM|Treatment|-|甘油|0|N|256
+C0523676|CHI|-|-|-|-|Y|-|glycerin|-|-|CUSTOM|Treatment|-|甘油|0|N|256
+C0017861|CHI|-|-|-|-|Y|-|glycerol|-|-|CUSTOM|Treatment|-|甘油|0|N|256
+C0523676|CHI|-|-|-|-|Y|-|glycerol|-|-|CUSTOM|Treatment|-|甘油|0|N|256
+C0017973|CHI|-|-|-|-|Y|-|mucopolysaccharide|-|-|CUSTOM|Treatment|-|粘多糖|0|N|256
+C0017977|CHI|-|-|-|-|Y|-|glycoside|-|-|CUSTOM|Treatment|-|糖苷|0|N|256
+C0007158|CHI|-|-|-|-|Y|-|glycoside|-|-|CUSTOM|Treatment|-|糖苷|0|N|256
+C0017977|CHI|-|-|-|-|Y|-|glycosides|-|-|CUSTOM|Treatment|-|糖苷|0|N|256
+C0007158|CHI|-|-|-|-|Y|-|glycosides|-|-|CUSTOM|Treatment|-|糖苷|0|N|256
+C0018099|CHI|-|-|-|-|Y|-|gout|-|-|CUSTOM|Disease|-|痛风|0|N|256
+C0018188|CHI|-|-|-|-|Y|-|granuloma|-|-|CUSTOM|Disease|-|肉芽肿|0|N|256
+C5444024|CHI|-|-|-|-|Y|-|granuloma|-|-|CUSTOM|Disease|-|肉芽肿|0|N|256
+C0018193|CHI|-|-|-|-|Y|-|foreign body granuloma|-|-|CUSTOM|Disease|-|异物肉芽肿|0|N|256
+C0018242|CHI|-|-|-|-|Y|-|griseofulvin|-|-|CUSTOM|Treatment|-|灰黄霉素|0|N|256
+C0018513|CHI|-|-|-|-|Y|-|halcinonide|-|-|CUSTOM|Treatment|-|乐肤液|0|N|256
+C0018552|CHI|-|-|-|-|Y|-|hamartoma|-|-|CUSTOM|Disease|-|错构瘤|0|N|256
+C0018799|CHI|-|-|-|-|Y|-|cardiac disease|-|-|CUSTOM|Disease|-|心脏病|0|N|256
+C0018889|CHI|-|-|-|-|Y|-|worms|-|-|CUSTOM|Disease|-|蠕虫|0|N|256
+C0018915|CHI|-|-|-|-|Y|-|vascular endothelioma|-|-|CUSTOM|Disease|-|血管内皮瘤|0|N|256
+C0018916|CHI|-|-|-|-|Y|-|angioma|-|-|CUSTOM|Disease|-|宝石状血管瘤|0|N|256
+C1959588|CHI|-|-|-|-|Y|-|angioma|-|-|CUSTOM|Disease|-|宝石状血管瘤|0|N|256
+C0018916|CHI|-|-|-|-|Y|-|angiomas|-|-|CUSTOM|Disease|-|血管瘤|0|N|256
+C1959588|CHI|-|-|-|-|Y|-|angiomas|-|-|CUSTOM|Disease|-|血管瘤|0|N|256
+C0018916|CHI|-|-|-|-|Y|-|haemangioma|-|-|CUSTOM|Disease|-|血管瘤|0|N|256
+C1959588|CHI|-|-|-|-|Y|-|haemangioma|-|-|CUSTOM|Disease|-|血管瘤|0|N|256
+C0018916|CHI|-|-|-|-|Y|-|hemangioma|-|-|CUSTOM|Disease|-|血管瘤|0|N|256
+C1959588|CHI|-|-|-|-|Y|-|hemangioma|-|-|CUSTOM|Disease|-|血管瘤|0|N|256
+C0018916|CHI|-|-|-|-|Y|-|hemangiomas|-|-|CUSTOM|Disease|-|血管瘤|0|N|256
+C1959588|CHI|-|-|-|-|Y|-|hemangiomas|-|-|CUSTOM|Disease|-|血管瘤|0|N|256
+C0018920|CHI|-|-|-|-|Y|-|capillary hemangioma|-|-|CUSTOM|Disease|-|海绵状血管瘤|0|N|256
+C0206733|CHI|-|-|-|-|Y|-|capillary hemangioma|-|-|CUSTOM|Disease|-|海绵状血管瘤|0|N|256
+C0018920|CHI|-|-|-|-|Y|-|cavernous hemangioma[SEP]strawberry hemangioma[SEP]capillary hemangioma|-|-|CUSTOM|Disease|-|海绵状血管瘤|0|N|256
+C0206733|CHI|-|-|-|-|Y|-|cavernous hemangioma[SEP]strawberry hemangioma[SEP]capillary hemangioma|-|-|CUSTOM|Disease|-|海绵状血管瘤|0|N|256
+C0018920|CHI|-|-|-|-|Y|-|strawberry hemangioma|-|-|CUSTOM|Disease|-|海绵状血管瘤|0|N|256
+C0206733|CHI|-|-|-|-|Y|-|strawberry hemangioma|-|-|CUSTOM|Disease|-|海绵状血管瘤|0|N|256
+C0018939|CHI|-|-|-|-|Y|-|blood diseases|-|-|CUSTOM|Disease|-|血液病|0|N|256
+C0018941|CHI|-|-|-|-|Y|-|blood analysis|-|-|CUSTOM|Test|-|血液检查|0|N|256
+C0018941|CHI|-|-|-|-|Y|-|blood test|-|-|CUSTOM|Test|-|血液检查|0|N|256
+C0018941|CHI|-|-|-|-|Y|-|blood tests|-|-|CUSTOM|Test|-|血液检查|0|N|256
+C0018944|CHI|-|-|-|-|Y|-|hematoma|-|-|CUSTOM|Disease|-|血肿|0|N|256
+C0019053|CHI|-|-|-|-|Y|-|hemolysin|-|-|CUSTOM|Treatment|-|溶血素|0|N|256
+C0019080|CHI|-|-|-|-|Y|-|bleed|-|-|CUSTOM|Disease|-|流血|0|N|256
+C0019080|CHI|-|-|-|-|Y|-|bleeding|-|-|CUSTOM|Disease|-|流血|0|N|256
+C0019080|CHI|-|-|-|-|Y|-|hemorrhage|-|-|CUSTOM|Disease|-|流血|0|N|256
+C0019112|CHI|-|-|-|-|Y|-|hemorrhoids|-|-|CUSTOM|Disease|-|痔疮|0|N|256
+C0019163|CHI|-|-|-|-|Y|-|hepatitis b|-|-|CUSTOM|Disease|-|乙型肝炎|0|N|256
+C0019247|CHI|-|-|-|-|Y|-|genetic disease|-|-|CUSTOM|Disease|-|遗传性疾病|0|N|256
+C0019247|CHI|-|-|-|-|Y|-|hereditary disease|-|-|CUSTOM|Disease|-|遗传性疾病|0|N|256
+C0019270|CHI|-|-|-|-|Y|-|hernia|-|-|CUSTOM|Disease|-|疝|0|N|256
+C0019348|CHI|-|-|-|-|Y|-|herpes|-|-|CUSTOM|Disease|-|疱疹|0|N|256
+C0854331|CHI|-|-|-|-|Y|-|herpes|-|-|CUSTOM|Disease|-|疱疹|0|N|256
+C0019340|CHI|-|-|-|-|Y|-|herpes|-|-|CUSTOM|Disease|-|疱疹|0|N|256
+C0019348|CHI|-|-|-|-|Y|-|herpes simplex|-|-|CUSTOM|Disease|-|单纯疱疹|0|N|256
+C0854331|CHI|-|-|-|-|Y|-|herpes simplex|-|-|CUSTOM|Disease|-|单纯疱疹|0|N|256
+C0019340|CHI|-|-|-|-|Y|-|herpes simplex|-|-|CUSTOM|Disease|-|单纯疱疹|0|N|256
+C0019348|CHI|-|-|-|-|Y|-|herpes simplex infection|-|-|CUSTOM|Disease|-|单纯疱疹|0|N|256
+C0854331|CHI|-|-|-|-|Y|-|herpes simplex infection|-|-|CUSTOM|Disease|-|单纯疱疹|0|N|256
+C0019340|CHI|-|-|-|-|Y|-|herpes simplex infection|-|-|CUSTOM|Disease|-|单纯疱疹|0|N|256
+C0019348|CHI|-|-|-|-|Y|-|simplex herpes|-|-|CUSTOM|Disease|-|单纯疱疹|0|N|256
+C0854331|CHI|-|-|-|-|Y|-|simplex herpes|-|-|CUSTOM|Disease|-|单纯疱疹|0|N|256
+C0019340|CHI|-|-|-|-|Y|-|simplex herpes|-|-|CUSTOM|Disease|-|单纯疱疹|0|N|256
+C0019360|CHI|-|-|-|-|Y|-|herpes zoster|-|-|CUSTOM|Disease|-|带状疱疹|0|N|256
+C4553551|CHI|-|-|-|-|Y|-|herpes zoster|-|-|CUSTOM|Disease|-|带状疱疹|0|N|256
+C0019360|CHI|-|-|-|-|Y|-|shingles|-|-|CUSTOM|Disease|-|带疱|0|N|256
+C4553551|CHI|-|-|-|-|Y|-|shingles|-|-|CUSTOM|Disease|-|带疱|0|N|256
+C0019590|CHI|-|-|-|-|Y|-|anti-histamine|-|-|CUSTOM|Treatment|-|抗组胺治疗|0|N|256
+C0019592|CHI|-|-|-|-|Y|-|anti-histamine|-|-|CUSTOM|Treatment|-|抗组胺治疗|0|N|256
+C3536809|CHI|-|-|-|-|Y|-|anti-histamine|-|-|CUSTOM|Treatment|-|抗组胺治疗|0|N|256
+C0740098|CHI|-|-|-|-|Y|-|anti-histamine|-|-|CUSTOM|Treatment|-|抗组胺治疗|0|N|256
+C0019590|CHI|-|-|-|-|Y|-|antihistamine|-|-|CUSTOM|Treatment|-|抗组胺|0|N|256
+C0019592|CHI|-|-|-|-|Y|-|antihistamine|-|-|CUSTOM|Treatment|-|抗组胺|0|N|256
+C3536809|CHI|-|-|-|-|Y|-|antihistamine|-|-|CUSTOM|Treatment|-|抗组胺|0|N|256
+C0740098|CHI|-|-|-|-|Y|-|antihistamine|-|-|CUSTOM|Treatment|-|抗组胺|0|N|256
+C0019590|CHI|-|-|-|-|Y|-|antihistamine drugs|-|-|CUSTOM|Treatment|-|抗组织胺|0|N|256
+C0019592|CHI|-|-|-|-|Y|-|antihistamine drugs|-|-|CUSTOM|Treatment|-|抗组织胺|0|N|256
+C3536809|CHI|-|-|-|-|Y|-|antihistamine drugs|-|-|CUSTOM|Treatment|-|抗组织胺|0|N|256
+C0740098|CHI|-|-|-|-|Y|-|antihistamine drugs|-|-|CUSTOM|Treatment|-|抗组织胺|0|N|256
+C0019590|CHI|-|-|-|-|Y|-|antihistamine[SEP]antihistamines|-|-|CUSTOM|Treatment|-|抗组织胺药|0|N|256
+C0019592|CHI|-|-|-|-|Y|-|antihistamine[SEP]antihistamines|-|-|CUSTOM|Treatment|-|抗组织胺药|0|N|256
+C3536809|CHI|-|-|-|-|Y|-|antihistamine[SEP]antihistamines|-|-|CUSTOM|Treatment|-|抗组织胺药|0|N|256
+C0740098|CHI|-|-|-|-|Y|-|antihistamine[SEP]antihistamines|-|-|CUSTOM|Treatment|-|抗组织胺药|0|N|256
+C0019590|CHI|-|-|-|-|Y|-|antihistamines|-|-|CUSTOM|Treatment|-|抗组织胺药|0|N|256
+C0019592|CHI|-|-|-|-|Y|-|antihistamines|-|-|CUSTOM|Treatment|-|抗组织胺药|0|N|256
+C3536809|CHI|-|-|-|-|Y|-|antihistamines|-|-|CUSTOM|Treatment|-|抗组织胺药|0|N|256
+C0740098|CHI|-|-|-|-|Y|-|antihistamines|-|-|CUSTOM|Treatment|-|抗组织胺药|0|N|256
+C0019655|CHI|-|-|-|-|Y|-|histoplasmosis|-|-|CUSTOM|Disease|-|组织胞浆菌病|0|N|256
+C0019932|CHI|-|-|-|-|Y|-|hormone|-|-|CUSTOM|Treatment|-|激素|0|N|256
+C5399720|CHI|-|-|-|-|Y|-|hormone|-|-|CUSTOM|Treatment|-|激素|0|N|256
+C0019932|CHI|-|-|-|-|Y|-|hormone[SEP]hormones|-|-|CUSTOM|Treatment|-|激素|0|N|256
+C5399720|CHI|-|-|-|-|Y|-|hormone[SEP]hormones|-|-|CUSTOM|Treatment|-|激素|0|N|256
+C0019932|CHI|-|-|-|-|Y|-|hormones|-|-|CUSTOM|Treatment|-|激素|0|N|256
+C5399720|CHI|-|-|-|-|Y|-|hormones|-|-|CUSTOM|Treatment|-|激素|0|N|256
+C0020281|CHI|-|-|-|-|Y|-|hydrogen peroxide|-|-|CUSTOM|Treatment|-|过氧化氢|0|N|256
+C0020306|CHI|-|-|-|-|Y|-|hydroquinone|-|-|CUSTOM|Treatment|-|对苯二酚|0|N|256
+C0020336|CHI|-|-|-|-|Y|-|hydroxychloroquine|-|-|CUSTOM|Treatment|-|羟氯喹|0|N|256
+C0020431|CHI|-|-|-|-|Y|-|hyperbaric oxygen therapy|-|-|CUSTOM|Treatment|-|高压氧治疗|0|N|256
+C0020433|CHI|-|-|-|-|Y|-|bilirubinemia|-|-|CUSTOM|Disease|-|胆红素血症|0|N|256
+C0020456|CHI|-|-|-|-|Y|-|high blood sugar|-|-|CUSTOM|Disease|-|高血糖|0|N|256
+C0020458|CHI|-|-|-|-|Y|-|hyperhidrosis|-|-|CUSTOM|Disease|-|多汗症|0|N|256
+C4553002|CHI|-|-|-|-|Y|-|hyperhidrosis|-|-|CUSTOM|Disease|-|多汗症|0|N|256
+C0020507|CHI|-|-|-|-|Y|-|hyperplasia|-|-|CUSTOM|Disease|-|增生|0|N|256
+C0020517|CHI|-|-|-|-|Y|-|allergic reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0427965|CHI|-|-|-|-|Y|-|allergic reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C1527304|CHI|-|-|-|-|Y|-|allergic reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0489531|CHI|-|-|-|-|Y|-|allergic reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C3539909|CHI|-|-|-|-|Y|-|allergic reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0740909|CHI|-|-|-|-|Y|-|allergic reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0020517|CHI|-|-|-|-|Y|-|allergic reactions|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0427965|CHI|-|-|-|-|Y|-|allergic reactions|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C1527304|CHI|-|-|-|-|Y|-|allergic reactions|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0489531|CHI|-|-|-|-|Y|-|allergic reactions|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C3539909|CHI|-|-|-|-|Y|-|allergic reactions|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0740909|CHI|-|-|-|-|Y|-|allergic reactions|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0020517|CHI|-|-|-|-|Y|-|allergies|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0427965|CHI|-|-|-|-|Y|-|allergies|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C1527304|CHI|-|-|-|-|Y|-|allergies|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0489531|CHI|-|-|-|-|Y|-|allergies|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C3539909|CHI|-|-|-|-|Y|-|allergies|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0740909|CHI|-|-|-|-|Y|-|allergies|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0020517|CHI|-|-|-|-|Y|-|allergy|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0427965|CHI|-|-|-|-|Y|-|allergy|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C1527304|CHI|-|-|-|-|Y|-|allergy|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0489531|CHI|-|-|-|-|Y|-|allergy|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C3539909|CHI|-|-|-|-|Y|-|allergy|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0740909|CHI|-|-|-|-|Y|-|allergy|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0020517|CHI|-|-|-|-|Y|-|allergy to alcohol|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0427965|CHI|-|-|-|-|Y|-|allergy to alcohol|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C1527304|CHI|-|-|-|-|Y|-|allergy to alcohol|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0489531|CHI|-|-|-|-|Y|-|allergy to alcohol|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C3539909|CHI|-|-|-|-|Y|-|allergy to alcohol|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0740909|CHI|-|-|-|-|Y|-|allergy to alcohol|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0020517|CHI|-|-|-|-|Y|-|hypersensitivity reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0427965|CHI|-|-|-|-|Y|-|hypersensitivity reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C1527304|CHI|-|-|-|-|Y|-|hypersensitivity reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0489531|CHI|-|-|-|-|Y|-|hypersensitivity reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C3539909|CHI|-|-|-|-|Y|-|hypersensitivity reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0740909|CHI|-|-|-|-|Y|-|hypersensitivity reaction|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0020517|CHI|-|-|-|-|Y|-|sensitivity|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0427965|CHI|-|-|-|-|Y|-|sensitivity|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C1527304|CHI|-|-|-|-|Y|-|sensitivity|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0489531|CHI|-|-|-|-|Y|-|sensitivity|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C3539909|CHI|-|-|-|-|Y|-|sensitivity|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0740909|CHI|-|-|-|-|Y|-|sensitivity|-|-|CUSTOM|Disease|-|过敏|0|N|256
+C0020522|CHI|-|-|-|-|Y|-|delayed hypersensitivity reaction|-|-|CUSTOM|Disease|-|迟发性超敏反应|0|N|256
+C0020522|CHI|-|-|-|-|Y|-|delayed hypersensitivity reactions|-|-|CUSTOM|Disease|-|迟发性超敏反应|0|N|256
+C0020538|CHI|-|-|-|-|Y|-|hypertension|-|-|CUSTOM|Disease|-|高血压|0|N|256
+C0020564|CHI|-|-|-|-|Y|-|enlargement|-|-|CUSTOM|Disease|-|肥大|0|N|256
+C0263630|CHI|-|-|-|-|Y|-|enlargement|-|-|CUSTOM|Disease|-|肥大|0|N|256
+C0020564|CHI|-|-|-|-|Y|-|hypertrophic|-|-|CUSTOM|Disease|-|肥大|0|N|256
+C0263630|CHI|-|-|-|-|Y|-|hypertrophic|-|-|CUSTOM|Disease|-|肥大|0|N|256
+C0020564|CHI|-|-|-|-|Y|-|hypertrophy|-|-|CUSTOM|Disease|-|肥大|0|N|256
+C0263630|CHI|-|-|-|-|Y|-|hypertrophy|-|-|CUSTOM|Disease|-|肥大|0|N|256
+C0020580|CHI|-|-|-|-|Y|-|numbness|-|-|CUSTOM|Disease|-|麻木|0|N|256
+C0028643|CHI|-|-|-|-|Y|-|numbness|-|-|CUSTOM|Disease|-|麻木|0|N|256
+C0020676|CHI|-|-|-|-|Y|-|hypothyroidism|-|-|CUSTOM|Disease|-|甲状腺机能低下症|0|N|256
+C4553310|CHI|-|-|-|-|Y|-|hypothyroidism|-|-|CUSTOM|Disease|-|甲状腺机能低下症|0|N|256
+C0020757|CHI|-|-|-|-|Y|-|ichthyosis|-|-|CUSTOM|Disease|-|鱼鳞病|0|N|256
+C0020758|CHI|-|-|-|-|Y|-|ichthyosis|-|-|CUSTOM|Disease|-|鱼鳞病|0|N|256
+C0020852|CHI|-|-|-|-|Y|-|igg|-|-|CUSTOM|Treatment|-|igg|0|N|256
+C0202087|CHI|-|-|-|-|Y|-|igg|-|-|CUSTOM|Treatment|-|igg|0|N|256
+C0020903|CHI|-|-|-|-|Y|-|illusion|-|-|CUSTOM|Disease|-|错觉|0|N|256
+C0020923|CHI|-|-|-|-|Y|-|imidazole|-|-|CUSTOM|Treatment|-|咪唑|0|N|256
+C0020924|CHI|-|-|-|-|Y|-|imidazole|-|-|CUSTOM|Treatment|-|咪唑|0|N|256
+C0020960|CHI|-|-|-|-|Y|-|immune serum|-|-|CUSTOM|Treatment|-|免疫血清|0|N|256
+C0021027|CHI|-|-|-|-|Y|-|immunoglobulin|-|-|CUSTOM|Treatment|-|免疫球蛋白|0|N|256
+C0021083|CHI|-|-|-|-|Y|-|immunotherapy|-|-|CUSTOM|Treatment|-|免疫治疗|0|N|256
+C0005525|CHI|-|-|-|-|Y|-|immunotherapy|-|-|CUSTOM|Treatment|-|免疫治疗|0|N|256
+C0021099|CHI|-|-|-|-|Y|-|impetigo|-|-|CUSTOM|Disease|-|脓疱疮|0|N|256
+C0021218|CHI|-|-|-|-|Y|-|indigo|-|-|CUSTOM|Treatment|-|靛蓝色|0|N|256
+C0021368|CHI|-|-|-|-|Y|-|inflammation|-|-|CUSTOM|Disease|-|炎症|0|N|256
+C0021400|CHI|-|-|-|-|Y|-|influenza|-|-|CUSTOM|Disease|-|流行性感冒|0|N|256
+C0021440|CHI|-|-|-|-|Y|-|intravenous infusion|-|-|CUSTOM|Treatment|-|静脉输注|0|N|256
+C1272892|CHI|-|-|-|-|Y|-|intravenous infusion|-|-|CUSTOM|Treatment|-|静脉输注|0|N|256
+C0021492|CHI|-|-|-|-|Y|-|intramuscular injection|-|-|CUSTOM|Treatment|-|肌肉注射|0|N|256
+C0021492|CHI|-|-|-|-|Y|-|intramuscular injections|-|-|CUSTOM|Treatment|-|肌肉注射|0|N|256
+C0021564|CHI|-|-|-|-|Y|-|insect bite|-|-|CUSTOM|Disease|-|虫咬|0|N|256
+C0021564|CHI|-|-|-|-|Y|-|insect bites|-|-|CUSTOM|Disease|-|昆虫叮咬|0|N|256
+C0021576|CHI|-|-|-|-|Y|-|insecticides|-|-|CUSTOM|Treatment|-|杀虫剂|0|N|256
+C0021807|CHI|-|-|-|-|Y|-|intertrigo|-|-|CUSTOM|Disease|-|交织的|0|N|256
+C0021966|CHI|-|-|-|-|Y|-|iodide|-|-|CUSTOM|Treatment|-|碘化物|0|N|256
+C0021988|CHI|-|-|-|-|Y|-|iodophor|-|-|CUSTOM|Treatment|-|碘伏|0|N|256
+C0022107|CHI|-|-|-|-|Y|-|irritability|-|-|CUSTOM|Disease|-|应激性|0|N|256
+C0022108|CHI|-|-|-|-|Y|-|irritant|-|-|CUSTOM|Treatment|-|令人烦恼的事物|0|N|256
+C0022108|CHI|-|-|-|-|Y|-|irritants|-|-|CUSTOM|Treatment|-|令人烦恼的事物|0|N|256
+C0022265|CHI|-|-|-|-|Y|-|isotretinoin|-|-|CUSTOM|Treatment|-|异维A酸|0|N|256
+C0022548|CHI|-|-|-|-|Y|-|keloid|-|-|CUSTOM|Disease|-|瘢痕疙瘩|0|N|256
+C0022568|CHI|-|-|-|-|Y|-|keratitis|-|-|CUSTOM|Disease|-|角膜炎|0|N|256
+C1557321|CHI|-|-|-|-|Y|-|keratitis|-|-|CUSTOM|Disease|-|角膜炎|0|N|256
+C0022579|CHI|-|-|-|-|Y|-|keratoderma|-|-|CUSTOM|Disease|-|角化病|0|N|256
+C0022585|CHI|-|-|-|-|Y|-|keratolytic|-|-|CUSTOM|Treatment|-|角质软化剂|0|N|256
+C0022595|CHI|-|-|-|-|Y|-|follicular keratosis|-|-|CUSTOM|Disease|-|毛发角化病|0|N|256
+C0263383|CHI|-|-|-|-|Y|-|follicular keratosis|-|-|CUSTOM|Disease|-|毛发角化病|0|N|256
+C0549151|CHI|-|-|-|-|Y|-|follicular keratosis|-|-|CUSTOM|Disease|-|毛发角化病|0|N|256
+C0022595|CHI|-|-|-|-|Y|-|keratosis pilaris|-|-|CUSTOM|Disease|-|毛发角化病|0|N|256
+C0263383|CHI|-|-|-|-|Y|-|keratosis pilaris|-|-|CUSTOM|Disease|-|毛发角化病|0|N|256
+C0549151|CHI|-|-|-|-|Y|-|keratosis pilaris|-|-|CUSTOM|Disease|-|毛发角化病|0|N|256
+C0022602|CHI|-|-|-|-|Y|-|actinic keratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C0022593|CHI|-|-|-|-|Y|-|actinic keratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C4553962|CHI|-|-|-|-|Y|-|actinic keratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C0870082|CHI|-|-|-|-|Y|-|actinic keratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C0022602|CHI|-|-|-|-|Y|-|hyperkeratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C0022593|CHI|-|-|-|-|Y|-|hyperkeratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C4553962|CHI|-|-|-|-|Y|-|hyperkeratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C0870082|CHI|-|-|-|-|Y|-|hyperkeratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C0022602|CHI|-|-|-|-|Y|-|keratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C0022593|CHI|-|-|-|-|Y|-|keratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C4553962|CHI|-|-|-|-|Y|-|keratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C0870082|CHI|-|-|-|-|Y|-|keratosis|-|-|CUSTOM|Disease|-|角化症|0|N|256
+C0022603|CHI|-|-|-|-|Y|-|seborrheic keratosis|-|-|CUSTOM|Disease|-|老年性疣|0|N|256
+C0022603|CHI|-|-|-|-|Y|-|senile wart[SEP]seborrheic wart[SEP]seborrheic keratosis|-|-|CUSTOM|Disease|-|老年性疣|0|N|256
+C0022625|CHI|-|-|-|-|Y|-|ketoconazole|-|-|CUSTOM|Treatment|-|酮康唑|0|N|256
+C0022642|CHI|-|-|-|-|Y|-|ketotifen|-|-|CUSTOM|Treatment|-|酮替酚|0|N|256
+C0022738|CHI|-|-|-|-|Y|-|nielsen's disease|-|-|CUSTOM|Disease|-|尼尔森病|0|N|256
+C0022885|CHI|-|-|-|-|Y|-|lab test|-|-|CUSTOM|Test|-|实验室检查|0|N|256
+C3831328|CHI|-|-|-|-|Y|-|lab test|-|-|CUSTOM|Test|-|实验室检查|0|N|256
+C0022885|CHI|-|-|-|-|Y|-|laboratory test|-|-|CUSTOM|Test|-|测试|0|N|256
+C3831328|CHI|-|-|-|-|Y|-|laboratory test|-|-|CUSTOM|Test|-|测试|0|N|256
+C0022885|CHI|-|-|-|-|Y|-|laboratory tests|-|-|CUSTOM|Test|-|测试|0|N|256
+C3831328|CHI|-|-|-|-|Y|-|laboratory tests|-|-|CUSTOM|Test|-|测试|0|N|256
+C0022885|CHI|-|-|-|-|Y|-|test|-|-|CUSTOM|Test|-|检查|0|N|256
+C3831328|CHI|-|-|-|-|Y|-|test|-|-|CUSTOM|Test|-|检查|0|N|256
+C0022885|CHI|-|-|-|-|Y|-|tests|-|-|CUSTOM|Test|-|测试|0|N|256
+C3831328|CHI|-|-|-|-|Y|-|tests|-|-|CUSTOM|Test|-|测试|0|N|256
+C0023052|CHI|-|-|-|-|Y|-|laryngeal edema|-|-|CUSTOM|Disease|-|喉水肿|0|N|256
+C0023087|CHI|-|-|-|-|Y|-|laser surgery|-|-|CUSTOM|Treatment|-|雷射手术|0|N|256
+C0023087|CHI|-|-|-|-|Y|-|surgery, laser|-|-|CUSTOM|Treatment|-|雷射手术|0|N|256
+C0023223|CHI|-|-|-|-|Y|-|leg ulcer|-|-|CUSTOM|Disease|-|腿部溃疡|0|N|256
+C0023223|CHI|-|-|-|-|Y|-|leg ulcers|-|-|CUSTOM|Disease|-|腿部溃疡|0|N|256
+C0023267|CHI|-|-|-|-|Y|-|fibroid|-|-|CUSTOM|Disease|-|纤维样的|0|N|256
+C0023343|CHI|-|-|-|-|Y|-|leprosy|-|-|CUSTOM|Treatment|-|麻风病|0|N|256
+C0051981|CHI|-|-|-|-|Y|-|leprosy|-|-|CUSTOM|Treatment|-|麻风病|0|N|256
+C0023348|CHI|-|-|-|-|Y|-|lepromatous leprosy|-|-|CUSTOM|Disease|-|麻风|0|N|256
+C0023508|CHI|-|-|-|-|Y|-|white blood cell count|-|-|CUSTOM|Test|-|白细胞计数|0|N|256
+C0023531|CHI|-|-|-|-|Y|-|leukoplakia|-|-|CUSTOM|Disease|-|口腔白斑|0|N|256
+C0023556|CHI|-|-|-|-|Y|-|levamisole|-|-|CUSTOM|Treatment|-|左旋咪唑|0|N|256
+C0023566|CHI|-|-|-|-|Y|-|levonorgestrel|-|-|CUSTOM|Treatment|-|左炔诺孕酮|0|N|256
+C0023643|CHI|-|-|-|-|Y|-|lichen|-|-|CUSTOM|Disease|-|苔藓|0|N|256
+C5444025|CHI|-|-|-|-|Y|-|lichen|-|-|CUSTOM|Disease|-|苔藓|0|N|256
+C0023643|CHI|-|-|-|-|Y|-|lichen disease|-|-|CUSTOM|Disease|-|苔藓|0|N|256
+C5444025|CHI|-|-|-|-|Y|-|lichen disease|-|-|CUSTOM|Disease|-|苔藓|0|N|256
+C0023646|CHI|-|-|-|-|Y|-|lichen planus|-|-|CUSTOM|Disease|-|扁平苔藓|0|N|256
+C0023646|CHI|-|-|-|-|Y|-|lichen planus|-|-|CUSTOM|Disease|-|扁平苔癣|0|N|256
+C0023649|CHI|-|-|-|-|Y|-|hypertrophic lichen planus|-|-|CUSTOM|Disease|-|增生性扁平苔藓|0|N|256
+C0023650|CHI|-|-|-|-|Y|-|lichen planus linearis|-|-|CUSTOM|Disease|-|线状扁平苔藓|0|N|256
+C0023650|CHI|-|-|-|-|Y|-|linear lichen planus|-|-|CUSTOM|Disease|-|线状扁平苔藓|0|N|256
+C0023652|CHI|-|-|-|-|Y|-|lichen sclerosus|-|-|CUSTOM|Disease|-|硬化性苔藓|0|N|256
+C0023652|CHI|-|-|-|-|Y|-|lichen sclerosus et atrophicus|-|-|CUSTOM|Disease|-|硬化性苔藓|0|N|256
+C0023654|CHI|-|-|-|-|Y|-|lichenification|-|-|CUSTOM|Disease|-|苔藓样变|0|N|256
+C0241123|CHI|-|-|-|-|Y|-|lichenification|-|-|CUSTOM|Disease|-|苔藓样变|0|N|256
+C0023653|CHI|-|-|-|-|Y|-|lichenification|-|-|CUSTOM|Disease|-|苔藓样变|0|N|256
+C0023660|CHI|-|-|-|-|Y|-|lidocaine|-|-|CUSTOM|Treatment|-|利多卡因|0|N|256
+C0023690|CHI|-|-|-|-|Y|-|ligation|-|-|CUSTOM|Treatment|-|结扎|0|N|256
+C0023726|CHI|-|-|-|-|Y|-|lincomycin|-|-|CUSTOM|Treatment|-|林可霉素|0|N|256
+C0023779|CHI|-|-|-|-|Y|-|lipid|-|-|CUSTOM|Treatment|-|脂类|0|N|256
+C0523744|CHI|-|-|-|-|Y|-|lipid|-|-|CUSTOM|Treatment|-|脂类|0|N|256
+C0023795|CHI|-|-|-|-|Y|-|lipoid proteinosis|-|-|CUSTOM|Disease|-|类脂蛋白沉积|0|N|256
+C0023798|CHI|-|-|-|-|Y|-|lipoma|-|-|CUSTOM|Disease|-|脂肪瘤|0|N|256
+C0023891|CHI|-|-|-|-|Y|-|alcoholic cirrhosis|-|-|CUSTOM|Disease|-|酒精性肝硬化|0|N|256
+C0023895|CHI|-|-|-|-|Y|-|liver|-|-|CUSTOM|Treatment|-|肝脏|0|N|256
+C0023899|CHI|-|-|-|-|Y|-|liver|-|-|CUSTOM|Treatment|-|肝脏|0|N|256
+C0496870|CHI|-|-|-|-|Y|-|liver|-|-|CUSTOM|Treatment|-|肝脏|0|N|256
+C0721399|CHI|-|-|-|-|Y|-|liver|-|-|CUSTOM|Treatment|-|肝脏|0|N|256
+C0023972|CHI|-|-|-|-|Y|-|lomustine|-|-|CUSTOM|Treatment|-|洛莫司汀|0|N|256
+C0024131|CHI|-|-|-|-|Y|-|discoid lupus erythematosus[SEP]dle|-|-|CUSTOM|Disease|-|盘状红斑狼疮|0|N|256
+C0409974|CHI|-|-|-|-|Y|-|discoid lupus erythematosus[SEP]dle|-|-|CUSTOM|Disease|-|盘状红斑狼疮|0|N|256
+C0024138|CHI|-|-|-|-|Y|-|discoid lupus erythematosus[SEP]dle|-|-|CUSTOM|Disease|-|盘状红斑狼疮|0|N|256
+C0024141|CHI|-|-|-|-|Y|-|discoid lupus erythematosus[SEP]dle|-|-|CUSTOM|Disease|-|盘状红斑狼疮|0|N|256
+C0024131|CHI|-|-|-|-|Y|-|discoid lupus erythematosus[SEP]lupus vulgaris|-|-|CUSTOM|Disease|-|dle|0|N|256
+C0409974|CHI|-|-|-|-|Y|-|discoid lupus erythematosus[SEP]lupus vulgaris|-|-|CUSTOM|Disease|-|dle|0|N|256
+C0024138|CHI|-|-|-|-|Y|-|discoid lupus erythematosus[SEP]lupus vulgaris|-|-|CUSTOM|Disease|-|dle|0|N|256
+C0024141|CHI|-|-|-|-|Y|-|discoid lupus erythematosus[SEP]lupus vulgaris|-|-|CUSTOM|Disease|-|dle|0|N|256
+C0024131|CHI|-|-|-|-|Y|-|dle|-|-|CUSTOM|Disease|-|dle|0|N|256
+C0409974|CHI|-|-|-|-|Y|-|dle|-|-|CUSTOM|Disease|-|dle|0|N|256
+C0024138|CHI|-|-|-|-|Y|-|dle|-|-|CUSTOM|Disease|-|dle|0|N|256
+C0024141|CHI|-|-|-|-|Y|-|dle|-|-|CUSTOM|Disease|-|dle|0|N|256
+C0024131|CHI|-|-|-|-|Y|-|lupus|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0409974|CHI|-|-|-|-|Y|-|lupus|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0024138|CHI|-|-|-|-|Y|-|lupus|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0024141|CHI|-|-|-|-|Y|-|lupus|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0024131|CHI|-|-|-|-|Y|-|lupus erythematosus|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0409974|CHI|-|-|-|-|Y|-|lupus erythematosus|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0024138|CHI|-|-|-|-|Y|-|lupus erythematosus|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0024141|CHI|-|-|-|-|Y|-|lupus erythematosus|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0024131|CHI|-|-|-|-|Y|-|lupus vulgaris|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0409974|CHI|-|-|-|-|Y|-|lupus vulgaris|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0024138|CHI|-|-|-|-|Y|-|lupus vulgaris|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0024141|CHI|-|-|-|-|Y|-|lupus vulgaris|-|-|CUSTOM|Disease|-|寻常狼疮|0|N|256
+C0024198|CHI|-|-|-|-|Y|-|lyme disease|-|-|CUSTOM|Treatment|-|莱姆病|0|N|256
+C0717360|CHI|-|-|-|-|Y|-|lyme disease|-|-|CUSTOM|Treatment|-|莱姆病|0|N|256
+C0024221|CHI|-|-|-|-|Y|-|lymphangioma|-|-|CUSTOM|Disease|-|淋巴管瘤|0|N|256
+C0024299|CHI|-|-|-|-|Y|-|lymphoma|-|-|CUSTOM|Disease|-|淋巴瘤|0|N|256
+C1332206|CHI|-|-|-|-|Y|-|lymphoma|-|-|CUSTOM|Disease|-|淋巴瘤|0|N|256
+C1332979|CHI|-|-|-|-|Y|-|lymphoma|-|-|CUSTOM|Disease|-|淋巴瘤|0|N|256
+C0024480|CHI|-|-|-|-|Y|-|magnesium sulfate|-|-|CUSTOM|Treatment|-|硫酸镁|0|N|256
+C0024524|CHI|-|-|-|-|Y|-|softening|-|-|CUSTOM|Disease|-|软化|0|N|256
+C0024530|CHI|-|-|-|-|Y|-|malaria|-|-|CUSTOM|Treatment|-|疟疾|0|N|256
+C0206255|CHI|-|-|-|-|Y|-|malaria|-|-|CUSTOM|Treatment|-|疟疾|0|N|256
+C3541306|CHI|-|-|-|-|Y|-|malaria|-|-|CUSTOM|Treatment|-|疟疾|0|N|256
+C0024899|CHI|-|-|-|-|Y|-|mastocytosis|-|-|CUSTOM|Disease|-|肥大细胞增多|0|N|256
+C0025007|CHI|-|-|-|-|Y|-|measles|-|-|CUSTOM|Treatment|-|麻疹|0|N|256
+C0025010|CHI|-|-|-|-|Y|-|measles|-|-|CUSTOM|Treatment|-|麻疹|0|N|256
+C0025152|CHI|-|-|-|-|Y|-|mefenamic acid|-|-|CUSTOM|Treatment|-|甲芬那酸|0|N|256
+C0025196|CHI|-|-|-|-|Y|-|melanin|-|-|CUSTOM|Treatment|-|黑色素|0|N|256
+C0025202|CHI|-|-|-|-|Y|-|malignant melanoma|-|-|CUSTOM|Disease|-|黑色素瘤|0|N|256
+C0796561|CHI|-|-|-|-|Y|-|malignant melanoma|-|-|CUSTOM|Disease|-|黑色素瘤|0|N|256
+C1302746|CHI|-|-|-|-|Y|-|malignant melanoma|-|-|CUSTOM|Disease|-|黑色素瘤|0|N|256
+C0025202|CHI|-|-|-|-|Y|-|melanoma|-|-|CUSTOM|Disease|-|黑色素瘤|0|N|256
+C0796561|CHI|-|-|-|-|Y|-|melanoma|-|-|CUSTOM|Disease|-|黑色素瘤|0|N|256
+C1302746|CHI|-|-|-|-|Y|-|melanoma|-|-|CUSTOM|Disease|-|黑色素瘤|0|N|256
+C0025218|CHI|-|-|-|-|Y|-|melasma|-|-|CUSTOM|Disease|-|黄褐斑|0|N|256
+C0025368|CHI|-|-|-|-|Y|-|menthol|-|-|CUSTOM|Treatment|-|薄荷醇|0|N|256
+C0025384|CHI|-|-|-|-|Y|-|mepivacaine|-|-|CUSTOM|Treatment|-|甲哌卡因|0|N|256
+C0025517|CHI|-|-|-|-|Y|-|metabolic disease|-|-|CUSTOM|Disease|-|代谢性疾病|0|N|256
+C0025644|CHI|-|-|-|-|Y|-|methimazole|-|-|CUSTOM|Treatment|-|甲基咪唑|0|N|256
+C0025815|CHI|-|-|-|-|Y|-|methylprednisolone|-|-|CUSTOM|Treatment|-|甲基强的松龙|0|N|256
+C0025872|CHI|-|-|-|-|Y|-|metronidazole|-|-|CUSTOM|Treatment|-|甲硝唑|0|N|256
+C0025942|CHI|-|-|-|-|Y|-|miconazole|-|-|CUSTOM|Treatment|-|咪康唑|0|N|256
+C0025942|CHI|-|-|-|-|Y|-|miconazole|-|-|CUSTOM|Treatment|-|达克宁|0|N|256
+C0026018|CHI|-|-|-|-|Y|-|microscopic examination|-|-|CUSTOM|Test|-|镜检|0|N|256
+C0026018|CHI|-|-|-|-|Y|-|microscopy|-|-|CUSTOM|Test|-|显微镜|0|N|256
+C0026187|CHI|-|-|-|-|Y|-|minocycline|-|-|CUSTOM|Treatment|-|米诺环素|0|N|256
+C0026393|CHI|-|-|-|-|Y|-|molluscum contagiosum|-|-|CUSTOM|Disease|-|传染性软疣|0|N|256
+C0026636|CHI|-|-|-|-|Y|-|mouth disease|-|-|CUSTOM|Disease|-|口腔疾病|0|N|256
+C0026652|CHI|-|-|-|-|Y|-|moxibustion|-|-|CUSTOM|Treatment|-|艾灸|0|N|256
+C0026683|CHI|-|-|-|-|Y|-|mucinous cyst|-|-|CUSTOM|Disease|-|黏液囊肿|0|N|256
+C0026683|CHI|-|-|-|-|Y|-|mucocele|-|-|CUSTOM|Disease|-|粘液囊肿|0|N|256
+C0026683|CHI|-|-|-|-|Y|-|mucous cyst|-|-|CUSTOM|Disease|-|粘液囊肿|0|N|256
+C0026918|CHI|-|-|-|-|Y|-|mycobacterium|-|-|CUSTOM|Disease|-|分枝杆菌|0|N|256
+C0026918|CHI|-|-|-|-|Y|-|mycobacterium infection|-|-|CUSTOM|Disease|-|分枝杆菌属|0|N|256
+C0026919|CHI|-|-|-|-|Y|-|atypical mycobacterial infection|-|-|CUSTOM|Disease|-|非典型分枝杆菌感染|0|N|256
+C0026946|CHI|-|-|-|-|Y|-|fungal disease|-|-|CUSTOM|Disease|-|真菌病|0|N|256
+C0026946|CHI|-|-|-|-|Y|-|fungal infection|-|-|CUSTOM|Disease|-|真菌病|0|N|256
+C0026946|CHI|-|-|-|-|Y|-|fungal infection[SEP]fungus infection|-|-|CUSTOM|Disease|-|真菌病|0|N|256
+C0026946|CHI|-|-|-|-|Y|-|fungal infections|-|-|CUSTOM|Disease|-|真菌病|0|N|256
+C0026946|CHI|-|-|-|-|Y|-|fungus infection|-|-|CUSTOM|Disease|-|真菌病|0|N|256
+C0026948|CHI|-|-|-|-|Y|-|mycosis fungoides|-|-|CUSTOM|Disease|-|蕈样霉菌病|0|N|256
+C0027343|CHI|-|-|-|-|Y|-|ingrown nail|-|-|CUSTOM|Disease|-|向内钉|0|N|256
+C0027343|CHI|-|-|-|-|Y|-|ingrown toenail|-|-|CUSTOM|Disease|-|向内钉|0|N|256
+C0027533|CHI|-|-|-|-|Y|-|neck tumors|-|-|CUSTOM|Disease|-|颈部肿瘤|0|N|256
+C0027538|CHI|-|-|-|-|Y|-|necrobiosis lipoidica|-|-|CUSTOM|Disease|-|类脂质渐进性坏死|0|N|256
+C0027543|CHI|-|-|-|-|Y|-|ischemic necrosis|-|-|CUSTOM|Disease|-|缺血性坏死|0|N|256
+C0027544|CHI|-|-|-|-|Y|-|slough|-|-|CUSTOM|Disease|-|斯劳|0|N|256
+C0027607|CHI|-|-|-|-|Y|-|neomycin sulfate|-|-|CUSTOM|Treatment|-|硫酸新霉素|0|N|256
+C0027651|CHI|-|-|-|-|Y|-|neoplasms|-|-|CUSTOM|Disease|-|肿瘤|0|N|256
+C3273930|CHI|-|-|-|-|Y|-|neoplasms|-|-|CUSTOM|Disease|-|肿瘤|0|N|256
+C0027651|CHI|-|-|-|-|Y|-|tumor|-|-|CUSTOM|Disease|-|肿瘤|0|N|256
+C3273930|CHI|-|-|-|-|Y|-|tumor|-|-|CUSTOM|Disease|-|肿瘤|0|N|256
+C0027651|CHI|-|-|-|-|Y|-|tumor[SEP]tumors|-|-|CUSTOM|Disease|-|肿瘤|0|N|256
+C3273930|CHI|-|-|-|-|Y|-|tumor[SEP]tumors|-|-|CUSTOM|Disease|-|肿瘤|0|N|256
+C0027651|CHI|-|-|-|-|Y|-|tumors|-|-|CUSTOM|Disease|-|肿瘤|0|N|256
+C3273930|CHI|-|-|-|-|Y|-|tumors|-|-|CUSTOM|Disease|-|肿瘤|0|N|256
+C0027796|CHI|-|-|-|-|Y|-|neuralgia|-|-|CUSTOM|Disease|-|神经痛|0|N|256
+C0027809|CHI|-|-|-|-|Y|-|neurilemmomas|-|-|CUSTOM|Disease|-|神经鞘瘤|0|N|256
+C0027822|CHI|-|-|-|-|Y|-|neurodermatitis|-|-|CUSTOM|Disease|-|神经性皮炎|0|N|256
+C0027822|CHI|-|-|-|-|Y|-|neurodermatitis|-|-|CUSTOM|Disease|-|神皮|0|N|256
+C0027858|CHI|-|-|-|-|Y|-|neuromas|-|-|CUSTOM|Disease|-|神经瘤|0|N|256
+C0027932|CHI|-|-|-|-|Y|-|neurosis|-|-|CUSTOM|Disease|-|神经症|0|N|256
+C0027932|CHI|-|-|-|-|Y|-|psychoneurosis|-|-|CUSTOM|Disease|-|神经症|0|N|256
+C0027961|CHI|-|-|-|-|Y|-|ota's nevus|-|-|CUSTOM|Disease|-|ota痣|0|N|256
+C0028027|CHI|-|-|-|-|Y|-|niacinamide|-|-|CUSTOM|Treatment|-|烟酰胺|0|N|256
+C1142101|CHI|-|-|-|-|Y|-|niacinamide|-|-|CUSTOM|Treatment|-|烟酰胺|0|N|256
+C0028027|CHI|-|-|-|-|Y|-|nicotinamide|-|-|CUSTOM|Treatment|-|烟酰胺|0|N|256
+C1142101|CHI|-|-|-|-|Y|-|nicotinamide|-|-|CUSTOM|Treatment|-|烟酰胺|0|N|256
+C0028066|CHI|-|-|-|-|Y|-|nifedipine|-|-|CUSTOM|Treatment|-|硝苯地平|0|N|256
+C0028126|CHI|-|-|-|-|Y|-|nitrazepam|-|-|CUSTOM|Treatment|-|硝西泮|0|N|256
+C0028156|CHI|-|-|-|-|Y|-|nitrofurantoin|-|-|CUSTOM|Treatment|-|呋喃妥因|0|N|256
+C0028258|CHI|-|-|-|-|Y|-|nodular vasculitis|-|-|CUSTOM|Disease|-|结节性血管炎|0|N|256
+C0028259|CHI|-|-|-|-|Y|-|nodule|-|-|CUSTOM|Disease|-|结节|0|N|256
+C0028259|CHI|-|-|-|-|Y|-|nodules|-|-|CUSTOM|Disease|-|结节|0|N|256
+C0028425|CHI|-|-|-|-|Y|-|norwegian scabies|-|-|CUSTOM|Disease|-|挪威疥疮|0|N|256
+C0028606|CHI|-|-|-|-|Y|-|nucleic acid|-|-|CUSTOM|Treatment|-|核酸|0|N|256
+C0028741|CHI|-|-|-|-|Y|-|nystatin|-|-|CUSTOM|Treatment|-|耐丝菌素|0|N|256
+C0028754|CHI|-|-|-|-|Y|-|obese|-|-|CUSTOM|Disease|-|肥胖的|0|N|256
+C0028768|CHI|-|-|-|-|Y|-|obsessive-compulsive disorder|-|-|CUSTOM|Disease|-|强迫症|0|N|256
+C0028796|CHI|-|-|-|-|Y|-|occupational dermatitis|-|-|CUSTOM|Disease|-|职业性皮炎|0|N|256
+C0028797|CHI|-|-|-|-|Y|-|occupational disease|-|-|CUSTOM|Disease|-|职业病|0|N|256
+C0028798|CHI|-|-|-|-|Y|-|occupational exposure|-|-|CUSTOM|Disease|-|职业暴露|0|N|256
+C0029405|CHI|-|-|-|-|Y|-|big head|-|-|CUSTOM|Disease|-|大头|0|N|256
+C0029923|CHI|-|-|-|-|Y|-|egg white|-|-|CUSTOM|Treatment|-|蛋白|0|N|256
+C2730227|CHI|-|-|-|-|Y|-|egg white|-|-|CUSTOM|Treatment|-|蛋白|0|N|256
+C0029988|CHI|-|-|-|-|Y|-|oxalate|-|-|CUSTOM|Treatment|-|草酸盐|0|N|256
+C3669135|CHI|-|-|-|-|Y|-|oxalate|-|-|CUSTOM|Treatment|-|草酸盐|0|N|256
+C0030232|CHI|-|-|-|-|Y|-|pale|-|-|CUSTOM|Disease|-|灰白的|0|N|256
+C0678215|CHI|-|-|-|-|Y|-|pale|-|-|CUSTOM|Disease|-|灰白的|0|N|256
+C0241137|CHI|-|-|-|-|Y|-|pale|-|-|CUSTOM|Disease|-|灰白的|0|N|256
+C1275397|CHI|-|-|-|-|Y|-|pale|-|-|CUSTOM|Disease|-|灰白的|0|N|256
+C0030246|CHI|-|-|-|-|Y|-|acropustulosis|-|-|CUSTOM|Disease|-|肢端脓疱病|0|N|256
+C0030246|CHI|-|-|-|-|Y|-|palmoplantar pustulosis|-|-|CUSTOM|Disease|-|肢端脓疱病|0|N|256
+C0030327|CHI|-|-|-|-|Y|-|lupus panniculitis|-|-|CUSTOM|Disease|-|狼疮性脂膜炎|0|N|256
+C0030332|CHI|-|-|-|-|Y|-|panophthalmitis|-|-|CUSTOM|Disease|-|泛眼炎|0|N|256
+C0030491|CHI|-|-|-|-|Y|-|parapsoriasis|-|-|CUSTOM|Disease|-|副银屑病|0|N|256
+C0030499|CHI|-|-|-|-|Y|-|parasitic diseases|-|-|CUSTOM|Disease|-|寄生虫病|0|N|256
+C0030578|CHI|-|-|-|-|Y|-|paronychia|-|-|CUSTOM|Disease|-|甲周炎|0|N|256
+C4552739|CHI|-|-|-|-|Y|-|paronychia|-|-|CUSTOM|Disease|-|甲周炎|0|N|256
+C0030578|CHI|-|-|-|-|Y|-|perionychia|-|-|CUSTOM|Disease|-|甲沟炎|0|N|256
+C4552739|CHI|-|-|-|-|Y|-|perionychia|-|-|CUSTOM|Disease|-|甲沟炎|0|N|256
+C0030646|CHI|-|-|-|-|Y|-|patch test|-|-|CUSTOM|Test|-|斑贴|0|N|256
+C0030756|CHI|-|-|-|-|Y|-|lice|-|-|CUSTOM|Disease|-|虱子|0|N|256
+C0030805|CHI|-|-|-|-|Y|-|bullous pemphigoid|-|-|CUSTOM|Disease|-|类天疱疮|0|N|256
+C0030805|CHI|-|-|-|-|Y|-|pemphigoid|-|-|CUSTOM|Disease|-|类天疱疮|0|N|256
+C0030807|CHI|-|-|-|-|Y|-|pemphigus|-|-|CUSTOM|Disease|-|天疱疮|0|N|256
+C0030809|CHI|-|-|-|-|Y|-|pemphigus vulgaris|-|-|CUSTOM|Disease|-|寻常性天疱疮|0|N|256
+C0030842|CHI|-|-|-|-|Y|-|penicillin|-|-|CUSTOM|Treatment|-|青霉素|0|N|256
+C5238840|CHI|-|-|-|-|Y|-|penicillin|-|-|CUSTOM|Treatment|-|青霉素|0|N|256
+C0031036|CHI|-|-|-|-|Y|-|polyarteritis nodosa|-|-|CUSTOM|Disease|-|结节性多动脉炎|0|N|256
+C0031046|CHI|-|-|-|-|Y|-|pericarditis|-|-|CUSTOM|Disease|-|心包炎|0|N|256
+C1963211|CHI|-|-|-|-|Y|-|pericarditis|-|-|CUSTOM|Disease|-|心包炎|0|N|256
+C0031154|CHI|-|-|-|-|Y|-|peritonitis|-|-|CUSTOM|Disease|-|腹膜炎|0|N|256
+C0031184|CHI|-|-|-|-|Y|-|perphenazine|-|-|CUSTOM|Treatment|-|奋乃静|0|N|256
+C0524232|CHI|-|-|-|-|Y|-|perphenazine|-|-|CUSTOM|Treatment|-|奋乃静|0|N|256
+C0031256|CHI|-|-|-|-|Y|-|petechial hemorrhage|-|-|CUSTOM|Disease|-|瘀点出血|0|N|256
+C0031269|CHI|-|-|-|-|Y|-|peutz-jeghers syndrome|-|-|CUSTOM|Disease|-|peutz-jeghers综合征|0|N|256
+C0031350|CHI|-|-|-|-|Y|-|pharyngitis|-|-|CUSTOM|Disease|-|咽喉痛|0|N|256
+C0242429|CHI|-|-|-|-|Y|-|pharyngitis|-|-|CUSTOM|Disease|-|咽喉痛|0|N|256
+C0729771|CHI|-|-|-|-|Y|-|pharyngitis|-|-|CUSTOM|Disease|-|咽喉痛|0|N|256
+C0031350|CHI|-|-|-|-|Y|-|sore throat|-|-|CUSTOM|Disease|-|咽喉痛|0|N|256
+C0242429|CHI|-|-|-|-|Y|-|sore throat|-|-|CUSTOM|Disease|-|咽喉痛|0|N|256
+C0729771|CHI|-|-|-|-|Y|-|sore throat|-|-|CUSTOM|Disease|-|咽喉痛|0|N|256
+C0031408|CHI|-|-|-|-|Y|-|pheniramine|-|-|CUSTOM|Treatment|-|苯吡丙胺|0|N|256
+C0031428|CHI|-|-|-|-|Y|-|phenol|-|-|CUSTOM|Treatment|-|苯酚|0|N|256
+C0070570|CHI|-|-|-|-|Y|-|phenol|-|-|CUSTOM|Treatment|-|苯酚|0|N|256
+C0031516|CHI|-|-|-|-|Y|-|scented|-|-|CUSTOM|Treatment|-|气味|0|N|256
+C0031736|CHI|-|-|-|-|Y|-|polymorphous light eruption|-|-|CUSTOM|Disease|-|多形光喷发|0|N|256
+C0031740|CHI|-|-|-|-|Y|-|photodynamic therapy|-|-|CUSTOM|Treatment|-|光动力疗法|0|N|256
+C0031765|CHI|-|-|-|-|Y|-|light therapy|-|-|CUSTOM|Treatment|-|光疗|0|N|256
+C0031765|CHI|-|-|-|-|Y|-|phototherapy|-|-|CUSTOM|Treatment|-|光疗|0|N|256
+C0031938|CHI|-|-|-|-|Y|-|pine tar|-|-|CUSTOM|Treatment|-|松焦油|0|N|256
+C0032024|CHI|-|-|-|-|Y|-|pityriasis|-|-|CUSTOM|Disease|-|糠疹|0|N|256
+C0032026|CHI|-|-|-|-|Y|-|pityriasis rosea|-|-|CUSTOM|Disease|-|玫瑰糠疹|0|N|256
+C0032026|CHI|-|-|-|-|Y|-|rosea pityriasis|-|-|CUSTOM|Disease|-|玫瑰糠疹|0|N|256
+C0032027|CHI|-|-|-|-|Y|-|pityriasis rubra pilaris|-|-|CUSTOM|Disease|-|毛孔性红糠疹|0|N|256
+C0032064|CHI|-|-|-|-|Y|-|pest|-|-|CUSTOM|Disease|-|害虫|0|N|256
+C0032181|CHI|-|-|-|-|Y|-|platelet count|-|-|CUSTOM|Test|-|血小板|0|N|256
+C0032181|CHI|-|-|-|-|Y|-|platelet counts|-|-|CUSTOM|Test|-|血小板|0|N|256
+C0032181|CHI|-|-|-|-|Y|-|platelets|-|-|CUSTOM|Test|-|血小板|0|N|256
+C0032333|CHI|-|-|-|-|Y|-|podophyllin|-|-|CUSTOM|Treatment|-|泊多芬|0|N|256
+C0032334|CHI|-|-|-|-|Y|-|podophyllotoxin|-|-|CUSTOM|Treatment|-|鬼臼毒素|0|N|256
+C0032346|CHI|-|-|-|-|Y|-|poison|-|-|CUSTOM|Treatment|-|毒物|0|N|256
+C0032371|CHI|-|-|-|-|Y|-|polio|-|-|CUSTOM|Disease|-|脊髓灰质炎|0|N|256
+C0032433|CHI|-|-|-|-|Y|-|polyamine|-|-|CUSTOM|Treatment|-|多胺|0|N|256
+C0032535|CHI|-|-|-|-|Y|-|polymyxin b|-|-|CUSTOM|Treatment|-|多粘菌素b|0|N|256
+C0032539|CHI|-|-|-|-|Y|-|polymyxin|-|-|CUSTOM|Treatment|-|多黏菌素|0|N|256
+C0032584|CHI|-|-|-|-|Y|-|polyp|-|-|CUSTOM|Disease|-|息肉|0|N|256
+C0032584|CHI|-|-|-|-|Y|-|polyps|-|-|CUSTOM|Disease|-|息肉|0|N|256
+C0032594|CHI|-|-|-|-|Y|-|polysaccharide|-|-|CUSTOM|Treatment|-|多糖|0|N|256
+C0032633|CHI|-|-|-|-|Y|-|dyshidrosis|-|-|CUSTOM|Disease|-|汗疱疹|0|N|256
+C0032633|CHI|-|-|-|-|Y|-|dyshidrotic eczema|-|-|CUSTOM|Disease|-|绒球|0|N|256
+C0032633|CHI|-|-|-|-|Y|-|pompholyx|-|-|CUSTOM|Disease|-|绒球|0|N|256
+C0032708|CHI|-|-|-|-|Y|-|porphyria|-|-|CUSTOM|Disease|-|紫质症|0|N|256
+C0032768|CHI|-|-|-|-|Y|-|postherpetic neuralgia|-|-|CUSTOM|Disease|-|带状疱疹后神经痛|0|N|256
+C0032831|CHI|-|-|-|-|Y|-|potassium iodide|-|-|CUSTOM|Treatment|-|碘化钾|0|N|256
+C0032838|CHI|-|-|-|-|Y|-|potassium permanganate|-|-|CUSTOM|Treatment|-|高锰酸钾|0|N|256
+C0032857|CHI|-|-|-|-|Y|-|povidone iodine|-|-|CUSTOM|Treatment|-|聚维酮碘|0|N|256
+C0032857|CHI|-|-|-|-|Y|-|povidone-iodine|-|-|CUSTOM|Treatment|-|聚维酮碘|0|N|256
+C0032952|CHI|-|-|-|-|Y|-|prednisone|-|-|CUSTOM|Treatment|-|泼尼松|0|N|256
+C0033119|CHI|-|-|-|-|Y|-|prick|-|-|CUSTOM|Disease|-|扎|0|N|256
+C0439821|CHI|-|-|-|-|Y|-|prick|-|-|CUSTOM|Disease|-|扎|0|N|256
+C0033229|CHI|-|-|-|-|Y|-|prochlorperazine|-|-|CUSTOM|Treatment|-|普氯拉嗪|0|N|256
+C0033684|CHI|-|-|-|-|Y|-|protein|-|-|CUSTOM|Treatment|-|蛋白质|0|N|256
+C0033684|CHI|-|-|-|-|Y|-|proteins|-|-|CUSTOM|Treatment|-|蛋白质|0|N|256
+C0033771|CHI|-|-|-|-|Y|-|itchy rash|-|-|CUSTOM|Disease|-|痒疹|0|N|256
+C0033771|CHI|-|-|-|-|Y|-|prurigo|-|-|CUSTOM|Disease|-|瘙痒症|0|N|256
+C0033771|CHI|-|-|-|-|Y|-|pruritic rash|-|-|CUSTOM|Disease|-|瘙痒症|0|N|256
+C0033774|CHI|-|-|-|-|Y|-|itch|-|-|CUSTOM|Disease|-|痒|0|N|256
+C1559138|CHI|-|-|-|-|Y|-|itch|-|-|CUSTOM|Disease|-|痒|0|N|256
+C0033774|CHI|-|-|-|-|Y|-|itching|-|-|CUSTOM|Disease|-|痒|0|N|256
+C1559138|CHI|-|-|-|-|Y|-|itching|-|-|CUSTOM|Disease|-|痒|0|N|256
+C0033774|CHI|-|-|-|-|Y|-|itching[SEP]pruritus|-|-|CUSTOM|Disease|-|痒|0|N|256
+C1559138|CHI|-|-|-|-|Y|-|itching[SEP]pruritus|-|-|CUSTOM|Disease|-|痒|0|N|256
+C0033774|CHI|-|-|-|-|Y|-|itchy|-|-|CUSTOM|Disease|-|痒|0|N|256
+C1559138|CHI|-|-|-|-|Y|-|itchy|-|-|CUSTOM|Disease|-|痒|0|N|256
+C0033774|CHI|-|-|-|-|Y|-|pruritus|-|-|CUSTOM|Disease|-|痒|0|N|256
+C1559138|CHI|-|-|-|-|Y|-|pruritus|-|-|CUSTOM|Disease|-|痒|0|N|256
+C0033839|CHI|-|-|-|-|Y|-|pseudorabies|-|-|CUSTOM|Disease|-|伪狂犬病|0|N|256
+C0033860|CHI|-|-|-|-|Y|-|psoriasis|-|-|CUSTOM|Disease|-|银屑病|0|N|256
+C0033860|CHI|-|-|-|-|Y|-|psoriasis|-|-|CUSTOM|Disease|-|牛皮癣|0|N|256
+C0034150|CHI|-|-|-|-|Y|-|purpura|-|-|CUSTOM|Disease|-|紫癜|0|N|256
+C4552909|CHI|-|-|-|-|Y|-|purpura|-|-|CUSTOM|Disease|-|紫癜|0|N|256
+C0034152|CHI|-|-|-|-|Y|-|allergic purpura|-|-|CUSTOM|Disease|-|过敏性紫癜|0|N|256
+C0034212|CHI|-|-|-|-|Y|-|pyoderma|-|-|CUSTOM|Disease|-|脓皮病|0|N|256
+C0034214|CHI|-|-|-|-|Y|-|pyogenic granuloma|-|-|CUSTOM|Disease|-|化脓性肉芽肿|0|N|256
+C0085653|CHI|-|-|-|-|Y|-|pyogenic granuloma|-|-|CUSTOM|Disease|-|化脓性肉芽肿|0|N|256
+C0263218|CHI|-|-|-|-|Y|-|pyogenic granuloma|-|-|CUSTOM|Disease|-|化脓性肉芽肿|0|N|256
+C0034392|CHI|-|-|-|-|Y|-|quercetin|-|-|CUSTOM|Treatment|-|槲皮素|0|N|256
+C0034417|CHI|-|-|-|-|Y|-|quinine|-|-|CUSTOM|Treatment|-|奎宁|0|N|256
+C0034575|CHI|-|-|-|-|Y|-|dental x-ray|-|-|CUSTOM|Test|-|牙科x射线|0|N|256
+C0034595|CHI|-|-|-|-|Y|-|radioactive isotopes|-|-|CUSTOM|Treatment|-|放射性同位素|0|N|256
+C0034665|CHI|-|-|-|-|Y|-|ranitidine|-|-|CUSTOM|Treatment|-|雷尼替丁|0|N|256
+C0034734|CHI|-|-|-|-|Y|-|raynaud's disease|-|-|CUSTOM|Disease|-|雷诺病|0|N|256
+C0034761|CHI|-|-|-|-|Y|-|reagin|-|-|CUSTOM|Treatment|-|reagin|0|N|256
+C0034813|CHI|-|-|-|-|Y|-|histamine receptor|-|-|CUSTOM|Treatment|-|组胺受体|0|N|256
+C0034814|CHI|-|-|-|-|Y|-|h1 receptor|-|-|CUSTOM|Treatment|-|h1受体|0|N|256
+C0034815|CHI|-|-|-|-|Y|-|h2 receptor|-|-|CUSTOM|Treatment|-|h2受体|0|N|256
+C0035243|CHI|-|-|-|-|Y|-|respiratory tract infection|-|-|CUSTOM|Disease|-|呼吸道感染|0|N|256
+C0035339|CHI|-|-|-|-|Y|-|retinoid|-|-|CUSTOM|Treatment|-|类视黄醇|0|N|256
+C3536891|CHI|-|-|-|-|Y|-|retinoid|-|-|CUSTOM|Treatment|-|类视黄醇|0|N|256
+C0035339|CHI|-|-|-|-|Y|-|retinoids|-|-|CUSTOM|Treatment|-|类视黄醇|0|N|256
+C3536891|CHI|-|-|-|-|Y|-|retinoids|-|-|CUSTOM|Treatment|-|类视黄醇|0|N|256
+C0035448|CHI|-|-|-|-|Y|-|rheumatoid factor|-|-|CUSTOM|Treatment|-|类风湿因子|0|N|256
+C0201660|CHI|-|-|-|-|Y|-|rheumatoid factor|-|-|CUSTOM|Treatment|-|类风湿因子|0|N|256
+C0035448|CHI|-|-|-|-|Y|-|rheumatoid factors|-|-|CUSTOM|Treatment|-|类风湿因子|0|N|256
+C0201660|CHI|-|-|-|-|Y|-|rheumatoid factors|-|-|CUSTOM|Treatment|-|类风湿因子|0|N|256
+C0035466|CHI|-|-|-|-|Y|-|rhinophyma|-|-|CUSTOM|Disease|-|鼻瘤|0|N|256
+C0035525|CHI|-|-|-|-|Y|-|ribavirin|-|-|CUSTOM|Treatment|-|利巴韦林|0|N|256
+C0035608|CHI|-|-|-|-|Y|-|rifampicin|-|-|CUSTOM|Treatment|-|利福平|0|N|256
+C0035854|CHI|-|-|-|-|Y|-|rosacea|-|-|CUSTOM|Disease|-|酒糟鼻|0|N|256
+C0035891|CHI|-|-|-|-|Y|-|roxithromycin|-|-|CUSTOM|Treatment|-|罗红霉素|0|N|256
+C0035920|CHI|-|-|-|-|Y|-|rubella|-|-|CUSTOM|Treatment|-|风疹|0|N|256
+C0035923|CHI|-|-|-|-|Y|-|rubella|-|-|CUSTOM|Treatment|-|风疹|0|N|256
+C0035976|CHI|-|-|-|-|Y|-|rutin|-|-|CUSTOM|Treatment|-|芦丁|0|N|256
+C0036079|CHI|-|-|-|-|Y|-|salicylic acid|-|-|CUSTOM|Treatment|-|水杨酸|0|N|256
+C0036082|CHI|-|-|-|-|Y|-|saline|-|-|CUSTOM|Treatment|-|生理盐水|0|N|256
+C0036202|CHI|-|-|-|-|Y|-|sarcoidosis|-|-|CUSTOM|Disease|-|结节病|0|N|256
+C0036262|CHI|-|-|-|-|Y|-|scabies|-|-|CUSTOM|Disease|-|疥疮|0|N|256
+C0036280|CHI|-|-|-|-|Y|-|burn scar|-|-|CUSTOM|Disease|-|烧伤疤痕|0|N|256
+C0036420|CHI|-|-|-|-|Y|-|localized scleroderma|-|-|CUSTOM|Disease|-|局限性硬皮病|0|N|256
+C0036429|CHI|-|-|-|-|Y|-|sclerotic|-|-|CUSTOM|Disease|-|硬化的|0|N|256
+C0036454|CHI|-|-|-|-|Y|-|blind spots|-|-|CUSTOM|Disease|-|盲点|0|N|256
+C0344233|CHI|-|-|-|-|Y|-|blind spots|-|-|CUSTOM|Disease|-|盲点|0|N|256
+C0036467|CHI|-|-|-|-|Y|-|scrofula|-|-|CUSTOM|Disease|-|疥疮|0|N|256
+C0036472|CHI|-|-|-|-|Y|-|scrub typhus|-|-|CUSTOM|Disease|-|恙虫病|0|N|256
+C0036502|CHI|-|-|-|-|Y|-|sebaceous gland disease|-|-|CUSTOM|Disease|-|皮脂腺疾病|0|N|256
+C0036508|CHI|-|-|-|-|Y|-|seborrheic dermatitis|-|-|CUSTOM|Disease|-|脂溢性皮炎|0|N|256
+C0036508|CHI|-|-|-|-|Y|-|seborrheic eczema|-|-|CUSTOM|Disease|-|脂溢性湿疹|0|N|256
+C0036557|CHI|-|-|-|-|Y|-|sedative|-|-|CUSTOM|Treatment|-|镇静剂|0|N|256
+C0020592|CHI|-|-|-|-|Y|-|sedative|-|-|CUSTOM|Treatment|-|镇静剂|0|N|256
+C0036557|CHI|-|-|-|-|Y|-|sedatives|-|-|CUSTOM|Treatment|-|镇静剂|0|N|256
+C0020592|CHI|-|-|-|-|Y|-|sedatives|-|-|CUSTOM|Treatment|-|镇静剂|0|N|256
+C0036679|CHI|-|-|-|-|Y|-|separation|-|-|CUSTOM|Disease|-|分离|0|N|256
+C0036690|CHI|-|-|-|-|Y|-|blood poisoning|-|-|CUSTOM|Disease|-|败血症|0|N|256
+C0243026|CHI|-|-|-|-|Y|-|blood poisoning|-|-|CUSTOM|Disease|-|败血症|0|N|256
+C0036690|CHI|-|-|-|-|Y|-|sepsis|-|-|CUSTOM|Disease|-|败血症|0|N|256
+C0243026|CHI|-|-|-|-|Y|-|sepsis|-|-|CUSTOM|Disease|-|败血症|0|N|256
+C0036845|CHI|-|-|-|-|Y|-|sesame oil|-|-|CUSTOM|Treatment|-|芝麻油|0|N|256
+C0037125|CHI|-|-|-|-|Y|-|silver|-|-|CUSTOM|Treatment|-|银|0|N|256
+C0947651|CHI|-|-|-|-|Y|-|silver|-|-|CUSTOM|Treatment|-|银|0|N|256
+C1318876|CHI|-|-|-|-|Y|-|silver|-|-|CUSTOM|Treatment|-|银|0|N|256
+C0037134|CHI|-|-|-|-|Y|-|sulfadiazine silver|-|-|CUSTOM|Treatment|-|磺胺嘧啶银|0|N|256
+C0037278|CHI|-|-|-|-|Y|-|skin infection|-|-|CUSTOM|Disease|-|皮肤感染|0|N|256
+C0007642|CHI|-|-|-|-|Y|-|skin infection|-|-|CUSTOM|Disease|-|皮肤感染|0|N|256
+C4552736|CHI|-|-|-|-|Y|-|skin infection|-|-|CUSTOM|Disease|-|皮肤感染|0|N|256
+C5551358|CHI|-|-|-|-|Y|-|skin infection|-|-|CUSTOM|Disease|-|皮肤感染|0|N|256
+C0037284|CHI|-|-|-|-|Y|-|skin lesion|-|-|CUSTOM|Disease|-|皮肤损伤|0|N|256
+C0037284|CHI|-|-|-|-|Y|-|skin lesion[SEP]skin lesions|-|-|CUSTOM|Disease|-|皮肤损伤|0|N|256
+C0037284|CHI|-|-|-|-|Y|-|skin lesions|-|-|CUSTOM|Disease|-|皮肤损伤|0|N|256
+C0037285|CHI|-|-|-|-|Y|-|skin manifestation|-|-|CUSTOM|Disease|-|皮肤表现|0|N|256
+C0037285|CHI|-|-|-|-|Y|-|skin manifestations|-|-|CUSTOM|Disease|-|皮肤表现|0|N|256
+C0037286|CHI|-|-|-|-|Y|-|skin tumor|-|-|CUSTOM|Disease|-|皮肤肿瘤|0|N|256
+C0037293|CHI|-|-|-|-|Y|-|skin tag|-|-|CUSTOM|Disease|-|皮赘|0|N|256
+C0037293|CHI|-|-|-|-|Y|-|skin tag[SEP]soft fibroma|-|-|CUSTOM|Disease|-|皮赘|0|N|256
+C0037293|CHI|-|-|-|-|Y|-|skin tags|-|-|CUSTOM|Disease|-|皮赘|0|N|256
+C0037293|CHI|-|-|-|-|Y|-|soft fibroma|-|-|CUSTOM|Disease|-|皮赘|0|N|256
+C0037293|CHI|-|-|-|-|Y|-|soft fibroma[SEP]skin tags|-|-|CUSTOM|Disease|-|皮赘|0|N|256
+C0037296|CHI|-|-|-|-|Y|-|skin tests|-|-|CUSTOM|Test|-|皮肤试验|0|N|256
+C0037297|CHI|-|-|-|-|Y|-|skin grafting|-|-|CUSTOM|Treatment|-|植皮|0|N|256
+C0037299|CHI|-|-|-|-|Y|-|skin ulcers|-|-|CUSTOM|Disease|-|皮肤溃疡|0|N|256
+C0037366|CHI|-|-|-|-|Y|-|smoke|-|-|CUSTOM|Treatment|-|烟|0|N|256
+C0037513|CHI|-|-|-|-|Y|-|heparin sodium|-|-|CUSTOM|Treatment|-|肝素钠|0|N|256
+C0982192|CHI|-|-|-|-|Y|-|heparin sodium|-|-|CUSTOM|Treatment|-|肝素钠|0|N|256
+C0037513|CHI|-|-|-|-|Y|-|sodium heparin|-|-|CUSTOM|Treatment|-|肝素钠|0|N|256
+C0982192|CHI|-|-|-|-|Y|-|sodium heparin|-|-|CUSTOM|Treatment|-|肝素钠|0|N|256
+C0038034|CHI|-|-|-|-|Y|-|sporotrichosis|-|-|CUSTOM|Disease|-|孢子丝菌病|0|N|256
+C0038160|CHI|-|-|-|-|Y|-|staphylococcus infection|-|-|CUSTOM|Disease|-|葡萄球菌感染|0|N|256
+C0038179|CHI|-|-|-|-|Y|-|starch|-|-|CUSTOM|Treatment|-|淀粉|0|N|256
+C0038317|CHI|-|-|-|-|Y|-|steroid|-|-|CUSTOM|Treatment|-|甾体|0|N|256
+C0038317|CHI|-|-|-|-|Y|-|steroids|-|-|CUSTOM|Treatment|-|甾体|0|N|256
+C0038340|CHI|-|-|-|-|Y|-|sting|-|-|CUSTOM|Disease|-|Sting|0|N|256
+C0038425|CHI|-|-|-|-|Y|-|streptomycin|-|-|CUSTOM|Treatment|-|链霉素|0|N|256
+C0038435|CHI|-|-|-|-|Y|-|stress|-|-|CUSTOM|Disease|-|压力|0|N|256
+C0723460|CHI|-|-|-|-|Y|-|stress|-|-|CUSTOM|Disease|-|压力|0|N|256
+C0038443|CHI|-|-|-|-|Y|-|mental stress|-|-|CUSTOM|Disease|-|精神压力|0|N|256
+C0038506|CHI|-|-|-|-|Y|-|stuttering|-|-|CUSTOM|Disease|-|口吃|0|N|256
+C0038665|CHI|-|-|-|-|Y|-|sulbactam|-|-|CUSTOM|Treatment|-|舒巴坦|0|N|256
+C0038760|CHI|-|-|-|-|Y|-|sulfonamides|-|-|CUSTOM|Treatment|-|磺酰胺类|0|N|256
+C0599503|CHI|-|-|-|-|Y|-|sulfonamides|-|-|CUSTOM|Treatment|-|磺酰胺类|0|N|256
+C0038774|CHI|-|-|-|-|Y|-|sulfur|-|-|CUSTOM|Treatment|-|硫|0|N|256
+C2348286|CHI|-|-|-|-|Y|-|sulfur|-|-|CUSTOM|Treatment|-|硫|0|N|256
+C0038814|CHI|-|-|-|-|Y|-|solar dermatitis|-|-|CUSTOM|Disease|-|晒伤|0|N|256
+C1442835|CHI|-|-|-|-|Y|-|solar dermatitis|-|-|CUSTOM|Disease|-|晒伤|0|N|256
+C3249880|CHI|-|-|-|-|Y|-|solar dermatitis|-|-|CUSTOM|Disease|-|晒伤|0|N|256
+C0038814|CHI|-|-|-|-|Y|-|sunburn|-|-|CUSTOM|Disease|-|晒伤|0|N|256
+C1442835|CHI|-|-|-|-|Y|-|sunburn|-|-|CUSTOM|Disease|-|晒伤|0|N|256
+C3249880|CHI|-|-|-|-|Y|-|sunburn|-|-|CUSTOM|Disease|-|晒伤|0|N|256
+C0038904|CHI|-|-|-|-|Y|-|minor surgery|-|-|CUSTOM|Treatment|-|小手术|0|N|256
+C0038999|CHI|-|-|-|-|Y|-|bulging|-|-|CUSTOM|Disease|-|肿|0|N|256
+C0333056|CHI|-|-|-|-|Y|-|bulging|-|-|CUSTOM|Disease|-|肿|0|N|256
+C0038999|CHI|-|-|-|-|Y|-|protruding|-|-|CUSTOM|Disease|-|肿胀|0|N|256
+C0333056|CHI|-|-|-|-|Y|-|protruding|-|-|CUSTOM|Disease|-|肿胀|0|N|256
+C0038999|CHI|-|-|-|-|Y|-|protrusion|-|-|CUSTOM|Disease|-|肿大|0|N|256
+C0333056|CHI|-|-|-|-|Y|-|protrusion|-|-|CUSTOM|Disease|-|肿大|0|N|256
+C0038999|CHI|-|-|-|-|Y|-|protrusions|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0333056|CHI|-|-|-|-|Y|-|protrusions|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0038999|CHI|-|-|-|-|Y|-|swell|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0333056|CHI|-|-|-|-|Y|-|swell|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0038999|CHI|-|-|-|-|Y|-|swelled|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0333056|CHI|-|-|-|-|Y|-|swelled|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0038999|CHI|-|-|-|-|Y|-|swelling|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0333056|CHI|-|-|-|-|Y|-|swelling|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0038999|CHI|-|-|-|-|Y|-|swollen|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0333056|CHI|-|-|-|-|Y|-|swollen|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0038999|CHI|-|-|-|-|Y|-|swollen[SEP]swelling|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0333056|CHI|-|-|-|-|Y|-|swollen[SEP]swelling|-|-|CUSTOM|Disease|-|膨胀|0|N|256
+C0039128|CHI|-|-|-|-|Y|-|syphilis|-|-|CUSTOM|Disease|-|梅毒|0|N|256
+C0039267|CHI|-|-|-|-|Y|-|talcum powder|-|-|CUSTOM|Treatment|-|滑石粉|0|N|256
+C1963644|CHI|-|-|-|-|Y|-|talcum powder|-|-|CUSTOM|Treatment|-|滑石粉|0|N|256
+C0039294|CHI|-|-|-|-|Y|-|tannic acid|-|-|CUSTOM|Treatment|-|鞣酸|0|N|256
+C0039644|CHI|-|-|-|-|Y|-|tetracycline|-|-|CUSTOM|Treatment|-|四环霉素|0|N|256
+C1744619|CHI|-|-|-|-|Y|-|tetracycline|-|-|CUSTOM|Treatment|-|四环霉素|0|N|256
+C0039644|CHI|-|-|-|-|Y|-|tetracyclines|-|-|CUSTOM|Treatment|-|四环霉素|0|N|256
+C1744619|CHI|-|-|-|-|Y|-|tetracyclines|-|-|CUSTOM|Treatment|-|四环霉素|0|N|256
+C0039840|CHI|-|-|-|-|Y|-|vitamin b1|-|-|CUSTOM|Treatment|-|维生素b1|0|N|256
+C0373727|CHI|-|-|-|-|Y|-|vitamin b1|-|-|CUSTOM|Treatment|-|维生素b1|0|N|256
+C0040018|CHI|-|-|-|-|Y|-|thrombin|-|-|CUSTOM|Treatment|-|凝血酶|0|N|256
+C0040021|CHI|-|-|-|-|Y|-|thromboangiitis obliterans|-|-|CUSTOM|Disease|-|血栓闭塞性脉管炎|0|N|256
+C0040106|CHI|-|-|-|-|Y|-|thymosin|-|-|CUSTOM|Treatment|-|胸腺肽|0|N|256
+C0040134|CHI|-|-|-|-|Y|-|thyroid|-|-|CUSTOM|Treatment|-|甲状腺|0|N|256
+C0040247|CHI|-|-|-|-|Y|-|ringworm|-|-|CUSTOM|Disease|-|癣|0|N|256
+C0040252|CHI|-|-|-|-|Y|-|ringworm|-|-|CUSTOM|Disease|-|癣|0|N|256
+C0040247|CHI|-|-|-|-|Y|-|tinea|-|-|CUSTOM|Disease|-|癣|0|N|256
+C0040252|CHI|-|-|-|-|Y|-|tinea|-|-|CUSTOM|Disease|-|癣|0|N|256
+C0040247|CHI|-|-|-|-|Y|-|tinea corporis|-|-|CUSTOM|Disease|-|体藓|0|N|256
+C0040252|CHI|-|-|-|-|Y|-|tinea corporis|-|-|CUSTOM|Disease|-|体藓|0|N|256
+C0040247|CHI|-|-|-|-|Y|-|tinea infection|-|-|CUSTOM|Disease|-|癣|0|N|256
+C0040252|CHI|-|-|-|-|Y|-|tinea infection|-|-|CUSTOM|Disease|-|癣|0|N|256
+C0040247|CHI|-|-|-|-|Y|-|tinea[SEP]ringworm|-|-|CUSTOM|Disease|-|癣|0|N|256
+C0040252|CHI|-|-|-|-|Y|-|tinea[SEP]ringworm|-|-|CUSTOM|Disease|-|癣|0|N|256
+C0040250|CHI|-|-|-|-|Y|-|tinea capitis|-|-|CUSTOM|Disease|-|头癣|0|N|256
+C0040250|CHI|-|-|-|-|Y|-|tinea capitis[SEP]scalp ringworm|-|-|CUSTOM|Disease|-|头皮癣|0|N|256
+C0040250|CHI|-|-|-|-|Y|-|tinea scalp|-|-|CUSTOM|Disease|-|头皮癣|0|N|256
+C0040254|CHI|-|-|-|-|Y|-|favus|-|-|CUSTOM|Disease|-|蚕豆|0|N|256
+C0040254|CHI|-|-|-|-|Y|-|tinea favosa|-|-|CUSTOM|Disease|-|蚕豆|0|N|256
+C0040255|CHI|-|-|-|-|Y|-|tinea imbricata|-|-|CUSTOM|Disease|-|叠瓦癣|0|N|256
+C0040259|CHI|-|-|-|-|Y|-|athlete's foot|-|-|CUSTOM|Disease|-|足癣|0|N|256
+C0040259|CHI|-|-|-|-|Y|-|athlete's foot[SEP]tinea pedis|-|-|CUSTOM|Disease|-|足癣|0|N|256
+C0040259|CHI|-|-|-|-|Y|-|foot ringworm|-|-|CUSTOM|Disease|-|足癣|0|N|256
+C0040259|CHI|-|-|-|-|Y|-|tinea pedis|-|-|CUSTOM|Disease|-|足癣|0|N|256
+C0040261|CHI|-|-|-|-|Y|-|fungal nail infection|-|-|CUSTOM|Disease|-|蹄癣|0|N|256
+C0040261|CHI|-|-|-|-|Y|-|onychomycosis|-|-|CUSTOM|Disease|-|灰指甲|0|N|256
+C0040261|CHI|-|-|-|-|Y|-|tinea unguium|-|-|CUSTOM|Disease|-|甲癣|0|N|256
+C0040262|CHI|-|-|-|-|Y|-|pityriasis versicolor|-|-|CUSTOM|Disease|-|汗斑|0|N|256
+C0040262|CHI|-|-|-|-|Y|-|pityriasis versicolor[SEP]tinea versicolor|-|-|CUSTOM|Disease|-|花斑癣|0|N|256
+C0040262|CHI|-|-|-|-|Y|-|tinea versicolor|-|-|CUSTOM|Disease|-|花斑癣|0|N|256
+C0040262|CHI|-|-|-|-|Y|-|tinea versicolor[SEP]pityriasis versicolor|-|-|CUSTOM|Disease|-|花斑癣|0|N|256
+C0040405|CHI|-|-|-|-|Y|-|ct scan|-|-|CUSTOM|Test|-|ct扫描|0|N|256
+C0040425|CHI|-|-|-|-|Y|-|tonsillitis|-|-|CUSTOM|Disease|-|扁桃体炎|0|N|256
+C0040462|CHI|-|-|-|-|Y|-|toothpaste|-|-|CUSTOM|Treatment|-|牙膏|0|N|256
+C0040549|CHI|-|-|-|-|Y|-|toxin|-|-|CUSTOM|Treatment|-|毒素|0|N|256
+C0040549|CHI|-|-|-|-|Y|-|toxins|-|-|CUSTOM|Treatment|-|毒素|0|N|256
+C0040673|CHI|-|-|-|-|Y|-|transfer factor|-|-|CUSTOM|Treatment|-|传递系数|0|N|256
+C1280474|CHI|-|-|-|-|Y|-|transfer factor|-|-|CUSTOM|Treatment|-|传递系数|0|N|256
+C0040843|CHI|-|-|-|-|Y|-|syphilis test|-|-|CUSTOM|Disease|-|梅毒试验|0|N|256
+C0919842|CHI|-|-|-|-|Y|-|syphilis test|-|-|CUSTOM|Disease|-|梅毒试验|0|N|256
+C0040843|CHI|-|-|-|-|Y|-|treponema pallidum|-|-|CUSTOM|Disease|-|梅毒试验|0|N|256
+C0919842|CHI|-|-|-|-|Y|-|treponema pallidum|-|-|CUSTOM|Disease|-|梅毒试验|0|N|256
+C0040845|CHI|-|-|-|-|Y|-|retinoic acid|-|-|CUSTOM|Treatment|-|维A酸|0|N|256
+C0040845|CHI|-|-|-|-|Y|-|tretinoin|-|-|CUSTOM|Treatment|-|维A酸|0|N|256
+C0040845|CHI|-|-|-|-|Y|-|vitamin a acid|-|-|CUSTOM|Treatment|-|维A酸|0|N|256
+C0040864|CHI|-|-|-|-|Y|-|triamcinolone|-|-|CUSTOM|Treatment|-|去炎松|0|N|256
+C0040866|CHI|-|-|-|-|Y|-|triamcinolone acetonide|-|-|CUSTOM|Treatment|-|曲安奈德|0|N|256
+C0040953|CHI|-|-|-|-|Y|-|trichotillomania|-|-|CUSTOM|Disease|-|拔除|0|N|256
+C0041289|CHI|-|-|-|-|Y|-|tuberculin|-|-|CUSTOM|Treatment|-|结核菌素|0|N|256
+C0041296|CHI|-|-|-|-|Y|-|tuberculosis|-|-|CUSTOM|Disease|-|结核病|0|N|256
+C0041309|CHI|-|-|-|-|Y|-|cutaneous tuberculosis|-|-|CUSTOM|Disease|-|皮肤结核|0|N|256
+C0041309|CHI|-|-|-|-|Y|-|skin tuberculosis|-|-|CUSTOM|Disease|-|皮肤结核|0|N|256
+C0041309|CHI|-|-|-|-|Y|-|tuberculosis of the skin|-|-|CUSTOM|Disease|-|皮肤结核|0|N|256
+C0041466|CHI|-|-|-|-|Y|-|typhoid fever|-|-|CUSTOM|Disease|-|伤寒|0|N|256
+C0041582|CHI|-|-|-|-|Y|-|ulcer|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C3887532|CHI|-|-|-|-|Y|-|ulcer|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C1963256|CHI|-|-|-|-|Y|-|ulcer|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C5444027|CHI|-|-|-|-|Y|-|ulcer|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C0041582|CHI|-|-|-|-|Y|-|ulcerated|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C3887532|CHI|-|-|-|-|Y|-|ulcerated|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C1963256|CHI|-|-|-|-|Y|-|ulcerated|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C5444027|CHI|-|-|-|-|Y|-|ulcerated|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C0041582|CHI|-|-|-|-|Y|-|ulceration|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C3887532|CHI|-|-|-|-|Y|-|ulceration|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C1963256|CHI|-|-|-|-|Y|-|ulceration|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C5444027|CHI|-|-|-|-|Y|-|ulceration|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C0041582|CHI|-|-|-|-|Y|-|ulcerations|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C3887532|CHI|-|-|-|-|Y|-|ulcerations|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C1963256|CHI|-|-|-|-|Y|-|ulcerations|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C5444027|CHI|-|-|-|-|Y|-|ulcerations|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C0041582|CHI|-|-|-|-|Y|-|ulcers|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C3887532|CHI|-|-|-|-|Y|-|ulcers|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C1963256|CHI|-|-|-|-|Y|-|ulcers|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C5444027|CHI|-|-|-|-|Y|-|ulcers|-|-|CUSTOM|Disease|-|溃疡|0|N|256
+C0041942|CHI|-|-|-|-|Y|-|urea|-|-|CUSTOM|Treatment|-|尿素|0|N|256
+C0523961|CHI|-|-|-|-|Y|-|urea|-|-|CUSTOM|Treatment|-|尿素|0|N|256
+C0041980|CHI|-|-|-|-|Y|-|uric acid|-|-|CUSTOM|Treatment|-|尿酸|0|N|256
+C0042014|CHI|-|-|-|-|Y|-|urinalysis|-|-|CUSTOM|Test|-|尿液分析|0|N|256
+C0042014|CHI|-|-|-|-|Y|-|urine test|-|-|CUSTOM|Test|-|尿液分析|0|N|256
+C0042014|CHI|-|-|-|-|Y|-|urine tests|-|-|CUSTOM|Test|-|尿液分析|0|N|256
+C0042109|CHI|-|-|-|-|Y|-|hives|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C2186740|CHI|-|-|-|-|Y|-|hives|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C1559188|CHI|-|-|-|-|Y|-|hives|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C0042109|CHI|-|-|-|-|Y|-|hives[SEP]urticaria|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C2186740|CHI|-|-|-|-|Y|-|hives[SEP]urticaria|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C1559188|CHI|-|-|-|-|Y|-|hives[SEP]urticaria|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C0042109|CHI|-|-|-|-|Y|-|urticaria|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C2186740|CHI|-|-|-|-|Y|-|urticaria|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C1559188|CHI|-|-|-|-|Y|-|urticaria|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C0042109|CHI|-|-|-|-|Y|-|urticaria[SEP]urticarial|-|-|CUSTOM|Disease|-|荨麻疹|0|N|256
+C2186740|CHI|-|-|-|-|Y|-|urticaria[SEP]urticarial|-|-|CUSTOM|Disease|-|荨麻疹|0|N|256
+C1559188|CHI|-|-|-|-|Y|-|urticaria[SEP]urticarial|-|-|CUSTOM|Disease|-|荨麻疹|0|N|256
+C0042109|CHI|-|-|-|-|Y|-|urticarial|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C2186740|CHI|-|-|-|-|Y|-|urticarial|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C1559188|CHI|-|-|-|-|Y|-|urticarial|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C0042109|CHI|-|-|-|-|Y|-|urticarial rash|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C2186740|CHI|-|-|-|-|Y|-|urticarial rash|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C1559188|CHI|-|-|-|-|Y|-|urticarial rash|-|-|CUSTOM|Disease|-|Hive|0|N|256
+C0042111|CHI|-|-|-|-|Y|-|urticaria pigmentosa|-|-|CUSTOM|Disease|-|色素性荨麻疹|0|N|256
+C0042196|CHI|-|-|-|-|Y|-|inoculation|-|-|CUSTOM|Treatment|-|接种|0|N|256
+C2987620|CHI|-|-|-|-|Y|-|inoculation|-|-|CUSTOM|Treatment|-|接种|0|N|256
+C0042196|CHI|-|-|-|-|Y|-|vaccination|-|-|CUSTOM|Treatment|-|接种|0|N|256
+C2987620|CHI|-|-|-|-|Y|-|vaccination|-|-|CUSTOM|Treatment|-|接种|0|N|256
+C0042344|CHI|-|-|-|-|Y|-|varicose ulcer|-|-|CUSTOM|Disease|-|静脉曲张性溃疡|0|N|256
+C0042345|CHI|-|-|-|-|Y|-|varicose veins|-|-|CUSTOM|Disease|-|静脉曲张|0|N|256
+C0042384|CHI|-|-|-|-|Y|-|vasculitis|-|-|CUSTOM|Disease|-|血管炎|0|N|256
+C1963274|CHI|-|-|-|-|Y|-|vasculitis|-|-|CUSTOM|Disease|-|血管炎|0|N|256
+C0042402|CHI|-|-|-|-|Y|-|vasodilators|-|-|CUSTOM|Treatment|-|血管扩张剂|0|N|256
+C0042438|CHI|-|-|-|-|Y|-|vegetable oil|-|-|CUSTOM|Treatment|-|植物油|0|N|256
+C0042487|CHI|-|-|-|-|Y|-|venous thrombosis|-|-|CUSTOM|Disease|-|静脉血栓|0|N|256
+C0042548|CHI|-|-|-|-|Y|-|plantar wart|-|-|CUSTOM|Disease|-|跖疣|0|N|256
+C0042548|CHI|-|-|-|-|Y|-|plantar warts|-|-|CUSTOM|Disease|-|跖疣|0|N|256
+C0042769|CHI|-|-|-|-|Y|-|viral infection|-|-|CUSTOM|Disease|-|病毒|0|N|256
+C0042769|CHI|-|-|-|-|Y|-|virus|-|-|CUSTOM|Disease|-|病毒|0|N|256
+C0042769|CHI|-|-|-|-|Y|-|virus infection|-|-|CUSTOM|Disease|-|病毒|0|N|256
+C0042798|CHI|-|-|-|-|Y|-|poor vision|-|-|CUSTOM|Disease|-|视力差|0|N|256
+C3665347|CHI|-|-|-|-|Y|-|poor vision|-|-|CUSTOM|Disease|-|视力差|0|N|256
+C0042874|CHI|-|-|-|-|Y|-|vitamin e|-|-|CUSTOM|Treatment|-|维生素e|0|N|256
+C1142098|CHI|-|-|-|-|Y|-|vitamin e|-|-|CUSTOM|Treatment|-|维生素e|0|N|256
+C0042890|CHI|-|-|-|-|Y|-|vitamin|-|-|CUSTOM|Treatment|-|维生素|0|N|256
+C3540032|CHI|-|-|-|-|Y|-|vitamin|-|-|CUSTOM|Treatment|-|维生素|0|N|256
+C0042890|CHI|-|-|-|-|Y|-|vitamins|-|-|CUSTOM|Treatment|-|维生素|0|N|256
+C3540032|CHI|-|-|-|-|Y|-|vitamins|-|-|CUSTOM|Treatment|-|维生素|0|N|256
+C0042900|CHI|-|-|-|-|Y|-|vitiligo|-|-|CUSTOM|Disease|-|白癜风|0|N|256
+C0043242|CHI|-|-|-|-|Y|-|abrasion|-|-|CUSTOM|Treatment|-|磨损作用|0|N|256
+C0580209|CHI|-|-|-|-|Y|-|abrasion|-|-|CUSTOM|Treatment|-|磨损作用|0|N|256
+C1302752|CHI|-|-|-|-|Y|-|abrasion|-|-|CUSTOM|Treatment|-|磨损作用|0|N|256
+C0043246|CHI|-|-|-|-|Y|-|torn|-|-|CUSTOM|Disease|-|撕裂|0|N|256
+C0043299|CHI|-|-|-|-|Y|-|x-ray|-|-|CUSTOM|Test|-|X射线|0|N|256
+C1306645|CHI|-|-|-|-|Y|-|x-ray|-|-|CUSTOM|Test|-|X射线|0|N|256
+C1962945|CHI|-|-|-|-|Y|-|x-ray|-|-|CUSTOM|Test|-|X射线|0|N|256
+C0043324|CHI|-|-|-|-|Y|-|juvenile xanthogranuloma|-|-|CUSTOM|Disease|-|幼年黄色肉芽肿|0|N|256
+C0043481|CHI|-|-|-|-|Y|-|zinc|-|-|CUSTOM|Treatment|-|锌|0|N|256
+C0043491|CHI|-|-|-|-|Y|-|zinc oxide|-|-|CUSTOM|Treatment|-|氧化锌|0|N|256
+C0051522|CHI|-|-|-|-|Y|-|alum|-|-|CUSTOM|Treatment|-|矾|0|N|256
+C0725101|CHI|-|-|-|-|Y|-|alum|-|-|CUSTOM|Treatment|-|矾|0|N|256
+C0137988|CHI|-|-|-|-|Y|-|alum|-|-|CUSTOM|Treatment|-|矾|0|N|256
+C0051719|CHI|-|-|-|-|Y|-|ammonia water|-|-|CUSTOM|Treatment|-|氨水|0|N|256
+C0051920|CHI|-|-|-|-|Y|-|anisodamine|-|-|CUSTOM|Treatment|-|山莨菪碱|0|N|256
+C0052796|CHI|-|-|-|-|Y|-|azithromycin|-|-|CUSTOM|Treatment|-|阿奇霉素|0|N|256
+C0053570|CHI|-|-|-|-|Y|-|bifonazole|-|-|CUSTOM|Treatment|-|联苯苄唑|0|N|256
+C0053942|CHI|-|-|-|-|Y|-|borax|-|-|CUSTOM|Treatment|-|四硼酸钠|0|N|256
+C0054057|CHI|-|-|-|-|Y|-|brine|-|-|CUSTOM|Treatment|-|盐水|0|N|256
+C0055147|CHI|-|-|-|-|Y|-|cetirizine|-|-|CUSTOM|Treatment|-|盐酸西替利嗪|0|N|256
+C0055856|CHI|-|-|-|-|Y|-|clarithromycin|-|-|CUSTOM|Treatment|-|克拉霉素|0|N|256
+C0055895|CHI|-|-|-|-|Y|-|clobetasol propionate|-|-|CUSTOM|Treatment|-|丙酸氯倍他索|0|N|256
+C0057831|CHI|-|-|-|-|Y|-|dichloralphenazone|-|-|CUSTOM|Treatment|-|二氯苯腙|0|N|256
+C0058188|CHI|-|-|-|-|Y|-|dimebon|-|-|CUSTOM|Treatment|-|二甲基苯|0|N|256
+C0058895|CHI|-|-|-|-|Y|-|ebastine|-|-|CUSTOM|Treatment|-|依巴斯汀|0|N|256
+C0060507|CHI|-|-|-|-|Y|-|fluocinolone|-|-|CUSTOM|Treatment|-|氟华龙|0|N|256
+C0061751|CHI|-|-|-|-|Y|-|glycyrrhizic acid|-|-|CUSTOM|Treatment|-|甘草酸|0|N|256
+C0061751|CHI|-|-|-|-|Y|-|glycyrrhizin|-|-|CUSTOM|Treatment|-|甘草酸|0|N|256
+C0061751|CHI|-|-|-|-|Y|-|glycyrrhizinic acid|-|-|CUSTOM|Treatment|-|甘草酸|0|N|256
+C0062097|CHI|-|-|-|-|Y|-|halometasone|-|-|CUSTOM|Treatment|-|卤米松|0|N|256
+C0063083|CHI|-|-|-|-|Y|-|hydrogel|-|-|CUSTOM|Treatment|-|水凝胶|0|N|256
+C0064582|CHI|-|-|-|-|Y|-|lactic acid|-|-|CUSTOM|Treatment|-|乳酸|0|N|256
+C0202115|CHI|-|-|-|-|Y|-|lactic acid|-|-|CUSTOM|Treatment|-|乳酸|0|N|256
+C0064694|CHI|-|-|-|-|Y|-|lavender oil|-|-|CUSTOM|Treatment|-|薰衣草油|0|N|256
+C0064990|CHI|-|-|-|-|Y|-|lime|-|-|CUSTOM|Treatment|-|石灰|0|N|256
+C0065180|CHI|-|-|-|-|Y|-|loratadine|-|-|CUSTOM|Treatment|-|氯雷他定|0|N|256
+C0065234|CHI|-|-|-|-|Y|-|lugol's solution|-|-|CUSTOM|Treatment|-|鲁戈尔溶液|0|N|256
+C0065331|CHI|-|-|-|-|Y|-|lycopene|-|-|CUSTOM|Treatment|-|番茄红素|0|N|256
+C0065503|CHI|-|-|-|-|Y|-|maduramycin|-|-|CUSTOM|Treatment|-|马杜拉霉素|0|N|256
+C0065844|CHI|-|-|-|-|Y|-|mecobalamin|-|-|CUSTOM|Treatment|-|甲钴胺|0|N|256
+C0066700|CHI|-|-|-|-|Y|-|mometasone furoate|-|-|CUSTOM|Treatment|-|糠酸莫米松|0|N|256
+C0068367|CHI|-|-|-|-|Y|-|naftifine|-|-|CUSTOM|Treatment|-|萘替芬|0|N|256
+C0069449|CHI|-|-|-|-|Y|-|olive oil|-|-|CUSTOM|Treatment|-|橄榄油|0|N|256
+C0071325|CHI|-|-|-|-|Y|-|poldine methylsulfate|-|-|CUSTOM|Treatment|-|甲基硫酸波定|0|N|256
+C0071767|CHI|-|-|-|-|Y|-|potassium hydroxide|-|-|CUSTOM|Treatment|-|氢氧化钾|0|N|256
+C0073085|CHI|-|-|-|-|Y|-|resorcinol|-|-|CUSTOM|Treatment|-|间苯二酚|0|N|256
+C0074281|CHI|-|-|-|-|Y|-|selenium sulfide|-|-|CUSTOM|Treatment|-|硫化硒|0|N|256
+C0074722|CHI|-|-|-|-|Y|-|sodium bicarbonate|-|-|CUSTOM|Treatment|-|碳酸氢钠|0|N|256
+C0074774|CHI|-|-|-|-|Y|-|sodium thiosulfate|-|-|CUSTOM|Treatment|-|硫代硫酸钠|0|N|256
+C0076110|CHI|-|-|-|-|Y|-|terbinafine|-|-|CUSTOM|Treatment|-|特比萘芬|0|N|256
+C0077524|CHI|-|-|-|-|Y|-|turmeric|-|-|CUSTOM|Treatment|-|姜黄|0|N|256
+C0078792|CHI|-|-|-|-|Y|-|pyrithione zinc|-|-|CUSTOM|Treatment|-|吡啶硫酮锌|0|N|256
+C0079293|CHI|-|-|-|-|Y|-|epidermolysis bullosa acquisita|-|-|CUSTOM|Disease|-|获得性大疱性表皮松解症|0|N|256
+C0079584|CHI|-|-|-|-|Y|-|ichthyosis vulgaris|-|-|CUSTOM|Disease|-|寻常型鱼鳞病|0|N|256
+C0081002|CHI|-|-|-|-|Y|-|pidotimod|-|-|CUSTOM|Treatment|-|匹多莫德|0|N|256
+C0085074|CHI|-|-|-|-|Y|-|granuloma annulare|-|-|CUSTOM|Disease|-|环状肉芽肿|0|N|256
+C0085077|CHI|-|-|-|-|Y|-|febrile neutrophilic dermatosis|-|-|CUSTOM|Disease|-|sweet综合征|0|N|256
+C1879992|CHI|-|-|-|-|Y|-|febrile neutrophilic dermatosis|-|-|CUSTOM|Disease|-|sweet综合征|0|N|256
+C0085077|CHI|-|-|-|-|Y|-|sweet|-|-|CUSTOM|Disease|-|sweet|0|N|256
+C1879992|CHI|-|-|-|-|Y|-|sweet|-|-|CUSTOM|Disease|-|sweet|0|N|256
+C0085077|CHI|-|-|-|-|Y|-|sweet|-|-|CUSTOM|Disease|-|Sweet|0|N|256
+C1879992|CHI|-|-|-|-|Y|-|sweet|-|-|CUSTOM|Disease|-|Sweet|0|N|256
+C0085077|CHI|-|-|-|-|Y|-|sweet syndrome|-|-|CUSTOM|Disease|-|含糖的|0|N|256
+C1879992|CHI|-|-|-|-|Y|-|sweet syndrome|-|-|CUSTOM|Disease|-|含糖的|0|N|256
+C0085077|CHI|-|-|-|-|Y|-|sweet syndrome[SEP]febrile neutrophilic dermatosis|-|-|CUSTOM|Disease|-|含糖的|0|N|256
+C1879992|CHI|-|-|-|-|Y|-|sweet syndrome[SEP]febrile neutrophilic dermatosis|-|-|CUSTOM|Disease|-|含糖的|0|N|256
+C0085077|CHI|-|-|-|-|Y|-|sweet's disease|-|-|CUSTOM|Disease|-|含糖的|0|N|256
+C1879992|CHI|-|-|-|-|Y|-|sweet's disease|-|-|CUSTOM|Disease|-|含糖的|0|N|256
+C0085077|CHI|-|-|-|-|Y|-|sweet's syndrome|-|-|CUSTOM|Disease|-|含糖的|0|N|256
+C1879992|CHI|-|-|-|-|Y|-|sweet's syndrome|-|-|CUSTOM|Disease|-|含糖的|0|N|256
+C0085077|CHI|-|-|-|-|Y|-|sweet[SEP]sweet syndrome|-|-|CUSTOM|Disease|-|含糖的|0|N|256
+C1879992|CHI|-|-|-|-|Y|-|sweet[SEP]sweet syndrome|-|-|CUSTOM|Disease|-|含糖的|0|N|256
+C0085173|CHI|-|-|-|-|Y|-|terfenadine|-|-|CUSTOM|Treatment|-|特非那定|0|N|256
+C0085257|CHI|-|-|-|-|Y|-|yin deficiency|-|-|CUSTOM|Disease|-|阴虚|0|N|256
+C0085259|CHI|-|-|-|-|Y|-|mupirocin|-|-|CUSTOM|Treatment|-|百多邦|0|N|256
+C0085616|CHI|-|-|-|-|Y|-|vasospasm|-|-|CUSTOM|Disease|-|血管痉挛|0|N|256
+C0085624|CHI|-|-|-|-|Y|-|burning|-|-|CUSTOM|Disease|-|燃烧|0|N|256
+C0241057|CHI|-|-|-|-|Y|-|burning|-|-|CUSTOM|Disease|-|燃烧|0|N|256
+C0085624|CHI|-|-|-|-|Y|-|burning[SEP]burning sensation|-|-|CUSTOM|Disease|-|燃烧|0|N|256
+C0241057|CHI|-|-|-|-|Y|-|burning[SEP]burning sensation|-|-|CUSTOM|Disease|-|燃烧|0|N|256
+C0085631|CHI|-|-|-|-|Y|-|restlessness|-|-|CUSTOM|Disease|-|烦躁不安|0|N|256
+C3887612|CHI|-|-|-|-|Y|-|restlessness|-|-|CUSTOM|Disease|-|烦躁不安|0|N|256
+C3887611|CHI|-|-|-|-|Y|-|restlessness|-|-|CUSTOM|Disease|-|烦躁不安|0|N|256
+C0085648|CHI|-|-|-|-|Y|-|myxoid cyst|-|-|CUSTOM|Disease|-|黏液样囊肿|0|N|256
+C1258666|CHI|-|-|-|-|Y|-|myxoid cyst|-|-|CUSTOM|Disease|-|黏液样囊肿|0|N|256
+C0085648|CHI|-|-|-|-|Y|-|synovial cysts|-|-|CUSTOM|Disease|-|黏液样囊肿|0|N|256
+C1258666|CHI|-|-|-|-|Y|-|synovial cysts|-|-|CUSTOM|Disease|-|黏液样囊肿|0|N|256
+C0085652|CHI|-|-|-|-|Y|-|gangrenous pyoderma|-|-|CUSTOM|Disease|-|坏疽性脓皮病|0|N|256
+C0085652|CHI|-|-|-|-|Y|-|pyoderma gangrenosum|-|-|CUSTOM|Disease|-|坏疽性脓皮病|0|N|256
+C0085655|CHI|-|-|-|-|Y|-|polymyositis|-|-|CUSTOM|Disease|-|多发性肌炎|0|N|256
+C0085657|CHI|-|-|-|-|Y|-|dandruff|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0423775|CHI|-|-|-|-|Y|-|dandruff|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0719659|CHI|-|-|-|-|Y|-|dandruff|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0221244|CHI|-|-|-|-|Y|-|dandruff|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0085657|CHI|-|-|-|-|Y|-|pityriasis simplex|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0423775|CHI|-|-|-|-|Y|-|pityriasis simplex|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0719659|CHI|-|-|-|-|Y|-|pityriasis simplex|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0221244|CHI|-|-|-|-|Y|-|pityriasis simplex|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0085657|CHI|-|-|-|-|Y|-|scurf|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0423775|CHI|-|-|-|-|Y|-|scurf|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0719659|CHI|-|-|-|-|Y|-|scurf|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0221244|CHI|-|-|-|-|Y|-|scurf|-|-|CUSTOM|Disease|-|浮渣|0|N|256
+C0085661|CHI|-|-|-|-|Y|-|nail detachment|-|-|CUSTOM|Disease|-|甲裂|0|N|256
+C0085661|CHI|-|-|-|-|Y|-|onycholysis|-|-|CUSTOM|Disease|-|甲裂|0|N|256
+C0085666|CHI|-|-|-|-|Y|-|spider angioma|-|-|CUSTOM|Disease|-|蜘蛛痣|0|N|256
+C0085666|CHI|-|-|-|-|Y|-|spider nevus|-|-|CUSTOM|Disease|-|蜘蛛痣|0|N|256
+C0085696|CHI|-|-|-|-|Y|-|chronic prostatitis|-|-|CUSTOM|Disease|-|慢性前列腺炎|0|N|256
+C0086196|CHI|-|-|-|-|Y|-|infantile eczema|-|-|CUSTOM|Disease|-|婴儿湿疹|0|N|256
+C0086555|CHI|-|-|-|-|Y|-|licorice|-|-|CUSTOM|Treatment|-|甘草|0|N|256
+C0770612|CHI|-|-|-|-|Y|-|licorice|-|-|CUSTOM|Treatment|-|甘草|0|N|256
+C2728191|CHI|-|-|-|-|Y|-|licorice|-|-|CUSTOM|Treatment|-|甘草|0|N|256
+C0086620|CHI|-|-|-|-|Y|-|miconazole nitrate|-|-|CUSTOM|Treatment|-|硝酸咪康唑|0|N|256
+C0086692|CHI|-|-|-|-|Y|-|benign tumor|-|-|CUSTOM|Disease|-|良性肿瘤|0|N|256
+C0087031|CHI|-|-|-|-|Y|-|still this disease|-|-|CUSTOM|Disease|-|静止性疾病|0|N|256
+C0102840|CHI|-|-|-|-|Y|-|aluminum chloride|-|-|CUSTOM|Treatment|-|氯化铝|0|N|256
+C0051512|CHI|-|-|-|-|Y|-|aluminum chloride|-|-|CUSTOM|Treatment|-|氯化铝|0|N|256
+C0106916|CHI|-|-|-|-|Y|-|borneol|-|-|CUSTOM|Treatment|-|冰片|0|N|256
+C0107497|CHI|-|-|-|-|Y|-|butenafine|-|-|CUSTOM|Treatment|-|丁烯那芬|0|N|256
+C0123091|CHI|-|-|-|-|Y|-|quetiapine|-|-|CUSTOM|Treatment|-|喹硫平|0|N|256
+C1997945|CHI|-|-|-|-|Y|-|quetiapine|-|-|CUSTOM|Treatment|-|喹硫平|0|N|256
+C0129435|CHI|-|-|-|-|Y|-|mycospor|-|-|CUSTOM|Treatment|-|分枝杆菌|0|N|256
+C0149745|CHI|-|-|-|-|Y|-|oral ulcer|-|-|CUSTOM|Disease|-|口腔溃疡|0|N|256
+C0149766|CHI|-|-|-|-|Y|-|senile purpura|-|-|CUSTOM|Disease|-|老年性紫癜|0|N|256
+C0149777|CHI|-|-|-|-|Y|-|skin abscess|-|-|CUSTOM|Disease|-|皮肤脓肿|0|N|256
+C0149922|CHI|-|-|-|-|Y|-|lichen simplex chronicus|-|-|CUSTOM|Disease|-|角化性湿疹|0|N|256
+C0149985|CHI|-|-|-|-|Y|-|secondary syphilis|-|-|CUSTOM|Disease|-|继发梅毒|0|N|256
+C0150468|CHI|-|-|-|-|Y|-|bandaging|-|-|CUSTOM|Treatment|-|捆扎|0|N|256
+C0150543|CHI|-|-|-|-|Y|-|detoxification|-|-|CUSTOM|Treatment|-|解毒|0|N|256
+C0150543|CHI|-|-|-|-|Y|-|detoxification method|-|-|CUSTOM|Treatment|-|解毒|0|N|256
+C0151436|CHI|-|-|-|-|Y|-|allergic vasculitis|-|-|CUSTOM|Disease|-|过敏性血管炎|0|N|256
+C0151514|CHI|-|-|-|-|Y|-|atrophic|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C0333641|CHI|-|-|-|-|Y|-|atrophic|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C4553557|CHI|-|-|-|-|Y|-|atrophic|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C0151514|CHI|-|-|-|-|Y|-|atrophic skin|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C0333641|CHI|-|-|-|-|Y|-|atrophic skin|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C4553557|CHI|-|-|-|-|Y|-|atrophic skin|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C0151514|CHI|-|-|-|-|Y|-|atrophied|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C0333641|CHI|-|-|-|-|Y|-|atrophied|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C4553557|CHI|-|-|-|-|Y|-|atrophied|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C0151514|CHI|-|-|-|-|Y|-|atrophy|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C0333641|CHI|-|-|-|-|Y|-|atrophy|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C4553557|CHI|-|-|-|-|Y|-|atrophy|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C0151514|CHI|-|-|-|-|Y|-|skin atrophy|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C0333641|CHI|-|-|-|-|Y|-|skin atrophy|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C4553557|CHI|-|-|-|-|Y|-|skin atrophy|-|-|CUSTOM|Disease|-|萎缩|0|N|256
+C0151626|CHI|-|-|-|-|Y|-|epidermal necrolysis|-|-|CUSTOM|Disease|-|表皮坏死松解|0|N|256
+C0151629|CHI|-|-|-|-|Y|-|fixed eruption|-|-|CUSTOM|Disease|-|固定喷发|0|N|256
+C0151763|CHI|-|-|-|-|Y|-|liver damage|-|-|CUSTOM|Disease|-|肝损伤|0|N|256
+C0151799|CHI|-|-|-|-|Y|-|skin necrosis|-|-|CUSTOM|Disease|-|皮肤坏死|0|N|256
+C0151908|CHI|-|-|-|-|Y|-|dry skin|-|-|CUSTOM|Treatment|-|干的|0|N|256
+C1963094|CHI|-|-|-|-|Y|-|dry skin|-|-|CUSTOM|Treatment|-|干的|0|N|256
+C0720057|CHI|-|-|-|-|Y|-|dry skin|-|-|CUSTOM|Treatment|-|干的|0|N|256
+C0152081|CHI|-|-|-|-|Y|-|pustular psoriasis|-|-|CUSTOM|Disease|-|脓疱性银屑病|0|N|256
+C0152097|CHI|-|-|-|-|Y|-|diaphragm|-|-|CUSTOM|Treatment|-|膈膜|0|N|256
+C1705368|CHI|-|-|-|-|Y|-|diaphragm|-|-|CUSTOM|Treatment|-|膈膜|0|N|256
+C0152230|CHI|-|-|-|-|Y|-|cholinergic urticaria|-|-|CUSTOM|Disease|-|胆碱能性荨麻疹|0|N|256
+C0153062|CHI|-|-|-|-|Y|-|viral rash|-|-|CUSTOM|Disease|-|病毒性皮疹|0|N|256
+C0153246|CHI|-|-|-|-|Y|-|hand ringworm|-|-|CUSTOM|Disease|-|手癣|0|N|256
+C0153246|CHI|-|-|-|-|Y|-|tinea manus|-|-|CUSTOM|Disease|-|足癣|0|N|256
+C0153246|CHI|-|-|-|-|Y|-|tinea manuum|-|-|CUSTOM|Disease|-|手足癣|0|N|256
+C0153665|CHI|-|-|-|-|Y|-|lower limb|-|-|CUSTOM|Disease|-|下肢|0|N|256
+C0162423|CHI|-|-|-|-|Y|-|heat rash|-|-|CUSTOM|Disease|-|痱|0|N|256
+C0026113|CHI|-|-|-|-|Y|-|heat rash|-|-|CUSTOM|Disease|-|痱|0|N|256
+C3241961|CHI|-|-|-|-|Y|-|heat rash|-|-|CUSTOM|Disease|-|痱|0|N|256
+C0162423|CHI|-|-|-|-|Y|-|miliaria|-|-|CUSTOM|Disease|-|痱子|0|N|256
+C0026113|CHI|-|-|-|-|Y|-|miliaria|-|-|CUSTOM|Disease|-|痱子|0|N|256
+C3241961|CHI|-|-|-|-|Y|-|miliaria|-|-|CUSTOM|Disease|-|痱子|0|N|256
+C0162423|CHI|-|-|-|-|Y|-|miliaria rubra|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C0026113|CHI|-|-|-|-|Y|-|miliaria rubra|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C3241961|CHI|-|-|-|-|Y|-|miliaria rubra|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C0162423|CHI|-|-|-|-|Y|-|miliaria[SEP]sweat rash|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C0026113|CHI|-|-|-|-|Y|-|miliaria[SEP]sweat rash|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C3241961|CHI|-|-|-|-|Y|-|miliaria[SEP]sweat rash|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C0162423|CHI|-|-|-|-|Y|-|prickly heat|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C0026113|CHI|-|-|-|-|Y|-|prickly heat|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C3241961|CHI|-|-|-|-|Y|-|prickly heat|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C0162423|CHI|-|-|-|-|Y|-|sweat rash|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C0026113|CHI|-|-|-|-|Y|-|sweat rash|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C3241961|CHI|-|-|-|-|Y|-|sweat rash|-|-|CUSTOM|Disease|-|汗疹|0|N|256
+C0162429|CHI|-|-|-|-|Y|-|deficiency|-|-|CUSTOM|Disease|-|缺乏|0|N|256
+C4761312|CHI|-|-|-|-|Y|-|deficiency|-|-|CUSTOM|Disease|-|缺乏|0|N|256
+C0162429|CHI|-|-|-|-|Y|-|malnourished|-|-|CUSTOM|Disease|-|缺乏|0|N|256
+C4761312|CHI|-|-|-|-|Y|-|malnourished|-|-|CUSTOM|Disease|-|缺乏|0|N|256
+C0162429|CHI|-|-|-|-|Y|-|malnutrition|-|-|CUSTOM|Disease|-|缺乏|0|N|256
+C4761312|CHI|-|-|-|-|Y|-|malnutrition|-|-|CUSTOM|Disease|-|缺乏|0|N|256
+C0162429|CHI|-|-|-|-|Y|-|undernourished|-|-|CUSTOM|Disease|-|缺乏|0|N|256
+C4761312|CHI|-|-|-|-|Y|-|undernourished|-|-|CUSTOM|Disease|-|缺乏|0|N|256
+C0162481|CHI|-|-|-|-|Y|-|doppler ultrasound|-|-|CUSTOM|Test|-|多普勒超声|0|N|256
+C0162628|CHI|-|-|-|-|Y|-|viral skin disease|-|-|CUSTOM|Disease|-|病毒性皮肤病|0|N|256
+C0162678|CHI|-|-|-|-|Y|-|neurofibroma|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0206727|CHI|-|-|-|-|Y|-|neurofibroma|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0027830|CHI|-|-|-|-|Y|-|neurofibroma|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0027831|CHI|-|-|-|-|Y|-|neurofibroma|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0162678|CHI|-|-|-|-|Y|-|neurofibromas|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0206727|CHI|-|-|-|-|Y|-|neurofibromas|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0027830|CHI|-|-|-|-|Y|-|neurofibromas|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0027831|CHI|-|-|-|-|Y|-|neurofibromas|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0162678|CHI|-|-|-|-|Y|-|neurofibromatosis|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0206727|CHI|-|-|-|-|Y|-|neurofibromatosis|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0027830|CHI|-|-|-|-|Y|-|neurofibromatosis|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0027831|CHI|-|-|-|-|Y|-|neurofibromatosis|-|-|CUSTOM|Disease|-|神经纤维瘤|0|N|256
+C0162810|CHI|-|-|-|-|Y|-|hypertrophic scar|-|-|CUSTOM|Disease|-|肥厚性瘢痕|0|N|256
+C0162810|CHI|-|-|-|-|Y|-|hypertrophic scars|-|-|CUSTOM|Disease|-|增生性瘢痕|0|N|256
+C0162820|CHI|-|-|-|-|Y|-|allergic contact dermatitis|-|-|CUSTOM|Disease|-|过敏性接触性皮炎|0|N|256
+C0162830|CHI|-|-|-|-|Y|-|photodermatitis|-|-|CUSTOM|Disease|-|光照性皮炎|0|N|256
+C0031762|CHI|-|-|-|-|Y|-|photodermatitis|-|-|CUSTOM|Disease|-|光照性皮炎|0|N|256
+C0162830|CHI|-|-|-|-|Y|-|photosensitivity reactions|-|-|CUSTOM|Disease|-|光照性皮炎|0|N|256
+C0031762|CHI|-|-|-|-|Y|-|photosensitivity reactions|-|-|CUSTOM|Disease|-|光照性皮炎|0|N|256
+C0162834|CHI|-|-|-|-|Y|-|hyperpigmentation|-|-|CUSTOM|Disease|-|色素沉着过多|0|N|256
+C0162835|CHI|-|-|-|-|Y|-|depigmentation|-|-|CUSTOM|Disease|-|色素脱失斑|0|N|256
+C3714505|CHI|-|-|-|-|Y|-|depigmentation|-|-|CUSTOM|Disease|-|色素脱失斑|0|N|256
+C3887488|CHI|-|-|-|-|Y|-|depigmentation|-|-|CUSTOM|Disease|-|色素脱失斑|0|N|256
+C1963139|CHI|-|-|-|-|Y|-|depigmentation|-|-|CUSTOM|Disease|-|色素脱失斑|0|N|256
+C0162835|CHI|-|-|-|-|Y|-|hypomelanosis|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C3714505|CHI|-|-|-|-|Y|-|hypomelanosis|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C3887488|CHI|-|-|-|-|Y|-|hypomelanosis|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C1963139|CHI|-|-|-|-|Y|-|hypomelanosis|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C0162835|CHI|-|-|-|-|Y|-|hypopigmentation|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C3714505|CHI|-|-|-|-|Y|-|hypopigmentation|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C3887488|CHI|-|-|-|-|Y|-|hypopigmentation|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C1963139|CHI|-|-|-|-|Y|-|hypopigmentation|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C0162835|CHI|-|-|-|-|Y|-|hypopigmentation[SEP]leukoderma[SEP]leucoderma|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C3714505|CHI|-|-|-|-|Y|-|hypopigmentation[SEP]leukoderma[SEP]leucoderma|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C3887488|CHI|-|-|-|-|Y|-|hypopigmentation[SEP]leukoderma[SEP]leucoderma|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C1963139|CHI|-|-|-|-|Y|-|hypopigmentation[SEP]leukoderma[SEP]leucoderma|-|-|CUSTOM|Disease|-|白皮病|0|N|256
+C0162835|CHI|-|-|-|-|Y|-|leukoderma|-|-|CUSTOM|Disease|-|白斑|0|N|256
+C3714505|CHI|-|-|-|-|Y|-|leukoderma|-|-|CUSTOM|Disease|-|白斑|0|N|256
+C3887488|CHI|-|-|-|-|Y|-|leukoderma|-|-|CUSTOM|Disease|-|白斑|0|N|256
+C1963139|CHI|-|-|-|-|Y|-|leukoderma|-|-|CUSTOM|Disease|-|白斑|0|N|256
+C0162836|CHI|-|-|-|-|Y|-|hidradenitis suppurativa|-|-|CUSTOM|Disease|-|化脓性汗腺炎|0|N|256
+C0162848|CHI|-|-|-|-|Y|-|lichenoid dermatitis|-|-|CUSTOM|Disease|-|苔藓样喷发|0|N|256
+C0162848|CHI|-|-|-|-|Y|-|lichenoid eruption|-|-|CUSTOM|Disease|-|苔藓样喷发|0|N|256
+C0162849|CHI|-|-|-|-|Y|-|lichen nitidus|-|-|CUSTOM|Disease|-|nitidus苔藓|0|N|256
+C0164056|CHI|-|-|-|-|Y|-|eucerin|-|-|CUSTOM|Treatment|-|亮氨酸|0|N|256
+C0165631|CHI|-|-|-|-|Y|-|adapalene|-|-|CUSTOM|Treatment|-|阿达帕林|0|N|256
+C0171302|CHI|-|-|-|-|Y|-|mizolastine|-|-|CUSTOM|Treatment|-|咪唑斯汀|0|N|256
+C0175743|CHI|-|-|-|-|Y|-|linear epidermal nevus|-|-|CUSTOM|Disease|-|线状痣|0|N|256
+C0175743|CHI|-|-|-|-|Y|-|linear nevus|-|-|CUSTOM|Disease|-|线状痣|0|N|256
+C0175795|CHI|-|-|-|-|Y|-|oral medication|-|-|CUSTOM|Treatment|-|口服药物|0|N|256
+C0178539|CHI|-|-|-|-|Y|-|cellular|-|-|CUSTOM|Test|-|细胞的|0|N|256
+C0178702|CHI|-|-|-|-|Y|-|desensitization|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C0556520|CHI|-|-|-|-|Y|-|desensitization|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C4722104|CHI|-|-|-|-|Y|-|desensitization|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C0162352|CHI|-|-|-|-|Y|-|desensitization|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C0178702|CHI|-|-|-|-|Y|-|desensitization therapy|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C0556520|CHI|-|-|-|-|Y|-|desensitization therapy|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C4722104|CHI|-|-|-|-|Y|-|desensitization therapy|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C0162352|CHI|-|-|-|-|Y|-|desensitization therapy|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C0178702|CHI|-|-|-|-|Y|-|desensitization treatment|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C0556520|CHI|-|-|-|-|Y|-|desensitization treatment|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C4722104|CHI|-|-|-|-|Y|-|desensitization treatment|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C0162352|CHI|-|-|-|-|Y|-|desensitization treatment|-|-|CUSTOM|Treatment|-|脱敏|0|N|256
+C0184661|CHI|-|-|-|-|Y|-|intervention|-|-|CUSTOM|Treatment|-|程序|0|N|256
+C0184933|CHI|-|-|-|-|Y|-|scrape|-|-|CUSTOM|Treatment|-|刮|0|N|256
+C0184933|CHI|-|-|-|-|Y|-|scraped|-|-|CUSTOM|Treatment|-|刮|0|N|256
+C0184933|CHI|-|-|-|-|Y|-|scraping|-|-|CUSTOM|Treatment|-|刮|0|N|256
+C0184967|CHI|-|-|-|-|Y|-|packed|-|-|CUSTOM|Treatment|-|拥挤的|0|N|256
+C0185047|CHI|-|-|-|-|Y|-|stripping|-|-|CUSTOM|Treatment|-|剥离|0|N|256
+C0185060|CHI|-|-|-|-|Y|-|crush|-|-|CUSTOM|Treatment|-|挤压|0|N|256
+C0191722|CHI|-|-|-|-|Y|-|nail avulsion|-|-|CUSTOM|Treatment|-|指甲摘除术|0|N|256
+C0851257|CHI|-|-|-|-|Y|-|nail avulsion|-|-|CUSTOM|Treatment|-|指甲摘除术|0|N|256
+C0191722|CHI|-|-|-|-|Y|-|nail removal|-|-|CUSTOM|Treatment|-|指甲摘除术|0|N|256
+C0851257|CHI|-|-|-|-|Y|-|nail removal|-|-|CUSTOM|Treatment|-|指甲摘除术|0|N|256
+C0195324|CHI|-|-|-|-|Y|-|ionization|-|-|CUSTOM|Test|-|锥形|0|N|256
+C0199751|CHI|-|-|-|-|Y|-|puncture test|-|-|CUSTOM|Test|-|穿刺试验|0|N|256
+C0199780|CHI|-|-|-|-|Y|-|hormone injections|-|-|CUSTOM|Treatment|-|激素注射|0|N|256
+C0199859|CHI|-|-|-|-|Y|-|deworming|-|-|CUSTOM|Treatment|-|驱虫|0|N|256
+C0200635|CHI|-|-|-|-|Y|-|lymphocyte count|-|-|CUSTOM|Test|-|淋巴细胞计数|0|N|256
+C0200954|CHI|-|-|-|-|Y|-|fungal culture|-|-|CUSTOM|Test|-|真菌培养|0|N|256
+C0202084|CHI|-|-|-|-|Y|-|igm|-|-|CUSTOM|Treatment|-|免疫球蛋白|0|N|256
+C0020861|CHI|-|-|-|-|Y|-|igm|-|-|CUSTOM|Treatment|-|免疫球蛋白|0|N|256
+C0202251|CHI|-|-|-|-|Y|-|vitamin b6|-|-|CUSTOM|Treatment|-|维生素b6|0|N|256
+C0087162|CHI|-|-|-|-|Y|-|vitamin b6|-|-|CUSTOM|Treatment|-|维生素b6|0|N|256
+C0034272|CHI|-|-|-|-|Y|-|vitamin b6|-|-|CUSTOM|Treatment|-|维生素b6|0|N|256
+C0202391|CHI|-|-|-|-|Y|-|gentamicin|-|-|CUSTOM|Treatment|-|庆大霉素|0|N|256
+C3854019|CHI|-|-|-|-|Y|-|gentamicin|-|-|CUSTOM|Treatment|-|庆大霉素|0|N|256
+C0205204|CHI|-|-|-|-|Y|-|crust|-|-|CUSTOM|Disease|-|结痂|0|N|256
+C0205204|CHI|-|-|-|-|Y|-|crusting|-|-|CUSTOM|Disease|-|结痂|0|N|256
+C0205204|CHI|-|-|-|-|Y|-|crusting[SEP]crusts|-|-|CUSTOM|Disease|-|结痂|0|N|256
+C0205204|CHI|-|-|-|-|Y|-|scab|-|-|CUSTOM|Disease|-|结痂|0|N|256
+C0205204|CHI|-|-|-|-|Y|-|scab[SEP]scabbing|-|-|CUSTOM|Disease|-|结痂|0|N|256
+C0205204|CHI|-|-|-|-|Y|-|scabbed|-|-|CUSTOM|Disease|-|结痂|0|N|256
+C0205204|CHI|-|-|-|-|Y|-|scabbing|-|-|CUSTOM|Disease|-|结痂|0|N|256
+C0205204|CHI|-|-|-|-|Y|-|scabbing[SEP]scabs|-|-|CUSTOM|Disease|-|结痂|0|N|256
+C0205204|CHI|-|-|-|-|Y|-|scabs|-|-|CUSTOM|Disease|-|结痂|0|N|256
+C0205700|CHI|-|-|-|-|Y|-|ash|-|-|CUSTOM|Disease|-|灰|0|N|256
+C0206138|CHI|-|-|-|-|Y|-|crest|-|-|CUSTOM|Disease|-|山顶|0|N|256
+C0206172|CHI|-|-|-|-|Y|-|diabetic foot|-|-|CUSTOM|Disease|-|糖尿病足|0|N|256
+C0206673|CHI|-|-|-|-|Y|-|syringoma|-|-|CUSTOM|Disease|-|汗管瘤|0|N|256
+C0206684|CHI|-|-|-|-|Y|-|sebaceous carcinoma|-|-|CUSTOM|Disease|-|皮脂腺癌|0|N|256
+C0206684|CHI|-|-|-|-|Y|-|sebaceous gland carcinoma|-|-|CUSTOM|Disease|-|皮脂腺癌|0|N|256
+C0206706|CHI|-|-|-|-|Y|-|verrucous carcinoma|-|-|CUSTOM|Disease|-|疣状癌|0|N|256
+C0206706|CHI|-|-|-|-|Y|-|verrucous carcinoma|-|-|CUSTOM|Disease|-|疣癌|0|N|256
+C0206711|CHI|-|-|-|-|Y|-|pilomatricoma|-|-|CUSTOM|Disease|-|毛母细胞瘤|0|N|256
+C0206711|CHI|-|-|-|-|Y|-|pilomatrixoma|-|-|CUSTOM|Disease|-|毛母细胞瘤|0|N|256
+C0206731|CHI|-|-|-|-|Y|-|fibrous papule|-|-|CUSTOM|Disease|-|血管纤维瘤|0|N|256
+C4721413|CHI|-|-|-|-|Y|-|fibrous papule|-|-|CUSTOM|Disease|-|血管纤维瘤|0|N|256
+C0206737|CHI|-|-|-|-|Y|-|intradermal nevus|-|-|CUSTOM|Disease|-|皮内痣|0|N|256
+C0207011|CHI|-|-|-|-|Y|-|myrrh|-|-|CUSTOM|Treatment|-|没药|0|N|256
+C0209227|CHI|-|-|-|-|Y|-|famciclovir|-|-|CUSTOM|Treatment|-|泛昔洛韦|0|N|256
+C0220797|CHI|-|-|-|-|Y|-|biopsy|-|-|CUSTOM|Disease|-|活体组织检查|0|N|256
+C0005558|CHI|-|-|-|-|Y|-|biopsy|-|-|CUSTOM|Disease|-|活体组织检查|0|N|256
+C0220836|CHI|-|-|-|-|Y|-|gluconate|-|-|CUSTOM|Treatment|-|葡萄糖酸盐|0|N|256
+C0221198|CHI|-|-|-|-|Y|-|lesion|-|-|CUSTOM|Disease|-|病变|0|N|256
+C0221198|CHI|-|-|-|-|Y|-|lesion[SEP]lesions|-|-|CUSTOM|Disease|-|病变|0|N|256
+C0221198|CHI|-|-|-|-|Y|-|lesions|-|-|CUSTOM|Disease|-|病变|0|N|256
+C0221203|CHI|-|-|-|-|Y|-|vesicular rash|-|-|CUSTOM|Disease|-|水泡性皮疹|0|N|256
+C0221207|CHI|-|-|-|-|Y|-|cold urticaria|-|-|CUSTOM|Disease|-|感冒性荨麻疹|0|N|256
+C0221207|CHI|-|-|-|-|Y|-|cold-induced urticaria|-|-|CUSTOM|Disease|-|感冒性荨麻疹|0|N|256
+C0221218|CHI|-|-|-|-|Y|-|fordyce|-|-|CUSTOM|Disease|-|皮脂腺|0|N|256
+C0221218|CHI|-|-|-|-|Y|-|fordyce disease|-|-|CUSTOM|Disease|-|皮脂腺异位症|0|N|256
+C0221228|CHI|-|-|-|-|Y|-|comedo|-|-|CUSTOM|Disease|-|粉刺|0|N|256
+C0221228|CHI|-|-|-|-|Y|-|comedones|-|-|CUSTOM|Disease|-|粉刺|0|N|256
+C0221232|CHI|-|-|-|-|Y|-|wheal|-|-|CUSTOM|Disease|-|风团|0|N|256
+C0221237|CHI|-|-|-|-|Y|-|angular cheilitis|-|-|CUSTOM|Disease|-|口角炎|0|N|256
+C0221242|CHI|-|-|-|-|Y|-|fixed drug eruption|-|-|CUSTOM|Disease|-|固定性药疹|0|N|256
+C0221242|CHI|-|-|-|-|Y|-|fixed drug eruptions|-|-|CUSTOM|Disease|-|固定性药疹|0|N|256
+C0221245|CHI|-|-|-|-|Y|-|cracked skin|-|-|CUSTOM|Disease|-|皮肤破裂|0|N|256
+C0221271|CHI|-|-|-|-|Y|-|elastosis perforans serpiginosa|-|-|CUSTOM|Disease|-|serpiginosa穿孔弹性体病|0|N|256
+C0221277|CHI|-|-|-|-|Y|-|atypical lymphocytes|-|-|CUSTOM|Disease|-|非典型淋巴细胞|0|N|256
+C0427546|CHI|-|-|-|-|Y|-|atypical lymphocytes|-|-|CUSTOM|Disease|-|非典型淋巴细胞|0|N|256
+C0221345|CHI|-|-|-|-|Y|-|nail discoloration|-|-|CUSTOM|Disease|-|指甲变色|0|N|256
+C0221391|CHI|-|-|-|-|Y|-|melanosis|-|-|CUSTOM|Disease|-|黑变病|0|N|256
+C0025209|CHI|-|-|-|-|Y|-|melanosis|-|-|CUSTOM|Disease|-|黑变病|0|N|256
+C0231239|CHI|-|-|-|-|Y|-|fluctuation|-|-|CUSTOM|Disease|-|波动|0|N|256
+C0231706|CHI|-|-|-|-|Y|-|circling|-|-|CUSTOM|Disease|-|盘旋|0|N|256
+C0232267|CHI|-|-|-|-|Y|-|rub|-|-|CUSTOM|Disease|-|擦|0|N|256
+C0232483|CHI|-|-|-|-|Y|-|reflux|-|-|CUSTOM|Disease|-|反流|0|N|256
+C4317146|CHI|-|-|-|-|Y|-|reflux|-|-|CUSTOM|Disease|-|反流|0|N|256
+C0233494|CHI|-|-|-|-|Y|-|tension|-|-|CUSTOM|Disease|-|紧张|0|N|256
+C0234230|CHI|-|-|-|-|Y|-|burning pain|-|-|CUSTOM|Disease|-|灼痛|0|N|256
+C0234233|CHI|-|-|-|-|Y|-|sore|-|-|CUSTOM|Disease|-|疼痛的|0|N|256
+C0234233|CHI|-|-|-|-|Y|-|tenderness|-|-|CUSTOM|Disease|-|疼痛的|0|N|256
+C0234906|CHI|-|-|-|-|Y|-|annular erythema|-|-|CUSTOM|Disease|-|环型红斑|0|N|256
+C0234906|CHI|-|-|-|-|Y|-|erythema annulare|-|-|CUSTOM|Disease|-|环状红斑|0|N|256
+C0234909|CHI|-|-|-|-|Y|-|nail changes|-|-|CUSTOM|Disease|-|指甲变化|0|N|256
+C0234922|CHI|-|-|-|-|Y|-|scaly rash|-|-|CUSTOM|Disease|-|鳞状皮疹|0|N|256
+C0234925|CHI|-|-|-|-|Y|-|oily skin|-|-|CUSTOM|Disease|-|油性皮肤|0|N|256
+C0234935|CHI|-|-|-|-|Y|-|acute urticaria|-|-|CUSTOM|Disease|-|急性荨麻疹|0|N|256
+C0235351|CHI|-|-|-|-|Y|-|tongue ulcer|-|-|CUSTOM|Disease|-|舌头溃疡|0|N|256
+C0235752|CHI|-|-|-|-|Y|-|port-wine stain|-|-|CUSTOM|Disease|-|鲜红斑痣|0|N|256
+C0235950|CHI|-|-|-|-|Y|-|zinc deficiency|-|-|CUSTOM|Disease|-|缺锌|0|N|256
+C0236018|CHI|-|-|-|-|Y|-|aura|-|-|CUSTOM|Disease|-|气质|0|N|256
+C0237849|CHI|-|-|-|-|Y|-|desquamation|-|-|CUSTOM|Disease|-|剥|0|N|256
+C1302869|CHI|-|-|-|-|Y|-|desquamation|-|-|CUSTOM|Disease|-|剥|0|N|256
+C0237849|CHI|-|-|-|-|Y|-|exfoliate|-|-|CUSTOM|Disease|-|剥|0|N|256
+C1302869|CHI|-|-|-|-|Y|-|exfoliate|-|-|CUSTOM|Disease|-|剥|0|N|256
+C0237849|CHI|-|-|-|-|Y|-|peel|-|-|CUSTOM|Disease|-|剥|0|N|256
+C1302869|CHI|-|-|-|-|Y|-|peel|-|-|CUSTOM|Disease|-|剥|0|N|256
+C0237849|CHI|-|-|-|-|Y|-|peeling|-|-|CUSTOM|Disease|-|剥|0|N|256
+C1302869|CHI|-|-|-|-|Y|-|peeling|-|-|CUSTOM|Disease|-|剥|0|N|256
+C0237849|CHI|-|-|-|-|Y|-|peeling skin|-|-|CUSTOM|Disease|-|剥|0|N|256
+C1302869|CHI|-|-|-|-|Y|-|peeling skin|-|-|CUSTOM|Disease|-|剥|0|N|256
+C0237849|CHI|-|-|-|-|Y|-|scales|-|-|CUSTOM|Disease|-|剥|0|N|256
+C1302869|CHI|-|-|-|-|Y|-|scales|-|-|CUSTOM|Disease|-|剥|0|N|256
+C0237849|CHI|-|-|-|-|Y|-|scaling|-|-|CUSTOM|Disease|-|剥|0|N|256
+C1302869|CHI|-|-|-|-|Y|-|scaling|-|-|CUSTOM|Disease|-|剥|0|N|256
+C0237849|CHI|-|-|-|-|Y|-|scaling of skin|-|-|CUSTOM|Disease|-|剥|0|N|256
+C1302869|CHI|-|-|-|-|Y|-|scaling of skin|-|-|CUSTOM|Disease|-|剥|0|N|256
+C0237849|CHI|-|-|-|-|Y|-|skin scales|-|-|CUSTOM|Disease|-|鳞屑|0|N|256
+C1302869|CHI|-|-|-|-|Y|-|skin scales|-|-|CUSTOM|Disease|-|鳞屑|0|N|256
+C0238744|CHI|-|-|-|-|Y|-|back rash|-|-|CUSTOM|Disease|-|背部皮疹|0|N|256
+C0239161|CHI|-|-|-|-|Y|-|dactylitis|-|-|CUSTOM|Disease|-|手指炎|0|N|256
+C0239574|CHI|-|-|-|-|Y|-|low fever|-|-|CUSTOM|Disease|-|低热|0|N|256
+C0239816|CHI|-|-|-|-|Y|-|hand eczema|-|-|CUSTOM|Disease|-|手部湿疹|0|N|256
+C0239950|CHI|-|-|-|-|Y|-|herald patch|-|-|CUSTOM|Disease|-|先驱补丁|0|N|256
+C0240182|CHI|-|-|-|-|Y|-|leukonychia|-|-|CUSTOM|Disease|-|白甲病|0|N|256
+C0240320|CHI|-|-|-|-|Y|-|medication use|-|-|CUSTOM|Disease|-|使用药物|0|N|256
+C0240320|CHI|-|-|-|-|Y|-|use medication|-|-|CUSTOM|Disease|-|使用药物|0|N|256
+C0240434|CHI|-|-|-|-|Y|-|nail deformity|-|-|CUSTOM|Disease|-|指甲畸形|0|N|256
+C0241126|CHI|-|-|-|-|Y|-|skin moist|-|-|CUSTOM|Disease|-|潮湿的皮肤|0|N|256
+C0241128|CHI|-|-|-|-|Y|-|nikolsky sign|-|-|CUSTOM|Disease|-|尼科尔斯基征|0|N|256
+C0241158|CHI|-|-|-|-|Y|-|scar|-|-|CUSTOM|Disease|-|瘢痕|0|N|256
+C2004491|CHI|-|-|-|-|Y|-|scar|-|-|CUSTOM|Disease|-|瘢痕|0|N|256
+C0008767|CHI|-|-|-|-|Y|-|scar|-|-|CUSTOM|Disease|-|瘢痕|0|N|256
+C0241158|CHI|-|-|-|-|Y|-|scar tissue|-|-|CUSTOM|Disease|-|疤痕组织|0|N|256
+C2004491|CHI|-|-|-|-|Y|-|scar tissue|-|-|CUSTOM|Disease|-|疤痕组织|0|N|256
+C0008767|CHI|-|-|-|-|Y|-|scar tissue|-|-|CUSTOM|Disease|-|疤痕组织|0|N|256
+C0241158|CHI|-|-|-|-|Y|-|scar[SEP]scarring[SEP]scars|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C2004491|CHI|-|-|-|-|Y|-|scar[SEP]scarring[SEP]scars|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C0008767|CHI|-|-|-|-|Y|-|scar[SEP]scarring[SEP]scars|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C0241158|CHI|-|-|-|-|Y|-|scarred|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C2004491|CHI|-|-|-|-|Y|-|scarred|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C0008767|CHI|-|-|-|-|Y|-|scarred|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C0241158|CHI|-|-|-|-|Y|-|scarred[SEP]scars|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C2004491|CHI|-|-|-|-|Y|-|scarred[SEP]scars|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C0008767|CHI|-|-|-|-|Y|-|scarred[SEP]scars|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C0241158|CHI|-|-|-|-|Y|-|scarring|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C2004491|CHI|-|-|-|-|Y|-|scarring|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C0008767|CHI|-|-|-|-|Y|-|scarring|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C0241158|CHI|-|-|-|-|Y|-|scars|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C2004491|CHI|-|-|-|-|Y|-|scars|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C0008767|CHI|-|-|-|-|Y|-|scars|-|-|CUSTOM|Disease|-|疤痕|0|N|256
+C0241164|CHI|-|-|-|-|Y|-|tender skin|-|-|CUSTOM|Disease|-|水嫩的皮肤|0|N|256
+C0241165|CHI|-|-|-|-|Y|-|thickening of the skin|-|-|CUSTOM|Disease|-|皮肤增厚|0|N|256
+C0241292|CHI|-|-|-|-|Y|-|subungual hemorrhage|-|-|CUSTOM|Disease|-|舌下出血|0|N|256
+C0241657|CHI|-|-|-|-|Y|-|vascular abnormality|-|-|CUSTOM|Disease|-|血管异常|0|N|256
+C0241863|CHI|-|-|-|-|Y|-|diabetic|-|-|CUSTOM|Disease|-|糖尿病患者|0|N|256
+C0242184|CHI|-|-|-|-|Y|-|hypoxic|-|-|CUSTOM|Disease|-|缺氧的|0|N|256
+C0242184|CHI|-|-|-|-|Y|-|oxygen deficiency|-|-|CUSTOM|Disease|-|缺氧的|0|N|256
+C0242301|CHI|-|-|-|-|Y|-|boil|-|-|CUSTOM|Disease|-|疖|0|N|256
+C0242301|CHI|-|-|-|-|Y|-|boils|-|-|CUSTOM|Disease|-|疖|0|N|256
+C0242301|CHI|-|-|-|-|Y|-|furuncle|-|-|CUSTOM|Disease|-|疖|0|N|256
+C0242301|CHI|-|-|-|-|Y|-|furuncle[SEP]boil|-|-|CUSTOM|Disease|-|疖|0|N|256
+C0242301|CHI|-|-|-|-|Y|-|furuncles|-|-|CUSTOM|Disease|-|疖|0|N|256
+C0242350|CHI|-|-|-|-|Y|-|impotence|-|-|CUSTOM|Disease|-|无能力|0|N|256
+C0242354|CHI|-|-|-|-|Y|-|congenital diseases|-|-|CUSTOM|Disease|-|先天性疾病|0|N|256
+C0242383|CHI|-|-|-|-|Y|-|age-related macular degeneration|-|-|CUSTOM|Disease|-|年龄相关性黄斑变性|0|N|256
+C0242389|CHI|-|-|-|-|Y|-|folk remedies|-|-|CUSTOM|Treatment|-|民间补救措施|0|N|256
+C0242389|CHI|-|-|-|-|Y|-|folk remedy|-|-|CUSTOM|Treatment|-|民间补救措施|0|N|256
+C0242893|CHI|-|-|-|-|Y|-|cholinergic|-|-|CUSTOM|Treatment|-|胆碱能的|0|N|256
+C0242896|CHI|-|-|-|-|Y|-|anticholinergic|-|-|CUSTOM|Treatment|-|抗胆碱剂|0|N|256
+C0242896|CHI|-|-|-|-|Y|-|anticholinergic drug|-|-|CUSTOM|Treatment|-|抗胆碱剂|0|N|256
+C0243088|CHI|-|-|-|-|Y|-|sequelae|-|-|CUSTOM|Disease|-|后遗症|0|N|256
+C0244231|CHI|-|-|-|-|Y|-|diprospan|-|-|CUSTOM|Treatment|-|得宝松|0|N|256
+C0259817|CHI|-|-|-|-|Y|-|xerosis|-|-|CUSTOM|Disease|-|干燥|0|N|256
+C0260055|CHI|-|-|-|-|Y|-|liquid nitrogen|-|-|CUSTOM|Treatment|-|液氮|0|N|256
+C0262975|CHI|-|-|-|-|Y|-|chronic dermatitis|-|-|CUSTOM|Disease|-|慢性皮炎|0|N|256
+C0262977|CHI|-|-|-|-|Y|-|depigmentation of skin|-|-|CUSTOM|Disease|-|皮肤色素脱失|0|N|256
+C0262988|CHI|-|-|-|-|Y|-|cutaneous vasculitis|-|-|CUSTOM|Disease|-|皮肤血管炎|0|N|256
+C0262988|CHI|-|-|-|-|Y|-|skin vasculitis|-|-|CUSTOM|Disease|-|皮肤血管炎|0|N|256
+C0262995|CHI|-|-|-|-|Y|-|generalized dermatitis|-|-|CUSTOM|Disease|-|全身性皮炎|0|N|256
+C0263057|CHI|-|-|-|-|Y|-|furuncle of the ear|-|-|CUSTOM|Disease|-|耳糠|0|N|256
+C0263221|CHI|-|-|-|-|Y|-|acute eczema|-|-|CUSTOM|Disease|-|急性湿疹|0|N|256
+C0263222|CHI|-|-|-|-|Y|-|chronic eczema|-|-|CUSTOM|Disease|-|慢性湿疹|0|N|256
+C0263236|CHI|-|-|-|-|Y|-|autosensitization dermatitis|-|-|CUSTOM|Disease|-|id反应|0|N|256
+C0263312|CHI|-|-|-|-|Y|-|pemphigus erythematosus|-|-|CUSTOM|Disease|-|红斑型天疱疮|0|N|256
+C0263333|CHI|-|-|-|-|Y|-|contact urticaria|-|-|CUSTOM|Disease|-|接触性荨麻疹|0|N|256
+C0263338|CHI|-|-|-|-|Y|-|chronic urticaria|-|-|CUSTOM|Disease|-|慢性荨麻疹|0|N|256
+C0263351|CHI|-|-|-|-|Y|-|senile pruritus|-|-|CUSTOM|Disease|-|老年性瘙痒症|0|N|256
+C0263352|CHI|-|-|-|-|Y|-|papular urticaria|-|-|CUSTOM|Disease|-|丘疹性荨麻疹|0|N|256
+C0263352|CHI|-|-|-|-|Y|-|papular urticaria|-|-|CUSTOM|Disease|-|丘荨|0|N|256
+C0263353|CHI|-|-|-|-|Y|-|nodular prurigo|-|-|CUSTOM|Disease|-|结节性痒疹|0|N|256
+C0263353|CHI|-|-|-|-|Y|-|prurigo nodularis|-|-|CUSTOM|Disease|-|结节性瘙痒症|0|N|256
+C0263358|CHI|-|-|-|-|Y|-|erythema annulare centrifugum|-|-|CUSTOM|Disease|-|离心性环状红斑|0|N|256
+C0263361|CHI|-|-|-|-|Y|-|psoriasis vulgaris|-|-|CUSTOM|Disease|-|寻常型银屑病|0|N|256
+C0263367|CHI|-|-|-|-|Y|-|koebner|-|-|CUSTOM|Disease|-|koebner|0|N|256
+C0263372|CHI|-|-|-|-|Y|-|acrodermatitis|-|-|CUSTOM|Disease|-|肢端皮炎|0|N|256
+C0001197|CHI|-|-|-|-|Y|-|acrodermatitis|-|-|CUSTOM|Disease|-|肢端皮炎|0|N|256
+C0392439|CHI|-|-|-|-|Y|-|acrodermatitis|-|-|CUSTOM|Disease|-|肢端皮炎|0|N|256
+C0263372|CHI|-|-|-|-|Y|-|acrodermatitis continua|-|-|CUSTOM|Disease|-|肢端皮炎|0|N|256
+C0001197|CHI|-|-|-|-|Y|-|acrodermatitis continua|-|-|CUSTOM|Disease|-|肢端皮炎|0|N|256
+C0392439|CHI|-|-|-|-|Y|-|acrodermatitis continua|-|-|CUSTOM|Disease|-|肢端皮炎|0|N|256
+C0263374|CHI|-|-|-|-|Y|-|lichen striatus|-|-|CUSTOM|Disease|-|线状苔藓|0|N|256
+C0263387|CHI|-|-|-|-|Y|-|pitted keratolysis|-|-|CUSTOM|Disease|-|凹陷性角化病|0|N|256
+C0263396|CHI|-|-|-|-|Y|-|pigmented purpuric dermatosis|-|-|CUSTOM|Disease|-|色素性紫癜性皮肤病|0|N|256
+C1405867|CHI|-|-|-|-|Y|-|pigmented purpuric dermatosis|-|-|CUSTOM|Disease|-|色素性紫癜性皮肤病|0|N|256
+C0263396|CHI|-|-|-|-|Y|-|pigmented purpuric lichenoid dermatitis|-|-|CUSTOM|Disease|-|色素性紫癜性苔藓样皮炎|0|N|256
+C1405867|CHI|-|-|-|-|Y|-|pigmented purpuric lichenoid dermatitis|-|-|CUSTOM|Disease|-|色素性紫癜性苔藓样皮炎|0|N|256
+C0263449|CHI|-|-|-|-|Y|-|perioral dermatitis|-|-|CUSTOM|Disease|-|口周皮炎|0|N|256
+C0263538|CHI|-|-|-|-|Y|-|clubbed nails|-|-|CUSTOM|Disease|-|棒状指甲|0|N|256
+C0263574|CHI|-|-|-|-|Y|-|civatte|-|-|CUSTOM|Disease|-|civatte|0|N|256
+C0263579|CHI|-|-|-|-|Y|-|becker's nevus|-|-|CUSTOM|Disease|-|贝克痣|0|N|256
+C0263579|CHI|-|-|-|-|Y|-|pigmented hairy epidermal nevus|-|-|CUSTOM|Disease|-|贝克痣|0|N|256
+C0263583|CHI|-|-|-|-|Y|-|idiopathic guttate hypomelanosis|-|-|CUSTOM|Disease|-|特发性喉舌黑色素减少症|0|N|256
+C0263610|CHI|-|-|-|-|Y|-|solar urticaria|-|-|CUSTOM|Disease|-|日光性荨麻疹|0|N|256
+C0263625|CHI|-|-|-|-|Y|-|skin calcification|-|-|CUSTOM|Disease|-|皮肤钙化|0|N|256
+C0264000|CHI|-|-|-|-|Y|-|knuckle pad|-|-|CUSTOM|Disease|-|转向节衬垫|0|N|256
+C0264000|CHI|-|-|-|-|Y|-|knuckle pads|-|-|CUSTOM|Disease|-|转向节衬垫|0|N|256
+C0265024|CHI|-|-|-|-|Y|-|capillary bleeding|-|-|CUSTOM|Disease|-|毛细血管出血|0|N|256
+C0265031|CHI|-|-|-|-|Y|-|hemorrhoids bleeding|-|-|CUSTOM|Disease|-|痔疮出血|0|N|256
+C0265126|CHI|-|-|-|-|Y|-|milk spots|-|-|CUSTOM|Disease|-|乳斑|0|N|256
+C0265970|CHI|-|-|-|-|Y|-|disseminated superficial actinic porokeratosis|-|-|CUSTOM|Disease|-|播散性浅表光化性多孔角化症|0|N|256
+C0265974|CHI|-|-|-|-|Y|-|birthmark|-|-|CUSTOM|Disease|-|胎记|0|N|256
+C0265985|CHI|-|-|-|-|Y|-|blue nevus|-|-|CUSTOM|Disease|-|蓝痣|0|N|256
+C0206736|CHI|-|-|-|-|Y|-|blue nevus|-|-|CUSTOM|Disease|-|蓝痣|0|N|256
+C0268397|CHI|-|-|-|-|Y|-|amyloidosis of the skin|-|-|CUSTOM|Disease|-|淀粉样变苔藓|0|N|256
+C0268397|CHI|-|-|-|-|Y|-|cutaneous amyloidosis|-|-|CUSTOM|Disease|-|淀粉样变苔藓|0|N|256
+C0268397|CHI|-|-|-|-|Y|-|lichen amyloidosis|-|-|CUSTOM|Disease|-|淀粉样变苔藓|0|N|256
+C0268785|CHI|-|-|-|-|Y|-|thorn|-|-|CUSTOM|Disease|-|刺|0|N|256
+C0268919|CHI|-|-|-|-|Y|-|scrotum|-|-|CUSTOM|Disease|-|阴囊|0|N|256
+C0275115|CHI|-|-|-|-|Y|-|poisonous insect bite|-|-|CUSTOM|Disease|-|毒虫叮咬|0|N|256
+C0275524|CHI|-|-|-|-|Y|-|mixed infection|-|-|CUSTOM|Disease|-|混合感染|0|N|256
+C0275613|CHI|-|-|-|-|Y|-|black disease|-|-|CUSTOM|Disease|-|黑色疾病|0|N|256
+C0275939|CHI|-|-|-|-|Y|-|tuberculosis verrucosa cutis|-|-|CUSTOM|Disease|-|疣状皮肤结核|0|N|256
+C0276223|CHI|-|-|-|-|Y|-|recurrent herpes simplex|-|-|CUSTOM|Disease|-|复发性单纯疱疹|0|N|256
+C0276262|CHI|-|-|-|-|Y|-|flat wart|-|-|CUSTOM|Disease|-|扁平疣|0|N|256
+C0276262|CHI|-|-|-|-|Y|-|flat warts|-|-|CUSTOM|Disease|-|扁平疣|0|N|256
+C0276742|CHI|-|-|-|-|Y|-|kerion|-|-|CUSTOM|Disease|-|脓癣|0|N|256
+C0277320|CHI|-|-|-|-|Y|-|filariasis|-|-|CUSTOM|Disease|-|丝虫病|0|N|256
+C0016085|CHI|-|-|-|-|Y|-|filariasis|-|-|CUSTOM|Disease|-|丝虫病|0|N|256
+C0277346|CHI|-|-|-|-|Y|-|bed bugs|-|-|CUSTOM|Disease|-|臭虫|0|N|256
+C0277346|CHI|-|-|-|-|Y|-|bedbugs|-|-|CUSTOM|Disease|-|臭虫|0|N|256
+C0277355|CHI|-|-|-|-|Y|-|fleas|-|-|CUSTOM|Disease|-|跳蚤|0|N|256
+C0277785|CHI|-|-|-|-|Y|-|dysfunction|-|-|CUSTOM|Disease|-|功能障碍|0|N|256
+C0277925|CHI|-|-|-|-|Y|-|cold extremities|-|-|CUSTOM|Disease|-|四肢冰冷|0|N|256
+C0278595|CHI|-|-|-|-|Y|-|fibrosarcoma|-|-|CUSTOM|Disease|-|纤维肉瘤|0|N|256
+C0279981|CHI|-|-|-|-|Y|-|fibrosarcoma|-|-|CUSTOM|Disease|-|纤维肉瘤|0|N|256
+C0016057|CHI|-|-|-|-|Y|-|fibrosarcoma|-|-|CUSTOM|Disease|-|纤维肉瘤|0|N|256
+C0279025|CHI|-|-|-|-|Y|-|hormone therapy|-|-|CUSTOM|Treatment|-|激素疗法|0|N|256
+C0279027|CHI|-|-|-|-|Y|-|laser therapy|-|-|CUSTOM|Treatment|-|激光治疗|0|N|256
+C1955835|CHI|-|-|-|-|Y|-|laser therapy|-|-|CUSTOM|Treatment|-|激光治疗|0|N|256
+C0279516|CHI|-|-|-|-|Y|-|antibacterial|-|-|CUSTOM|Treatment|-|抗菌的|0|N|256
+C0282310|CHI|-|-|-|-|Y|-|actinic dermatitis|-|-|CUSTOM|Disease|-|光化性皮炎|0|N|256
+C0282386|CHI|-|-|-|-|Y|-|levofloxacin|-|-|CUSTOM|Treatment|-|左氧氟沙星|0|N|256
+C0282555|CHI|-|-|-|-|Y|-|antiallergic|-|-|CUSTOM|Treatment|-|抗过敏的|0|N|256
+C0282555|CHI|-|-|-|-|Y|-|antiallergic drugs|-|-|CUSTOM|Treatment|-|抗过敏的|0|N|256
+C0288792|CHI|-|-|-|-|Y|-|tazarotene|-|-|CUSTOM|Treatment|-|他扎罗汀|0|N|256
+C0296800|CHI|-|-|-|-|Y|-|fexofenadine|-|-|CUSTOM|Treatment|-|非索非那定|0|N|256
+C0301532|CHI|-|-|-|-|Y|-|multivitamin|-|-|CUSTOM|Treatment|-|复合维生素|0|N|256
+C0301532|CHI|-|-|-|-|Y|-|multivitamins|-|-|CUSTOM|Treatment|-|复合维生素|0|N|256
+C0301927|CHI|-|-|-|-|Y|-|autosensitivity|-|-|CUSTOM|Disease|-|自动灵敏度|0|N|256
+C0302113|CHI|-|-|-|-|Y|-|fragility|-|-|CUSTOM|Disease|-|脆弱性|0|N|256
+C0302148|CHI|-|-|-|-|Y|-|blood clotting|-|-|CUSTOM|Disease|-|血液凝固|0|N|256
+C0302302|CHI|-|-|-|-|Y|-|whitehead|-|-|CUSTOM|Disease|-|怀特黑德|0|N|256
+C0302302|CHI|-|-|-|-|Y|-|whiteheads|-|-|CUSTOM|Disease|-|怀特黑德|0|N|256
+C0302314|CHI|-|-|-|-|Y|-|eyelid xanthoma|-|-|CUSTOM|Disease|-|黄色瘤|0|N|256
+C0155210|CHI|-|-|-|-|Y|-|eyelid xanthoma|-|-|CUSTOM|Disease|-|黄色瘤|0|N|256
+C0302314|CHI|-|-|-|-|Y|-|xanthoma|-|-|CUSTOM|Disease|-|黄色瘤|0|N|256
+C0155210|CHI|-|-|-|-|Y|-|xanthoma|-|-|CUSTOM|Disease|-|黄色瘤|0|N|256
+C0302363|CHI|-|-|-|-|Y|-|bang|-|-|CUSTOM|Disease|-|猛敲|0|N|256
+C0302921|CHI|-|-|-|-|Y|-|strong acid|-|-|CUSTOM|Treatment|-|强酸|0|N|256
+C0303749|CHI|-|-|-|-|Y|-|bleaching|-|-|CUSTOM|Treatment|-|漂白|0|N|256
+C0304554|CHI|-|-|-|-|Y|-|aloe|-|-|CUSTOM|Treatment|-|芦荟属|0|N|256
+C0304561|CHI|-|-|-|-|Y|-|rhubarb|-|-|CUSTOM|Treatment|-|大黄|0|N|256
+C2937996|CHI|-|-|-|-|Y|-|rhubarb|-|-|CUSTOM|Treatment|-|大黄|0|N|256
+C0304604|CHI|-|-|-|-|Y|-|topical corticosteroid|-|-|CUSTOM|Treatment|-|局部皮质类固醇|0|N|256
+C0304604|CHI|-|-|-|-|Y|-|topical corticosteroids|-|-|CUSTOM|Treatment|-|局部皮质类固醇|0|N|256
+C0304622|CHI|-|-|-|-|Y|-|coal tar ointment|-|-|CUSTOM|Treatment|-|煤焦油软膏|0|N|256
+C0311213|CHI|-|-|-|-|Y|-|scratches|-|-|CUSTOM|Disease|-|划痕|0|N|256
+C0311388|CHI|-|-|-|-|Y|-|chigger|-|-|CUSTOM|Disease|-|恙螨|0|N|256
+C0332155|CHI|-|-|-|-|Y|-|untreated|-|-|CUSTOM|Disease|-|无需治疗|0|N|256
+C0332448|CHI|-|-|-|-|Y|-|infiltration|-|-|CUSTOM|Disease|-|渗透|0|N|256
+C0332448|CHI|-|-|-|-|Y|-|infiltration[SEP]infiltrates|-|-|CUSTOM|Disease|-|渗透|0|N|256
+C0332448|CHI|-|-|-|-|Y|-|infiltration[SEP]infiltrating|-|-|CUSTOM|Disease|-|渗透|0|N|256
+C0332566|CHI|-|-|-|-|Y|-|maculopapules|-|-|CUSTOM|Disease|-|斑丘疹|0|N|256
+C0332573|CHI|-|-|-|-|Y|-|macule|-|-|CUSTOM|Disease|-|黄斑|0|N|256
+C0332573|CHI|-|-|-|-|Y|-|macules|-|-|CUSTOM|Disease|-|黄斑|0|N|256
+C0332691|CHI|-|-|-|-|Y|-|scald|-|-|CUSTOM|Disease|-|烫伤|0|N|256
+C0332691|CHI|-|-|-|-|Y|-|scalded|-|-|CUSTOM|Disease|-|烫伤|0|N|256
+C0332705|CHI|-|-|-|-|Y|-|radiation ulcers|-|-|CUSTOM|Disease|-|放射性溃疡|0|N|256
+C0332798|CHI|-|-|-|-|Y|-|open the wound|-|-|CUSTOM|Disease|-|开放性伤口|0|N|256
+C0332803|CHI|-|-|-|-|Y|-|incision|-|-|CUSTOM|Disease|-|切口|0|N|256
+C0184898|CHI|-|-|-|-|Y|-|incision|-|-|CUSTOM|Disease|-|切口|0|N|256
+C2081230|CHI|-|-|-|-|Y|-|incision|-|-|CUSTOM|Disease|-|切口|0|N|256
+C0332803|CHI|-|-|-|-|Y|-|surgical incision|-|-|CUSTOM|Disease|-|切口|0|N|256
+C0184898|CHI|-|-|-|-|Y|-|surgical incision|-|-|CUSTOM|Disease|-|切口|0|N|256
+C2081230|CHI|-|-|-|-|Y|-|surgical incision|-|-|CUSTOM|Disease|-|切口|0|N|256
+C0332803|CHI|-|-|-|-|Y|-|surgical wounds|-|-|CUSTOM|Disease|-|切口|0|N|256
+C0184898|CHI|-|-|-|-|Y|-|surgical wounds|-|-|CUSTOM|Disease|-|切口|0|N|256
+C2081230|CHI|-|-|-|-|Y|-|surgical wounds|-|-|CUSTOM|Disease|-|切口|0|N|256
+C0333128|CHI|-|-|-|-|Y|-|blackhead|-|-|CUSTOM|Disease|-|黑头|0|N|256
+C0333128|CHI|-|-|-|-|Y|-|blackheads|-|-|CUSTOM|Disease|-|黑头|0|N|256
+C0333262|CHI|-|-|-|-|Y|-|vesicle|-|-|CUSTOM|Disease|-|囊泡|0|N|256
+C3814530|CHI|-|-|-|-|Y|-|vesicle|-|-|CUSTOM|Disease|-|囊泡|0|N|256
+C0333262|CHI|-|-|-|-|Y|-|vesicles|-|-|CUSTOM|Disease|-|囊泡|0|N|256
+C3814530|CHI|-|-|-|-|Y|-|vesicles|-|-|CUSTOM|Disease|-|囊泡|0|N|256
+C0333307|CHI|-|-|-|-|Y|-|erosion|-|-|CUSTOM|Disease|-|侵蚀作用|0|N|256
+C1959609|CHI|-|-|-|-|Y|-|erosion|-|-|CUSTOM|Disease|-|侵蚀作用|0|N|256
+C0333307|CHI|-|-|-|-|Y|-|erosions|-|-|CUSTOM|Disease|-|侵蚀作用|0|N|256
+C1959609|CHI|-|-|-|-|Y|-|erosions|-|-|CUSTOM|Disease|-|侵蚀作用|0|N|256
+C0333463|CHI|-|-|-|-|Y|-|plaque|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0011389|CHI|-|-|-|-|Y|-|plaque|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0332461|CHI|-|-|-|-|Y|-|plaque|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0241148|CHI|-|-|-|-|Y|-|plaque|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0333463|CHI|-|-|-|-|Y|-|plaque[SEP]plaques|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0011389|CHI|-|-|-|-|Y|-|plaque[SEP]plaques|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0332461|CHI|-|-|-|-|Y|-|plaque[SEP]plaques|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0241148|CHI|-|-|-|-|Y|-|plaque[SEP]plaques|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0333463|CHI|-|-|-|-|Y|-|plaques|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0011389|CHI|-|-|-|-|Y|-|plaques|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0332461|CHI|-|-|-|-|Y|-|plaques|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0241148|CHI|-|-|-|-|Y|-|plaques|-|-|CUSTOM|Disease|-|鼠疫|0|N|256
+C0333472|CHI|-|-|-|-|Y|-|epidermolysis|-|-|CUSTOM|Disease|-|表皮松解|0|N|256
+C0333473|CHI|-|-|-|-|Y|-|keratolysis|-|-|CUSTOM|Disease|-|剥脱性角质松解症|0|N|256
+C0333612|CHI|-|-|-|-|Y|-|post-inflammatory hypopigmentation|-|-|CUSTOM|Disease|-|炎症后色素减退|0|N|256
+C0333967|CHI|-|-|-|-|Y|-|pseudohypertrophy|-|-|CUSTOM|Disease|-|假性肥大|0|N|256
+C0334044|CHI|-|-|-|-|Y|-|dysplasia|-|-|CUSTOM|Disease|-|发育不良|0|N|256
+C0334082|CHI|-|-|-|-|Y|-|epidermal nevus|-|-|CUSTOM|Disease|-|表皮痣|0|N|256
+C0334083|CHI|-|-|-|-|Y|-|connective tissue nevus|-|-|CUSTOM|Disease|-|结缔组织痣|0|N|256
+C0334094|CHI|-|-|-|-|Y|-|proliferation|-|-|CUSTOM|Disease|-|增殖的|0|N|256
+C0334094|CHI|-|-|-|-|Y|-|proliferative|-|-|CUSTOM|Disease|-|增殖的|0|N|256
+C0334342|CHI|-|-|-|-|Y|-|adnexal tumors|-|-|CUSTOM|Disease|-|附件肿瘤|0|N|256
+C0334432|CHI|-|-|-|-|Y|-|achromic nevus|-|-|CUSTOM|Disease|-|无色素痣|0|N|256
+C0334460|CHI|-|-|-|-|Y|-|elastofibroma dorsi|-|-|CUSTOM|Disease|-|背弹性纤维瘤|0|N|256
+C0337196|CHI|-|-|-|-|Y|-|collision|-|-|CUSTOM|Disease|-|碰撞|0|N|256
+C0341058|CHI|-|-|-|-|Y|-|exfoliative cheilitis|-|-|CUSTOM|Disease|-|剥脱性唇炎|0|N|256
+C0341321|CHI|-|-|-|-|Y|-|large intestine disease|-|-|CUSTOM|Disease|-|大肠病|0|N|256
+C0343033|CHI|-|-|-|-|Y|-|pityrosporum folliculitis|-|-|CUSTOM|Disease|-|糠疹性毛囊炎|0|N|256
+C0343049|CHI|-|-|-|-|Y|-|papular eczema|-|-|CUSTOM|Disease|-|丘疹性湿疹|0|N|256
+C0343052|CHI|-|-|-|-|Y|-|guttate psoriasis|-|-|CUSTOM|Disease|-|滴状银屑病|0|N|256
+C0343064|CHI|-|-|-|-|Y|-|keratolysis exfoliativa|-|-|CUSTOM|Disease|-|季节性脱皮|0|N|256
+C0343065|CHI|-|-|-|-|Y|-|dermatographia|-|-|CUSTOM|Disease|-|皮肤描记术|0|N|256
+C0343081|CHI|-|-|-|-|Y|-|livedoid vasculitis|-|-|CUSTOM|Disease|-|白色萎缩|0|N|256
+C0343081|CHI|-|-|-|-|Y|-|white atrophy|-|-|CUSTOM|Disease|-|白色萎缩|0|N|256
+C0343082|CHI|-|-|-|-|Y|-|cherry angioma|-|-|CUSTOM|Disease|-|樱桃状血管瘤|0|N|256
+C0343082|CHI|-|-|-|-|Y|-|cherry angiomas|-|-|CUSTOM|Disease|-|樱桃状血管瘤|0|N|256
+C0343082|CHI|-|-|-|-|Y|-|cherry hemangioma|-|-|CUSTOM|Disease|-|樱桃状血管瘤|0|N|256
+C0343082|CHI|-|-|-|-|Y|-|senile hemangioma|-|-|CUSTOM|Disease|-|樱桃状血管瘤|0|N|256
+C0343082|CHI|-|-|-|-|Y|-|senile hemangioma[SEP]cherry hemangioma|-|-|CUSTOM|Disease|-|樱桃状血管瘤|0|N|256
+C0343641|CHI|-|-|-|-|Y|-|hpv infection|-|-|CUSTOM|Disease|-|人乳头瘤病毒感染|0|N|256
+C0343645|CHI|-|-|-|-|Y|-|subungual wart|-|-|CUSTOM|Disease|-|舌下疣|0|N|256
+C0343646|CHI|-|-|-|-|Y|-|filiform wart|-|-|CUSTOM|Disease|-|丝状疣|0|N|256
+C0343646|CHI|-|-|-|-|Y|-|verruca filiformis|-|-|CUSTOM|Disease|-|丝状疣|0|N|256
+C0343758|CHI|-|-|-|-|Y|-|typhus|-|-|CUSTOM|Disease|-|斑疹伤寒|0|N|256
+C0041471|CHI|-|-|-|-|Y|-|typhus|-|-|CUSTOM|Disease|-|斑疹伤寒|0|N|256
+C0343851|CHI|-|-|-|-|Y|-|ringworm of the face|-|-|CUSTOM|Disease|-|面部癣|0|N|256
+C0343851|CHI|-|-|-|-|Y|-|tinea faciei|-|-|CUSTOM|Disease|-|面部癣|0|N|256
+C0344310|CHI|-|-|-|-|Y|-|stretch marks|-|-|CUSTOM|Disease|-|妊娠纹|0|N|256
+C0152459|CHI|-|-|-|-|Y|-|stretch marks|-|-|CUSTOM|Disease|-|妊娠纹|0|N|256
+C0344315|CHI|-|-|-|-|Y|-|depressed|-|-|CUSTOM|Disease|-|抑郁的|0|N|256
+C1579931|CHI|-|-|-|-|Y|-|depressed|-|-|CUSTOM|Disease|-|抑郁的|0|N|256
+C0011570|CHI|-|-|-|-|Y|-|depressed|-|-|CUSTOM|Disease|-|抑郁的|0|N|256
+C0011581|CHI|-|-|-|-|Y|-|depressed|-|-|CUSTOM|Disease|-|抑郁的|0|N|256
+C0812393|CHI|-|-|-|-|Y|-|depressed|-|-|CUSTOM|Disease|-|抑郁的|0|N|256
+C0344315|CHI|-|-|-|-|Y|-|depression|-|-|CUSTOM|Disease|-|抑郁的|0|N|256
+C1579931|CHI|-|-|-|-|Y|-|depression|-|-|CUSTOM|Disease|-|抑郁的|0|N|256
+C0011570|CHI|-|-|-|-|Y|-|depression|-|-|CUSTOM|Disease|-|抑郁的|0|N|256
+C0011581|CHI|-|-|-|-|Y|-|depression|-|-|CUSTOM|Disease|-|抑郁的|0|N|256
+C0812393|CHI|-|-|-|-|Y|-|depression|-|-|CUSTOM|Disease|-|抑郁的|0|N|256
+C0345996|CHI|-|-|-|-|Y|-|milia|-|-|CUSTOM|Disease|-|粟丘疹|0|N|256
+C0347575|CHI|-|-|-|-|Y|-|nail damage|-|-|CUSTOM|Disease|-|指甲损伤|0|N|256
+C0347575|CHI|-|-|-|-|Y|-|nail injury|-|-|CUSTOM|Disease|-|指甲损伤|0|N|256
+C0349506|CHI|-|-|-|-|Y|-|photosensitivity|-|-|CUSTOM|Disease|-|感光性|0|N|256
+C2362621|CHI|-|-|-|-|Y|-|photosensitivity|-|-|CUSTOM|Disease|-|感光性|0|N|256
+C0352536|CHI|-|-|-|-|Y|-|hydrocortisone butyrate|-|-|CUSTOM|Treatment|-|丁酸氢化可的松|0|N|256
+C0352680|CHI|-|-|-|-|Y|-|corticosteroid cream|-|-|CUSTOM|Treatment|-|皮质类固醇乳膏|0|N|256
+C0352680|CHI|-|-|-|-|Y|-|corticosteroid creams|-|-|CUSTOM|Treatment|-|皮质类固醇乳膏|0|N|256
+C0357915|CHI|-|-|-|-|Y|-|urea cream|-|-|CUSTOM|Treatment|-|尿素乳膏|0|N|256
+C0357929|CHI|-|-|-|-|Y|-|calamine|-|-|CUSTOM|Treatment|-|炉甘石洗剂|0|N|256
+C0358490|CHI|-|-|-|-|Y|-|procaine hydrochloride|-|-|CUSTOM|Treatment|-|盐酸普鲁卡因|0|N|256
+C0358903|CHI|-|-|-|-|Y|-|fucidin ointment|-|-|CUSTOM|Treatment|-|褐藻胶软膏|0|N|256
+C0359626|CHI|-|-|-|-|Y|-|poultice|-|-|CUSTOM|Treatment|-|膏药|0|N|256
+C0360100|CHI|-|-|-|-|Y|-|organic solvents|-|-|CUSTOM|Treatment|-|有机溶剂|0|N|256
+C0360564|CHI|-|-|-|-|Y|-|mometasone|-|-|CUSTOM|Treatment|-|莫米松|0|N|256
+C0362030|CHI|-|-|-|-|Y|-|verrucous nevus|-|-|CUSTOM|Disease|-|疣状痣|0|N|256
+C0373682|CHI|-|-|-|-|Y|-|nickel|-|-|CUSTOM|Treatment|-|镍|0|N|256
+C2348274|CHI|-|-|-|-|Y|-|nickel|-|-|CUSTOM|Treatment|-|镍|0|N|256
+C0028013|CHI|-|-|-|-|Y|-|nickel|-|-|CUSTOM|Treatment|-|镍|0|N|256
+C0373720|CHI|-|-|-|-|Y|-|riboflavin|-|-|CUSTOM|Treatment|-|核黄素|0|N|256
+C0035527|CHI|-|-|-|-|Y|-|riboflavin|-|-|CUSTOM|Treatment|-|核黄素|0|N|256
+C0373720|CHI|-|-|-|-|Y|-|vitamin b2|-|-|CUSTOM|Treatment|-|核黄素|0|N|256
+C0035527|CHI|-|-|-|-|Y|-|vitamin b2|-|-|CUSTOM|Treatment|-|核黄素|0|N|256
+C0376154|CHI|-|-|-|-|Y|-|callus|-|-|CUSTOM|Disease|-|胼胝|0|N|256
+C0376286|CHI|-|-|-|-|Y|-|vitamin a deficiency|-|-|CUSTOM|Disease|-|维生素缺乏症|0|N|256
+C1510471|CHI|-|-|-|-|Y|-|vitamin a deficiency|-|-|CUSTOM|Disease|-|维生素缺乏症|0|N|256
+C0376286|CHI|-|-|-|-|Y|-|vitamin deficiency|-|-|CUSTOM|Disease|-|维生素缺乏症|0|N|256
+C1510471|CHI|-|-|-|-|Y|-|vitamin deficiency|-|-|CUSTOM|Disease|-|维生素缺乏症|0|N|256
+C0380603|CHI|-|-|-|-|Y|-|basic fibroblast growth factor|-|-|CUSTOM|Treatment|-|碱性成纤维细胞生长因子|0|N|256
+C1522505|CHI|-|-|-|-|Y|-|basic fibroblast growth factor|-|-|CUSTOM|Treatment|-|碱性成纤维细胞生长因子|0|N|256
+C3887569|CHI|-|-|-|-|Y|-|basic fibroblast growth factor|-|-|CUSTOM|Treatment|-|碱性成纤维细胞生长因子|0|N|256
+C3692257|CHI|-|-|-|-|Y|-|basic fibroblast growth factor|-|-|CUSTOM|Treatment|-|碱性成纤维细胞生长因子|0|N|256
+C0392201|CHI|-|-|-|-|Y|-|blood glucose test|-|-|CUSTOM|Test|-|血糖|0|N|256
+C0392201|CHI|-|-|-|-|Y|-|blood sugar level|-|-|CUSTOM|Test|-|血糖|0|N|256
+C0392201|CHI|-|-|-|-|Y|-|blood sugar levels|-|-|CUSTOM|Test|-|血糖|0|N|256
+C0392209|CHI|-|-|-|-|Y|-|nutrition|-|-|CUSTOM|Disease|-|营养作用|0|N|256
+C0392777|CHI|-|-|-|-|Y|-|poikiloderma|-|-|CUSTOM|Disease|-|薄皮病|0|N|256
+C0392784|CHI|-|-|-|-|Y|-|dermatofibrosarcoma protuberans|-|-|CUSTOM|Disease|-|隆起性皮肤纤维肉瘤|0|N|256
+C0394664|CHI|-|-|-|-|Y|-|acupuncture|-|-|CUSTOM|Treatment|-|针灸|0|N|256
+C0398597|CHI|-|-|-|-|Y|-|histiocytosis|-|-|CUSTOM|Disease|-|组织细胞增多症|0|N|256
+C0019618|CHI|-|-|-|-|Y|-|histiocytosis|-|-|CUSTOM|Disease|-|组织细胞增多症|0|N|256
+C0406217|CHI|-|-|-|-|Y|-|actinic prurigo|-|-|CUSTOM|Disease|-|光化性瘙痒症|0|N|256
+C0406317|CHI|-|-|-|-|Y|-|plaque psoriasis|-|-|CUSTOM|Disease|-|斑块型银屑病|0|N|256
+C0406322|CHI|-|-|-|-|Y|-|nail psoriasis|-|-|CUSTOM|Disease|-|牛皮癣指甲|0|N|256
+C0406322|CHI|-|-|-|-|Y|-|psoriasis nail|-|-|CUSTOM|Disease|-|牛皮癣指甲|0|N|256
+C0406326|CHI|-|-|-|-|Y|-|scalp psoriasis|-|-|CUSTOM|Disease|-|头皮银屑病|0|N|256
+C0406421|CHI|-|-|-|-|Y|-|pigmentary incontinence|-|-|CUSTOM|Disease|-|色素性失禁|0|N|256
+C0406493|CHI|-|-|-|-|Y|-|miliaria alba|-|-|CUSTOM|Disease|-|白粟粒|0|N|256
+C0406650|CHI|-|-|-|-|Y|-|linear iga bullous dermatosis|-|-|CUSTOM|Disease|-|线状iga大疱性皮肤病|0|N|256
+C0410005|CHI|-|-|-|-|Y|-|nodular fasciitis|-|-|CUSTOM|Disease|-|结节性筋膜炎|0|N|256
+C0410719|CHI|-|-|-|-|Y|-|bone deformities|-|-|CUSTOM|Disease|-|骨骼畸形|0|N|256
+C0417742|CHI|-|-|-|-|Y|-|bitten by fleas|-|-|CUSTOM|Disease|-|跳蚤叮咬|0|N|256
+C0417742|CHI|-|-|-|-|Y|-|bitten by fleas[SEP]flea bites|-|-|CUSTOM|Disease|-|跳蚤叮咬|0|N|256
+C0417742|CHI|-|-|-|-|Y|-|flea bite|-|-|CUSTOM|Disease|-|跳蚤叮咬|0|N|256
+C0417742|CHI|-|-|-|-|Y|-|flea bites|-|-|CUSTOM|Disease|-|跳蚤叮咬|0|N|256
+C0417744|CHI|-|-|-|-|Y|-|mosquito bite|-|-|CUSTOM|Disease|-|蚊虫叮咬|0|N|256
+C4520766|CHI|-|-|-|-|Y|-|mosquito bite|-|-|CUSTOM|Disease|-|蚊虫叮咬|0|N|256
+C0417744|CHI|-|-|-|-|Y|-|mosquito bites|-|-|CUSTOM|Disease|-|蚊虫叮咬|0|N|256
+C4520766|CHI|-|-|-|-|Y|-|mosquito bites|-|-|CUSTOM|Disease|-|蚊虫叮咬|0|N|256
+C0419181|CHI|-|-|-|-|Y|-|light diet|-|-|CUSTOM|Treatment|-|清淡饮食|0|N|256
+C0423752|CHI|-|-|-|-|Y|-|skin texture|-|-|CUSTOM|Disease|-|皮肤纹理|0|N|256
+C0423812|CHI|-|-|-|-|Y|-|nail shedding|-|-|CUSTOM|Disease|-|指甲脱落|0|N|256
+C0428570|CHI|-|-|-|-|Y|-|trace elements|-|-|CUSTOM|Treatment|-|微量元素|0|N|256
+C0040577|CHI|-|-|-|-|Y|-|trace elements|-|-|CUSTOM|Treatment|-|微量元素|0|N|256
+C0430027|CHI|-|-|-|-|Y|-|biochemical test|-|-|CUSTOM|Test|-|生化试验|0|N|256
+C0430402|CHI|-|-|-|-|Y|-|bacterial culture|-|-|CUSTOM|Test|-|细菌培养|0|N|256
+C0436149|CHI|-|-|-|-|Y|-|examination of the skin|-|-|CUSTOM|Test|-|皮肤检查|0|N|256
+C0438673|CHI|-|-|-|-|Y|-|microwave therapy|-|-|CUSTOM|Treatment|-|微波疗法|0|N|256
+C0440049|CHI|-|-|-|-|Y|-|spore|-|-|CUSTOM|Treatment|-|孢子|0|N|256
+C1317739|CHI|-|-|-|-|Y|-|spore|-|-|CUSTOM|Treatment|-|孢子|0|N|256
+C0441509|CHI|-|-|-|-|Y|-|coagulation|-|-|CUSTOM|Treatment|-|凝血|0|N|256
+C0441543|CHI|-|-|-|-|Y|-|laser excision|-|-|CUSTOM|Treatment|-|激光切除术|0|N|256
+C0442867|CHI|-|-|-|-|Y|-|malignant disease|-|-|CUSTOM|Disease|-|恶性疾病|0|N|256
+C0442886|CHI|-|-|-|-|Y|-|secondary infection|-|-|CUSTOM|Disease|-|继发感染|0|N|256
+C0443146|CHI|-|-|-|-|Y|-|autoimmune|-|-|CUSTOM|Disease|-|自身免疫的|0|N|256
+C0444186|CHI|-|-|-|-|Y|-|smear|-|-|CUSTOM|Test|-|弄脏|0|N|256
+C0444186|CHI|-|-|-|-|Y|-|smear test|-|-|CUSTOM|Test|-|弄脏|0|N|256
+C0445403|CHI|-|-|-|-|Y|-|patch|-|-|CUSTOM|Treatment|-|补丁|0|N|256
+C0449891|CHI|-|-|-|-|Y|-|allergen test|-|-|CUSTOM|Treatment|-|过敏原试验|0|N|256
+C0451615|CHI|-|-|-|-|Y|-|pain relief|-|-|CUSTOM|Treatment|-|止痛|0|N|256
+C0454530|CHI|-|-|-|-|Y|-|uvb phototherapy|-|-|CUSTOM|Treatment|-|uvb光疗|0|N|256
+C0456909|CHI|-|-|-|-|Y|-|blind|-|-|CUSTOM|Disease|-|失明的|0|N|256
+C0456909|CHI|-|-|-|-|Y|-|blindness|-|-|CUSTOM|Disease|-|失明的|0|N|256
+C0456909|CHI|-|-|-|-|Y|-|unable to see|-|-|CUSTOM|Disease|-|失明的|0|N|256
+C0457978|CHI|-|-|-|-|Y|-|foot callus|-|-|CUSTOM|Disease|-|足部骨痂|0|N|256
+C0460977|CHI|-|-|-|-|Y|-|plaster|-|-|CUSTOM|Treatment|-|灰泥|0|N|256
+C4722238|CHI|-|-|-|-|Y|-|plaster|-|-|CUSTOM|Treatment|-|灰泥|0|N|256
+C4721837|CHI|-|-|-|-|Y|-|plaster|-|-|CUSTOM|Treatment|-|灰泥|0|N|256
+C0460977|CHI|-|-|-|-|Y|-|plasters|-|-|CUSTOM|Treatment|-|灰泥|0|N|256
+C4722238|CHI|-|-|-|-|Y|-|plasters|-|-|CUSTOM|Treatment|-|灰泥|0|N|256
+C4721837|CHI|-|-|-|-|Y|-|plasters|-|-|CUSTOM|Treatment|-|灰泥|0|N|256
+C0473574|CHI|-|-|-|-|Y|-|inflammatory linear verrucous epidermal nevus|-|-|CUSTOM|Disease|-|炎性线状疣状表皮痣|0|N|256
+C0474975|CHI|-|-|-|-|Y|-|subungual hematoma|-|-|CUSTOM|Disease|-|舌下血肿|0|N|256
+C0476475|CHI|-|-|-|-|Y|-|localized hyperhidrosis|-|-|CUSTOM|Disease|-|局限性多汗症|0|N|256
+C0477474|CHI|-|-|-|-|Y|-|dermatitis and eczema|-|-|CUSTOM|Disease|-|皮炎湿疹|0|N|256
+C0477474|CHI|-|-|-|-|Y|-|dermatitis eczema|-|-|CUSTOM|Disease|-|皮炎湿疹|0|N|256
+C0477474|CHI|-|-|-|-|Y|-|eczema dermatitis|-|-|CUSTOM|Disease|-|皮炎湿疹|0|N|256
+C0487602|CHI|-|-|-|-|Y|-|staining|-|-|CUSTOM|Disease|-|染色|0|N|256
+C1704680|CHI|-|-|-|-|Y|-|staining|-|-|CUSTOM|Disease|-|染色|0|N|256
+C0494853|CHI|-|-|-|-|Y|-|erythema ab igne|-|-|CUSTOM|Disease|-|斑点红斑|0|N|256
+C0496892|CHI|-|-|-|-|Y|-|kidney|-|-|CUSTOM|Treatment|-|肾|0|N|256
+C0496927|CHI|-|-|-|-|Y|-|kidney|-|-|CUSTOM|Treatment|-|肾|0|N|256
+C0869841|CHI|-|-|-|-|Y|-|kidney|-|-|CUSTOM|Treatment|-|肾|0|N|256
+C4554465|CHI|-|-|-|-|Y|-|kidney|-|-|CUSTOM|Treatment|-|肾|0|N|256
+C0497062|CHI|-|-|-|-|Y|-|exposure to sunlight|-|-|CUSTOM|Disease|-|日晒|0|N|256
+C0497093|CHI|-|-|-|-|Y|-|sensitivity tests|-|-|CUSTOM|Test|-|灵敏度试验|0|N|256
+C0509489|CHI|-|-|-|-|Y|-|close eye|-|-|CUSTOM|Treatment|-|近距离观察|0|N|256
+C0518864|CHI|-|-|-|-|Y|-|granulation|-|-|CUSTOM|Disease|-|造粒|0|N|256
+C0519826|CHI|-|-|-|-|Y|-|tacrolimus|-|-|CUSTOM|Treatment|-|他克莫司|0|N|256
+C0085149|CHI|-|-|-|-|Y|-|tacrolimus|-|-|CUSTOM|Treatment|-|他克莫司|0|N|256
+C0520532|CHI|-|-|-|-|Y|-|subcutaneous hematoma|-|-|CUSTOM|Disease|-|皮下血肿|0|N|256
+C0521158|CHI|-|-|-|-|Y|-|recurrence|-|-|CUSTOM|Disease|-|经常性|0|N|256
+C1458156|CHI|-|-|-|-|Y|-|recurrence|-|-|CUSTOM|Disease|-|经常性|0|N|256
+C2825055|CHI|-|-|-|-|Y|-|recurrence|-|-|CUSTOM|Disease|-|经常性|0|N|256
+C0521158|CHI|-|-|-|-|Y|-|recurrent|-|-|CUSTOM|Disease|-|经常性|0|N|256
+C1458156|CHI|-|-|-|-|Y|-|recurrent|-|-|CUSTOM|Disease|-|经常性|0|N|256
+C2825055|CHI|-|-|-|-|Y|-|recurrent|-|-|CUSTOM|Disease|-|经常性|0|N|256
+C0521939|CHI|-|-|-|-|Y|-|selenium|-|-|CUSTOM|Treatment|-|硒|0|N|256
+C2348282|CHI|-|-|-|-|Y|-|selenium|-|-|CUSTOM|Treatment|-|硒|0|N|256
+C0036581|CHI|-|-|-|-|Y|-|selenium|-|-|CUSTOM|Treatment|-|硒|0|N|256
+C0373721|CHI|-|-|-|-|Y|-|selenium|-|-|CUSTOM|Treatment|-|硒|0|N|256
+C0522224|CHI|-|-|-|-|Y|-|paralysis|-|-|CUSTOM|Disease|-|瘫痪|0|N|256
+C0522567|CHI|-|-|-|-|Y|-|mild inflammation|-|-|CUSTOM|Disease|-|轻度炎症|0|N|256
+C0523213|CHI|-|-|-|-|Y|-|pas staining|-|-|CUSTOM|Test|-|pas染色|0|N|256
+C0542346|CHI|-|-|-|-|Y|-|pimple|-|-|CUSTOM|Disease|-|粉刺|0|N|256
+C0241157|CHI|-|-|-|-|Y|-|pimple|-|-|CUSTOM|Disease|-|粉刺|0|N|256
+C0542346|CHI|-|-|-|-|Y|-|pimples|-|-|CUSTOM|Disease|-|粉刺|0|N|256
+C0241157|CHI|-|-|-|-|Y|-|pimples|-|-|CUSTOM|Disease|-|粉刺|0|N|256
+C0542346|CHI|-|-|-|-|Y|-|pustule|-|-|CUSTOM|Disease|-|粉刺|0|N|256
+C0241157|CHI|-|-|-|-|Y|-|pustule|-|-|CUSTOM|Disease|-|粉刺|0|N|256
+C0542346|CHI|-|-|-|-|Y|-|pustules|-|-|CUSTOM|Disease|-|粉刺|0|N|256
+C0241157|CHI|-|-|-|-|Y|-|pustules|-|-|CUSTOM|Disease|-|粉刺|0|N|256
+C0543419|CHI|-|-|-|-|Y|-|residual|-|-|CUSTOM|Disease|-|残余物|0|N|256
+C0543467|CHI|-|-|-|-|Y|-|operation|-|-|CUSTOM|Treatment|-|手术|0|N|256
+C1457907|CHI|-|-|-|-|Y|-|operation|-|-|CUSTOM|Treatment|-|手术|0|N|256
+C0543467|CHI|-|-|-|-|Y|-|surgery|-|-|CUSTOM|Treatment|-|外科学|0|N|256
+C1457907|CHI|-|-|-|-|Y|-|surgery|-|-|CUSTOM|Treatment|-|外科学|0|N|256
+C0543467|CHI|-|-|-|-|Y|-|surgical|-|-|CUSTOM|Treatment|-|外科学|0|N|256
+C1457907|CHI|-|-|-|-|Y|-|surgical|-|-|CUSTOM|Treatment|-|外科学|0|N|256
+C0543467|CHI|-|-|-|-|Y|-|surgical treatment|-|-|CUSTOM|Treatment|-|外科学|0|N|256
+C1457907|CHI|-|-|-|-|Y|-|surgical treatment|-|-|CUSTOM|Treatment|-|外科学|0|N|256
+C0544341|CHI|-|-|-|-|Y|-|lotion|-|-|CUSTOM|Treatment|-|洗剂|0|N|256
+C0508510|CHI|-|-|-|-|Y|-|lotion|-|-|CUSTOM|Treatment|-|洗剂|0|N|256
+C0544341|CHI|-|-|-|-|Y|-|lotions|-|-|CUSTOM|Treatment|-|洗剂|0|N|256
+C0508510|CHI|-|-|-|-|Y|-|lotions|-|-|CUSTOM|Treatment|-|洗剂|0|N|256
+C0544452|CHI|-|-|-|-|Y|-|remission|-|-|CUSTOM|Disease|-|缓解|0|N|256
+C0546393|CHI|-|-|-|-|Y|-|macular amyloidosis|-|-|CUSTOM|Disease|-|黄斑淀粉样变性|0|N|256
+C0544839|CHI|-|-|-|-|Y|-|macular amyloidosis|-|-|CUSTOM|Disease|-|黄斑淀粉样变性|0|N|256
+C0546857|CHI|-|-|-|-|Y|-|chlorphenamine maleate|-|-|CUSTOM|Treatment|-|马来酸氯苯那敏|0|N|256
+C0546862|CHI|-|-|-|-|Y|-|econazole nitrate|-|-|CUSTOM|Treatment|-|硝酸益康唑|0|N|256
+C0547605|CHI|-|-|-|-|Y|-|infection prevention|-|-|CUSTOM|Treatment|-|感染预防|0|N|256
+C0549123|CHI|-|-|-|-|Y|-|enlarged tonsils|-|-|CUSTOM|Disease|-|扁桃体肿大|0|N|256
+C0549201|CHI|-|-|-|-|Y|-|asteatotic eczema|-|-|CUSTOM|Disease|-|干燥性湿疹|0|N|256
+C0549201|CHI|-|-|-|-|Y|-|eczema craquele|-|-|CUSTOM|Disease|-|干燥性湿疹|0|N|256
+C0549201|CHI|-|-|-|-|Y|-|xerotic eczema|-|-|CUSTOM|Disease|-|干燥性湿疹|0|N|256
+C0553576|CHI|-|-|-|-|Y|-|systemic mycosis|-|-|CUSTOM|Disease|-|系统性真菌病|0|N|256
+C0553794|CHI|-|-|-|-|Y|-|lumbar puncture|-|-|CUSTOM|Test|-|腰椎穿刺|0|N|256
+C0554804|CHI|-|-|-|-|Y|-|ventilation|-|-|CUSTOM|Treatment|-|通风|0|N|256
+C0558145|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0232357|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1550457|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1873497|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5200925|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5202633|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235018|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235188|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235189|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235193|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235194|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235195|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5238822|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1551394|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0332441|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0231162|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1271005|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0578019|CHI|-|-|-|-|Y|-|normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0558145|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0232357|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1550457|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1873497|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5200925|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5202633|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235018|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235188|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235189|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235193|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235194|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235195|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5238822|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1551394|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0332441|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0231162|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1271005|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0578019|CHI|-|-|-|-|Y|-|normal condition|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0558145|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0232357|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1550457|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1873497|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5200925|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5202633|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235018|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235188|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235189|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235193|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235194|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235195|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5238822|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1551394|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0332441|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0231162|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1271005|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0578019|CHI|-|-|-|-|Y|-|normal skin|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0558145|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0232357|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1550457|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1873497|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5200925|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5202633|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235018|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235188|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235189|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235193|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235194|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235195|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5238822|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1551394|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0332441|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0231162|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1271005|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0578019|CHI|-|-|-|-|Y|-|normal tissue|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0558145|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0232357|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1550457|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1873497|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5200925|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5202633|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235018|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235188|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235189|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235193|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235194|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5235195|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C5238822|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1551394|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0332441|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0231162|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C1271005|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0578019|CHI|-|-|-|-|Y|-|skin normal|-|-|CUSTOM|Disease|-|典型的|0|N|256
+C0558148|CHI|-|-|-|-|Y|-|yellow skin|-|-|CUSTOM|Disease|-|黄皮|0|N|256
+C0559546|CHI|-|-|-|-|Y|-|adverse reactions|-|-|CUSTOM|Disease|-|不良反应|0|N|256
+C0559687|CHI|-|-|-|-|Y|-|throat congestion|-|-|CUSTOM|Disease|-|喉咙充血|0|N|256
+C0561852|CHI|-|-|-|-|Y|-|bone injuries|-|-|CUSTOM|Disease|-|骨损伤|0|N|256
+C0565514|CHI|-|-|-|-|Y|-|compression|-|-|CUSTOM|Treatment|-|压缩|0|N|256
+C0574032|CHI|-|-|-|-|Y|-|infusion|-|-|CUSTOM|Treatment|-|灌输|0|N|256
+C0580546|CHI|-|-|-|-|Y|-|abnormal glucose|-|-|CUSTOM|Disease|-|葡萄糖异常|0|N|256
+C0581341|CHI|-|-|-|-|Y|-|chronic paronychia|-|-|CUSTOM|Disease|-|慢性甲沟炎|0|N|256
+C0585186|CHI|-|-|-|-|Y|-|skin allergy|-|-|CUSTOM|Disease|-|皮肤过敏|0|N|256
+C0586748|CHI|-|-|-|-|Y|-|foot eczema|-|-|CUSTOM|Disease|-|足部湿疹|0|N|256
+C0591139|CHI|-|-|-|-|Y|-|bactrim|-|-|CUSTOM|Treatment|-|菌毒素|0|N|256
+C0591322|CHI|-|-|-|-|Y|-|daktarin|-|-|CUSTOM|Treatment|-|达克塔林|0|N|256
+C0591547|CHI|-|-|-|-|Y|-|fucidin|-|-|CUSTOM|Treatment|-|岩藻苷|0|N|256
+C0593946|CHI|-|-|-|-|Y|-|differin|-|-|CUSTOM|Treatment|-|differin|0|N|256
+C0595723|CHI|-|-|-|-|Y|-|mizollen|-|-|CUSTOM|Treatment|-|米佐伦|0|N|256
+C0596192|CHI|-|-|-|-|Y|-|blood lipid|-|-|CUSTOM|Treatment|-|血脂|0|N|256
+C0596192|CHI|-|-|-|-|Y|-|blood lipids|-|-|CUSTOM|Treatment|-|血脂|0|N|256
+C0596263|CHI|-|-|-|-|Y|-|carcinogenesis|-|-|CUSTOM|Disease|-|癌变|0|N|256
+C0597357|CHI|-|-|-|-|Y|-|receptors|-|-|CUSTOM|Treatment|-|受体|0|N|256
+C0597428|CHI|-|-|-|-|Y|-|sedimentation|-|-|CUSTOM|Test|-|沉降|0|N|256
+C0600070|CHI|-|-|-|-|Y|-|direct microscopic examination|-|-|CUSTOM|Test|-|直接显微镜检查|0|N|256
+C0600076|CHI|-|-|-|-|Y|-|infectious granuloma|-|-|CUSTOM|Disease|-|感染性肉芽肿|0|N|256
+C0600080|CHI|-|-|-|-|Y|-|stretch|-|-|CUSTOM|Treatment|-|伸展|0|N|256
+C0600268|CHI|-|-|-|-|Y|-|granulomatous cheilitis|-|-|CUSTOM|Disease|-|肉芽肿性唇炎|0|N|256
+C0600688|CHI|-|-|-|-|Y|-|toxic|-|-|CUSTOM|Disease|-|有毒的|0|N|256
+C0600688|CHI|-|-|-|-|Y|-|toxicity|-|-|CUSTOM|Disease|-|有毒的|0|N|256
+C0608105|CHI|-|-|-|-|Y|-|pevisone|-|-|CUSTOM|Treatment|-|派瑞松|0|N|256
+C0620688|CHI|-|-|-|-|Y|-|shengji ointment|-|-|CUSTOM|Treatment|-|生肌膏|0|N|256
+C0677616|CHI|-|-|-|-|Y|-|plastic surgery|-|-|CUSTOM|Treatment|-|整形外科|0|N|256
+C0679254|CHI|-|-|-|-|Y|-|recurrence of the disease|-|-|CUSTOM|Disease|-|疾病复发|0|N|256
+C0679254|CHI|-|-|-|-|Y|-|recurrence of this disease|-|-|CUSTOM|Disease|-|疾病复发|0|N|256
+C0679393|CHI|-|-|-|-|Y|-|chemical dermatitis|-|-|CUSTOM|Disease|-|化学性皮炎|0|N|256
+C0683174|CHI|-|-|-|-|Y|-|topical application|-|-|CUSTOM|Treatment|-|局部应用|0|N|256
+C0683468|CHI|-|-|-|-|Y|-|invasive treatment|-|-|CUSTOM|Treatment|-|侵入性治疗|0|N|256
+C0684336|CHI|-|-|-|-|Y|-|impairment|-|-|CUSTOM|Disease|-|损害|0|N|256
+C0686346|CHI|-|-|-|-|Y|-|gender dysphoria|-|-|CUSTOM|Disease|-|性别焦虑|0|N|256
+C0696215|CHI|-|-|-|-|Y|-|wet mount|-|-|CUSTOM|Test|-|湿式安装|0|N|256
+C0699524|CHI|-|-|-|-|Y|-|betadine|-|-|CUSTOM|Treatment|-|甜菜碱|0|N|256
+C0699581|CHI|-|-|-|-|Y|-|accutane|-|-|CUSTOM|Treatment|-|维甲酸|0|N|256
+C0699614|CHI|-|-|-|-|Y|-|sporanox|-|-|CUSTOM|Treatment|-|孢子虫|0|N|256
+C0699631|CHI|-|-|-|-|Y|-|eurax|-|-|CUSTOM|Treatment|-|尤卓尔|0|N|256
+C0699632|CHI|-|-|-|-|Y|-|dettol|-|-|CUSTOM|Treatment|-|滴露|0|N|256
+C0699857|CHI|-|-|-|-|Y|-|nitrate|-|-|CUSTOM|Treatment|-|硝酸盐|0|N|256
+C0700124|CHI|-|-|-|-|Y|-|dilated|-|-|CUSTOM|Disease|-|膨胀的|0|N|256
+C0012359|CHI|-|-|-|-|Y|-|dilated|-|-|CUSTOM|Disease|-|膨胀的|0|N|256
+C1322279|CHI|-|-|-|-|Y|-|dilated|-|-|CUSTOM|Disease|-|膨胀的|0|N|256
+C0700124|CHI|-|-|-|-|Y|-|dilation|-|-|CUSTOM|Disease|-|膨胀的|0|N|256
+C0012359|CHI|-|-|-|-|Y|-|dilation|-|-|CUSTOM|Disease|-|膨胀的|0|N|256
+C1322279|CHI|-|-|-|-|Y|-|dilation|-|-|CUSTOM|Disease|-|膨胀的|0|N|256
+C0700148|CHI|-|-|-|-|Y|-|congestion|-|-|CUSTOM|Disease|-|拥塞|0|N|256
+C0700480|CHI|-|-|-|-|Y|-|cetirizine hydrochloride|-|-|CUSTOM|Treatment|-|盐酸西替利嗪|0|N|256
+C0700590|CHI|-|-|-|-|Y|-|excessive sweating|-|-|CUSTOM|Disease|-|出汗过多|0|N|256
+C0700702|CHI|-|-|-|-|Y|-|botox|-|-|CUSTOM|Treatment|-|肉毒杆菌毒素|0|N|256
+C0700899|CHI|-|-|-|-|Y|-|benadryl|-|-|CUSTOM|Treatment|-|苯那屈|0|N|256
+C0701055|CHI|-|-|-|-|Y|-|claritin|-|-|CUSTOM|Treatment|-|开瑞坦|0|N|256
+C0702100|CHI|-|-|-|-|Y|-|dermatitis vegetans|-|-|CUSTOM|Disease|-|植物性皮炎|0|N|256
+C0702120|CHI|-|-|-|-|Y|-|spongiosis|-|-|CUSTOM|Disease|-|海绵状血管病|0|N|256
+C0702166|CHI|-|-|-|-|Y|-|acne|-|-|CUSTOM|Disease|-|痤疮|0|N|256
+C0001144|CHI|-|-|-|-|Y|-|acne|-|-|CUSTOM|Disease|-|痤疮|0|N|256
+C0718217|CHI|-|-|-|-|Y|-|acne|-|-|CUSTOM|Disease|-|痤疮|0|N|256
+C0702166|CHI|-|-|-|-|Y|-|acne vulgaris|-|-|CUSTOM|Disease|-|痤疮|0|N|256
+C0001144|CHI|-|-|-|-|Y|-|acne vulgaris|-|-|CUSTOM|Disease|-|痤疮|0|N|256
+C0718217|CHI|-|-|-|-|Y|-|acne vulgaris|-|-|CUSTOM|Disease|-|痤疮|0|N|256
+C0717551|CHI|-|-|-|-|Y|-|candida albicans|-|-|CUSTOM|Treatment|-|白色念珠菌|0|N|256
+C0348081|CHI|-|-|-|-|Y|-|candida albicans|-|-|CUSTOM|Treatment|-|白色念珠菌|0|N|256
+C5202733|CHI|-|-|-|-|Y|-|candida albicans|-|-|CUSTOM|Treatment|-|白色念珠菌|0|N|256
+C0717551|CHI|-|-|-|-|Y|-|yeast|-|-|CUSTOM|Treatment|-|酵母|0|N|256
+C0348081|CHI|-|-|-|-|Y|-|yeast|-|-|CUSTOM|Treatment|-|酵母|0|N|256
+C5202733|CHI|-|-|-|-|Y|-|yeast|-|-|CUSTOM|Treatment|-|酵母|0|N|256
+C0718566|CHI|-|-|-|-|Y|-|anti-fungal|-|-|CUSTOM|Treatment|-|抗真菌治疗|0|N|256
+C0718570|CHI|-|-|-|-|Y|-|anti-itch|-|-|CUSTOM|Treatment|-|止痒|0|N|256
+C0719045|CHI|-|-|-|-|Y|-|burn ointment|-|-|CUSTOM|Treatment|-|烧伤膏|0|N|256
+C0720029|CHI|-|-|-|-|Y|-|dovonex|-|-|CUSTOM|Treatment|-|多沃内斯|0|N|256
+C0720538|CHI|-|-|-|-|Y|-|fungoid|-|-|CUSTOM|Treatment|-|真菌样的|0|N|256
+C0720930|CHI|-|-|-|-|Y|-|hydrated|-|-|CUSTOM|Treatment|-|水合的|0|N|256
+C0721161|CHI|-|-|-|-|Y|-|itch relief|-|-|CUSTOM|Treatment|-|止痒|0|N|256
+C0721298|CHI|-|-|-|-|Y|-|lamisil|-|-|CUSTOM|Treatment|-|拉米西|0|N|256
+C0722381|CHI|-|-|-|-|Y|-|oyster shell|-|-|CUSTOM|Treatment|-|牡蛎壳|0|N|256
+C0722890|CHI|-|-|-|-|Y|-|pseudo|-|-|CUSTOM|Treatment|-|假性|0|N|256
+C0724484|CHI|-|-|-|-|Y|-|zinc oxide paste|-|-|CUSTOM|Treatment|-|氧化锌糊剂|0|N|256
+C0724557|CHI|-|-|-|-|Y|-|cleanser|-|-|CUSTOM|Treatment|-|清洁剂|0|N|256
+C0724557|CHI|-|-|-|-|Y|-|cleansers|-|-|CUSTOM|Treatment|-|清洁剂|0|N|256
+C0728774|CHI|-|-|-|-|Y|-|vaseline|-|-|CUSTOM|Treatment|-|凡士林|0|N|256
+C0728810|CHI|-|-|-|-|Y|-|cholinesterase|-|-|CUSTOM|Treatment|-|胆碱酯酶|0|N|256
+C0008429|CHI|-|-|-|-|Y|-|cholinesterase|-|-|CUSTOM|Treatment|-|胆碱酯酶|0|N|256
+C0728936|CHI|-|-|-|-|Y|-|circulatory disorder|-|-|CUSTOM|Disease|-|循环系统紊乱|0|N|256
+C0728940|CHI|-|-|-|-|Y|-|excision|-|-|CUSTOM|Treatment|-|切除|0|N|256
+C0015252|CHI|-|-|-|-|Y|-|excision|-|-|CUSTOM|Treatment|-|切除|0|N|256
+C1293139|CHI|-|-|-|-|Y|-|excision|-|-|CUSTOM|Treatment|-|切除|0|N|256
+C0185115|CHI|-|-|-|-|Y|-|excision|-|-|CUSTOM|Treatment|-|切除|0|N|256
+C0684295|CHI|-|-|-|-|Y|-|excision|-|-|CUSTOM|Treatment|-|切除|0|N|256
+C0728940|CHI|-|-|-|-|Y|-|removal|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0015252|CHI|-|-|-|-|Y|-|removal|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C1293139|CHI|-|-|-|-|Y|-|removal|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0185115|CHI|-|-|-|-|Y|-|removal|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0684295|CHI|-|-|-|-|Y|-|removal|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0728940|CHI|-|-|-|-|Y|-|resection|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0015252|CHI|-|-|-|-|Y|-|resection|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C1293139|CHI|-|-|-|-|Y|-|resection|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0185115|CHI|-|-|-|-|Y|-|resection|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0684295|CHI|-|-|-|-|Y|-|resection|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0728940|CHI|-|-|-|-|Y|-|surgical excision|-|-|CUSTOM|Treatment|-|做掉|0|N|256
+C0015252|CHI|-|-|-|-|Y|-|surgical excision|-|-|CUSTOM|Treatment|-|做掉|0|N|256
+C1293139|CHI|-|-|-|-|Y|-|surgical excision|-|-|CUSTOM|Treatment|-|做掉|0|N|256
+C0185115|CHI|-|-|-|-|Y|-|surgical excision|-|-|CUSTOM|Treatment|-|做掉|0|N|256
+C0684295|CHI|-|-|-|-|Y|-|surgical excision|-|-|CUSTOM|Treatment|-|做掉|0|N|256
+C0728940|CHI|-|-|-|-|Y|-|surgical removal|-|-|CUSTOM|Treatment|-|手术切除|0|N|256
+C0015252|CHI|-|-|-|-|Y|-|surgical removal|-|-|CUSTOM|Treatment|-|手术切除|0|N|256
+C1293139|CHI|-|-|-|-|Y|-|surgical removal|-|-|CUSTOM|Treatment|-|手术切除|0|N|256
+C0185115|CHI|-|-|-|-|Y|-|surgical removal|-|-|CUSTOM|Treatment|-|手术切除|0|N|256
+C0684295|CHI|-|-|-|-|Y|-|surgical removal|-|-|CUSTOM|Treatment|-|手术切除|0|N|256
+C0728940|CHI|-|-|-|-|Y|-|surgical resection|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0015252|CHI|-|-|-|-|Y|-|surgical resection|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C1293139|CHI|-|-|-|-|Y|-|surgical resection|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0185115|CHI|-|-|-|-|Y|-|surgical resection|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0684295|CHI|-|-|-|-|Y|-|surgical resection|-|-|CUSTOM|Treatment|-|移动|0|N|256
+C0731378|CHI|-|-|-|-|Y|-|alba|-|-|CUSTOM|Treatment|-|白糠疹|0|N|256
+C0733367|CHI|-|-|-|-|Y|-|cefoperazone sodium|-|-|CUSTOM|Treatment|-|头孢哌酮钠|0|N|256
+C0733863|CHI|-|-|-|-|Y|-|bactroban|-|-|CUSTOM|Treatment|-|细菌|0|N|256
+C0740903|CHI|-|-|-|-|Y|-|allergic symptoms|-|-|CUSTOM|Disease|-|过敏症状|0|N|256
+C0743086|CHI|-|-|-|-|Y|-|granulomatous dermatitis|-|-|CUSTOM|Disease|-|肉芽肿性皮炎|0|N|256
+C0743150|CHI|-|-|-|-|Y|-|diabetic ulcers|-|-|CUSTOM|Disease|-|糖尿病溃疡|0|N|256
+C0743195|CHI|-|-|-|-|Y|-|dietary control|-|-|CUSTOM|Treatment|-|饮食控制|0|N|256
+C0743775|CHI|-|-|-|-|Y|-|lesions on the face|-|-|CUSTOM|Disease|-|面部损伤|0|N|256
+C0747424|CHI|-|-|-|-|Y|-|penicillin treatment|-|-|CUSTOM|Treatment|-|青霉素治疗|0|N|256
+C0749091|CHI|-|-|-|-|Y|-|subcutaneous cyst|-|-|CUSTOM|Disease|-|皮下囊肿|0|N|256
+C0749139|CHI|-|-|-|-|Y|-|sulfa|-|-|CUSTOM|Treatment|-|磺胺|0|N|256
+C0750848|CHI|-|-|-|-|Y|-|betamethasone valerate|-|-|CUSTOM|Treatment|-|戊酸倍他米松|0|N|256
+C0751372|CHI|-|-|-|-|Y|-|nerve pain|-|-|CUSTOM|Disease|-|神经痛|0|N|256
+C0770546|CHI|-|-|-|-|Y|-|heparin|-|-|CUSTOM|Treatment|-|肝素|0|N|256
+C0019134|CHI|-|-|-|-|Y|-|heparin|-|-|CUSTOM|Treatment|-|肝素|0|N|256
+C5237592|CHI|-|-|-|-|Y|-|heparin|-|-|CUSTOM|Treatment|-|肝素|0|N|256
+C0770655|CHI|-|-|-|-|Y|-|methacycline hydrochloride|-|-|CUSTOM|Treatment|-|盐酸甲基环素|0|N|256
+C0771029|CHI|-|-|-|-|Y|-|terbinafine hydrochloride|-|-|CUSTOM|Treatment|-|盐酸特比萘芬|0|N|256
+C0771847|CHI|-|-|-|-|Y|-|butenafine hydrochloride|-|-|CUSTOM|Treatment|-|盐酸布替萘芬|0|N|256
+C0771966|CHI|-|-|-|-|Y|-|vitex|-|-|CUSTOM|Treatment|-|牡荆属|0|N|256
+C0771998|CHI|-|-|-|-|Y|-|angelica|-|-|CUSTOM|Treatment|-|当归属|0|N|256
+C3486626|CHI|-|-|-|-|Y|-|angelica|-|-|CUSTOM|Treatment|-|当归属|0|N|256
+C1161429|CHI|-|-|-|-|Y|-|angelica|-|-|CUSTOM|Treatment|-|当归属|0|N|256
+C0773222|CHI|-|-|-|-|Y|-|glucose powder|-|-|CUSTOM|Treatment|-|葡萄糖粉|0|N|256
+C0774927|CHI|-|-|-|-|Y|-|coal tar shampoo|-|-|CUSTOM|Treatment|-|煤焦油洗发水|0|N|256
+C0795635|CHI|-|-|-|-|Y|-|insulin|-|-|CUSTOM|Treatment|-|胰岛素|0|N|256
+C0021641|CHI|-|-|-|-|Y|-|insulin|-|-|CUSTOM|Treatment|-|胰岛素|0|N|256
+C1579433|CHI|-|-|-|-|Y|-|insulin|-|-|CUSTOM|Treatment|-|胰岛素|0|N|256
+C0202098|CHI|-|-|-|-|Y|-|insulin|-|-|CUSTOM|Treatment|-|胰岛素|0|N|256
+C1533581|CHI|-|-|-|-|Y|-|insulin|-|-|CUSTOM|Treatment|-|胰岛素|0|N|256
+C4721402|CHI|-|-|-|-|Y|-|insulin|-|-|CUSTOM|Treatment|-|胰岛素|0|N|256
+C0795691|CHI|-|-|-|-|Y|-|heart problems|-|-|CUSTOM|Disease|-|心脏问题|0|N|256
+C0796320|CHI|-|-|-|-|Y|-|hepatitis b surface antigen[SEP]hbsag|-|-|CUSTOM|Treatment|-|乙肝表面抗原|0|N|256
+C0019168|CHI|-|-|-|-|Y|-|hepatitis b surface antigen[SEP]hbsag|-|-|CUSTOM|Treatment|-|乙肝表面抗原|0|N|256
+C0201477|CHI|-|-|-|-|Y|-|hepatitis b surface antigen[SEP]hbsag|-|-|CUSTOM|Treatment|-|乙肝表面抗原|0|N|256
+C0062527|CHI|-|-|-|-|Y|-|hepatitis b surface antigen[SEP]hbsag|-|-|CUSTOM|Treatment|-|乙肝表面抗原|0|N|256
+C0848648|CHI|-|-|-|-|Y|-|fungal rash|-|-|CUSTOM|Disease|-|真菌性皮疹|0|N|256
+C0849359|CHI|-|-|-|-|Y|-|remove blood|-|-|CUSTOM|Treatment|-|去除血液|0|N|256
+C0849640|CHI|-|-|-|-|Y|-|damage the skin|-|-|CUSTOM|Disease|-|皮肤损伤|0|N|256
+C0849640|CHI|-|-|-|-|Y|-|skin damage|-|-|CUSTOM|Disease|-|皮肤损伤|0|N|256
+C0850168|CHI|-|-|-|-|Y|-|laser treatment|-|-|CUSTOM|Treatment|-|激光处理|0|N|256
+C0850168|CHI|-|-|-|-|Y|-|laser treatments|-|-|CUSTOM|Treatment|-|激光处理|0|N|256
+C0850352|CHI|-|-|-|-|Y|-|pedicure|-|-|CUSTOM|Treatment|-|修脚|0|N|256
+C0850569|CHI|-|-|-|-|Y|-|allergic rash|-|-|CUSTOM|Disease|-|过敏性皮疹|0|N|256
+C0852949|CHI|-|-|-|-|Y|-|arterial disease|-|-|CUSTOM|Disease|-|动脉疾病|0|N|256
+C0853348|CHI|-|-|-|-|Y|-|arthropod bites|-|-|CUSTOM|Disease|-|节肢动物咬伤|0|N|256
+C0854107|CHI|-|-|-|-|Y|-|subcutaneous hemorrhage|-|-|CUSTOM|Disease|-|皮下出血|0|N|256
+C0855227|CHI|-|-|-|-|Y|-|purging|-|-|CUSTOM|Disease|-|吹扫|0|N|256
+C0857150|CHI|-|-|-|-|Y|-|neck rash|-|-|CUSTOM|Disease|-|颈部皮疹|0|N|256
+C0857322|CHI|-|-|-|-|Y|-|anemic|-|-|CUSTOM|Disease|-|贫血的|0|N|256
+C0857463|CHI|-|-|-|-|Y|-|smelly feet|-|-|CUSTOM|Disease|-|脚臭|0|N|256
+C0858864|CHI|-|-|-|-|Y|-|pigmented spots|-|-|CUSTOM|Disease|-|色素斑点|0|N|256
+C0859290|CHI|-|-|-|-|Y|-|black spots|-|-|CUSTOM|Disease|-|黑点|0|N|256
+C0860038|CHI|-|-|-|-|Y|-|actinomycotic granuloma|-|-|CUSTOM|Disease|-|放线菌肉芽肿|0|N|256
+C0860401|CHI|-|-|-|-|Y|-|guttate morphea|-|-|CUSTOM|Disease|-|喉状变形|0|N|256
+C0869523|CHI|-|-|-|-|Y|-|carditis|-|-|CUSTOM|Disease|-|心肌炎|0|N|256
+C0872909|CHI|-|-|-|-|Y|-|pine|-|-|CUSTOM|Treatment|-|松属|0|N|256
+C0885001|CHI|-|-|-|-|Y|-|pine|-|-|CUSTOM|Treatment|-|松属|0|N|256
+C2097337|CHI|-|-|-|-|Y|-|pine|-|-|CUSTOM|Treatment|-|松属|0|N|256
+C0873019|CHI|-|-|-|-|Y|-|berberine hydrochloride|-|-|CUSTOM|Treatment|-|盐酸黄连素|0|N|256
+C0873034|CHI|-|-|-|-|Y|-|hyssop|-|-|CUSTOM|Treatment|-|牛膝草|0|N|256
+C0885023|CHI|-|-|-|-|Y|-|wormwood|-|-|CUSTOM|Treatment|-|艾草|0|N|256
+C0939883|CHI|-|-|-|-|Y|-|wormwood|-|-|CUSTOM|Treatment|-|艾草|0|N|256
+C1095890|CHI|-|-|-|-|Y|-|wormwood|-|-|CUSTOM|Treatment|-|艾草|0|N|256
+C0885057|CHI|-|-|-|-|Y|-|garlic|-|-|CUSTOM|Treatment|-|蒜|0|N|256
+C0885164|CHI|-|-|-|-|Y|-|scorpion venom|-|-|CUSTOM|Treatment|-|蝎毒|0|N|256
+C0036450|CHI|-|-|-|-|Y|-|scorpion venom|-|-|CUSTOM|Treatment|-|蝎毒|0|N|256
+C0885449|CHI|-|-|-|-|Y|-|iodine|-|-|CUSTOM|Treatment|-|碘|0|N|256
+C0021968|CHI|-|-|-|-|Y|-|iodine|-|-|CUSTOM|Treatment|-|碘|0|N|256
+C0917801|CHI|-|-|-|-|Y|-|insomnia|-|-|CUSTOM|Disease|-|失眠|0|N|256
+C0917887|CHI|-|-|-|-|Y|-|flavomycin|-|-|CUSTOM|Treatment|-|黄霉素|0|N|256
+C0935563|CHI|-|-|-|-|Y|-|pierced|-|-|CUSTOM|Treatment|-|刺穿|0|N|256
+C0935572|CHI|-|-|-|-|Y|-|stalk|-|-|CUSTOM|Disease|-|秆|0|N|256
+C0937879|CHI|-|-|-|-|Y|-|millet|-|-|CUSTOM|Treatment|-|杂谷|0|N|256
+C0939871|CHI|-|-|-|-|Y|-|bee honey|-|-|CUSTOM|Treatment|-|蜜蜂蜜|0|N|256
+C0939884|CHI|-|-|-|-|Y|-|camphor|-|-|CUSTOM|Treatment|-|樟脑|0|N|256
+C0006809|CHI|-|-|-|-|Y|-|camphor|-|-|CUSTOM|Treatment|-|樟脑|0|N|256
+C0939895|CHI|-|-|-|-|Y|-|ginger|-|-|CUSTOM|Treatment|-|姜|0|N|256
+C0939896|CHI|-|-|-|-|Y|-|dandelion|-|-|CUSTOM|Treatment|-|蒲公英|0|N|256
+C1256220|CHI|-|-|-|-|Y|-|dandelion|-|-|CUSTOM|Treatment|-|蒲公英|0|N|256
+C0440015|CHI|-|-|-|-|Y|-|dandelion|-|-|CUSTOM|Treatment|-|蒲公英|0|N|256
+C0939937|CHI|-|-|-|-|Y|-|honey|-|-|CUSTOM|Treatment|-|蜂蜜|0|N|256
+C0947608|CHI|-|-|-|-|Y|-|soybean|-|-|CUSTOM|Treatment|-|大豆|0|N|256
+C0948382|CHI|-|-|-|-|Y|-|deep fungal infection|-|-|CUSTOM|Disease|-|深层真菌感染|0|N|256
+C0948543|CHI|-|-|-|-|Y|-|vascular ultrasound|-|-|CUSTOM|Test|-|血管超声|0|N|256
+C0948672|CHI|-|-|-|-|Y|-|venous lake|-|-|CUSTOM|Disease|-|静脉湖|0|N|256
+C0948762|CHI|-|-|-|-|Y|-|neutrophils|-|-|CUSTOM|Test|-|中性白细胞|0|N|256
+C2238207|CHI|-|-|-|-|Y|-|neutrophils|-|-|CUSTOM|Test|-|中性白细胞|0|N|256
+C0949307|CHI|-|-|-|-|Y|-|formaldehyde solution|-|-|CUSTOM|Treatment|-|福尔马林|0|N|256
+C0949307|CHI|-|-|-|-|Y|-|formalin|-|-|CUSTOM|Treatment|-|福尔马林|0|N|256
+C0949506|CHI|-|-|-|-|Y|-|porokeratosis|-|-|CUSTOM|Disease|-|多孔角化症|0|N|256
+C0162839|CHI|-|-|-|-|Y|-|porokeratosis|-|-|CUSTOM|Disease|-|多孔角化症|0|N|256
+C0949766|CHI|-|-|-|-|Y|-|physical therapy|-|-|CUSTOM|Treatment|-|物理疗法|0|N|256
+C0949766|CHI|-|-|-|-|Y|-|physiotherapy|-|-|CUSTOM|Treatment|-|物理疗法|0|N|256
+C0950124|CHI|-|-|-|-|Y|-|papillomavirus infection|-|-|CUSTOM|Disease|-|乳头瘤病毒感染|0|N|256
+C0950540|CHI|-|-|-|-|Y|-|chapped|-|-|CUSTOM|Treatment|-|龟裂的|0|N|256
+C0972391|CHI|-|-|-|-|Y|-|peach|-|-|CUSTOM|Treatment|-|桃|0|N|256
+C0973456|CHI|-|-|-|-|Y|-|plum|-|-|CUSTOM|Treatment|-|李子|0|N|256
+C0981916|CHI|-|-|-|-|Y|-|insects|-|-|CUSTOM|Treatment|-|昆虫|0|N|256
+C0991509|CHI|-|-|-|-|Y|-|flakes|-|-|CUSTOM|Treatment|-|鳞片|0|N|256
+C0991536|CHI|-|-|-|-|Y|-|oral solution|-|-|CUSTOM|Treatment|-|口服溶液|0|N|256
+C0991551|CHI|-|-|-|-|Y|-|topical cream|-|-|CUSTOM|Treatment|-|外用乳膏|0|N|256
+C0991554|CHI|-|-|-|-|Y|-|topical ointment|-|-|CUSTOM|Treatment|-|外用软膏|0|N|256
+C0991566|CHI|-|-|-|-|Y|-|bead|-|-|CUSTOM|Treatment|-|有孔小珠|0|N|256
+C0991577|CHI|-|-|-|-|Y|-|oral drops|-|-|CUSTOM|Treatment|-|口服滴剂|0|N|256
+C0991583|CHI|-|-|-|-|Y|-|tincture|-|-|CUSTOM|Treatment|-|酊剂|0|N|256
+C1095897|CHI|-|-|-|-|Y|-|astragalus|-|-|CUSTOM|Treatment|-|黄芪|0|N|256
+C0347813|CHI|-|-|-|-|Y|-|astragalus|-|-|CUSTOM|Treatment|-|黄芪|0|N|256
+C1095901|CHI|-|-|-|-|Y|-|equisetum|-|-|CUSTOM|Treatment|-|木贼属|0|N|256
+C1096560|CHI|-|-|-|-|Y|-|malassezia infection|-|-|CUSTOM|Disease|-|马拉色菌感染|0|N|256
+C1096723|CHI|-|-|-|-|Y|-|centipede bite|-|-|CUSTOM|Disease|-|蜈蚣咬伤|0|N|256
+C1099414|CHI|-|-|-|-|Y|-|pimecrolimus|-|-|CUSTOM|Treatment|-|吡美莫司|0|N|256
+C1101146|CHI|-|-|-|-|Y|-|clarinex|-|-|CUSTOM|Treatment|-|地洛他定|0|N|256
+C1112639|CHI|-|-|-|-|Y|-|pseudocyst of the ear|-|-|CUSTOM|Disease|-|耳假性囊肿|0|N|256
+C1112870|CHI|-|-|-|-|Y|-|aerosol|-|-|CUSTOM|Treatment|-|气溶胶|0|N|256
+C1113645|CHI|-|-|-|-|Y|-|radish|-|-|CUSTOM|Treatment|-|萝卜|0|N|256
+C1134558|CHI|-|-|-|-|Y|-|chinese herbs|-|-|CUSTOM|Treatment|-|中药|0|N|256
+C1136201|CHI|-|-|-|-|Y|-|orthopedics|-|-|CUSTOM|Treatment|-|矫形外科|0|N|256
+C1142274|CHI|-|-|-|-|Y|-|nevus cell nevus|-|-|CUSTOM|Disease|-|痣细胞痣|0|N|256
+C1143841|CHI|-|-|-|-|Y|-|realgar|-|-|CUSTOM|Treatment|-|雄黄|0|N|256
+C1161332|CHI|-|-|-|-|Y|-|sulfanilamide|-|-|CUSTOM|Treatment|-|磺胺|0|N|256
+C0038702|CHI|-|-|-|-|Y|-|sulfanilamide|-|-|CUSTOM|Treatment|-|磺胺|0|N|256
+C1161334|CHI|-|-|-|-|Y|-|benzoic acid|-|-|CUSTOM|Treatment|-|苯甲酸|0|N|256
+C0053225|CHI|-|-|-|-|Y|-|benzoic acid|-|-|CUSTOM|Treatment|-|苯甲酸|0|N|256
+C1163679|CHI|-|-|-|-|Y|-|water for injection|-|-|CUSTOM|Treatment|-|注射用水|0|N|256
+C1166521|CHI|-|-|-|-|Y|-|iron|-|-|CUSTOM|Treatment|-|铁|0|N|256
+C0302583|CHI|-|-|-|-|Y|-|iron|-|-|CUSTOM|Treatment|-|铁|0|N|256
+C1174893|CHI|-|-|-|-|Y|-|levocetirizine|-|-|CUSTOM|Treatment|-|盐酸左西替利嗪|0|N|256
+C1176468|CHI|-|-|-|-|Y|-|erythrocyte sedimentation rate|-|-|CUSTOM|Test|-|红细胞沉降率|0|N|256
+C1244747|CHI|-|-|-|-|Y|-|isotretinoin capsules|-|-|CUSTOM|Treatment|-|异维A酸胶丸|0|N|256
+C1244751|CHI|-|-|-|-|Y|-|itraconazole capsules|-|-|CUSTOM|Treatment|-|伊曲康唑胶囊|0|N|256
+C1246466|CHI|-|-|-|-|Y|-|hydrocortisone ointment|-|-|CUSTOM|Treatment|-|氢化可的松软膏|0|N|256
+C1246929|CHI|-|-|-|-|Y|-|methylprednisolone tablets|-|-|CUSTOM|Treatment|-|甲基强的松龙片|0|N|256
+C1247033|CHI|-|-|-|-|Y|-|mupirocin ointment|-|-|CUSTOM|Treatment|-|百多邦软膏|0|N|256
+C1248109|CHI|-|-|-|-|Y|-|terbinafine tablets|-|-|CUSTOM|Treatment|-|特比萘芬片|0|N|256
+C1248462|CHI|-|-|-|-|Y|-|erythromycin ointment|-|-|CUSTOM|Treatment|-|红霉素软膏|0|N|256
+C1251857|CHI|-|-|-|-|Y|-|calamine lotion|-|-|CUSTOM|Treatment|-|炉甘石洗剂|0|N|256
+C1251980|CHI|-|-|-|-|Y|-|lindane lotion|-|-|CUSTOM|Treatment|-|林丹洗剂|0|N|256
+C1253468|CHI|-|-|-|-|Y|-|tacrolimus ointment|-|-|CUSTOM|Treatment|-|他克莫司软膏|0|N|256
+C1256200|CHI|-|-|-|-|Y|-|vine|-|-|CUSTOM|Treatment|-|藤本植物|0|N|256
+C1256216|CHI|-|-|-|-|Y|-|chrysanthemum|-|-|CUSTOM|Treatment|-|菊属|0|N|256
+C1256254|CHI|-|-|-|-|Y|-|iris|-|-|CUSTOM|Treatment|-|Iris|0|N|256
+C1261556|CHI|-|-|-|-|Y|-|iodine tincture|-|-|CUSTOM|Treatment|-|碘酒|0|N|256
+C1262091|CHI|-|-|-|-|Y|-|lymphocytic infiltration|-|-|CUSTOM|Disease|-|淋巴细胞浸润|0|N|256
+C1262477|CHI|-|-|-|-|Y|-|losing weight|-|-|CUSTOM|Disease|-|减肥|0|N|256
+C1262684|CHI|-|-|-|-|Y|-|allergy therapy|-|-|CUSTOM|Disease|-|过敏治疗|0|N|256
+C2227742|CHI|-|-|-|-|Y|-|allergy therapy|-|-|CUSTOM|Disease|-|过敏治疗|0|N|256
+C1262684|CHI|-|-|-|-|Y|-|allergy treatment|-|-|CUSTOM|Treatment|-|过敏治疗|0|N|256
+C2227742|CHI|-|-|-|-|Y|-|allergy treatment|-|-|CUSTOM|Treatment|-|过敏治疗|0|N|256
+C1271104|CHI|-|-|-|-|Y|-|blood pressure|-|-|CUSTOM|Disease|-|血压|0|N|256
+C1272641|CHI|-|-|-|-|Y|-|blood pressure|-|-|CUSTOM|Disease|-|血压|0|N|256
+C1272329|CHI|-|-|-|-|Y|-|bright red|-|-|CUSTOM|Disease|-|鲜红色|0|N|256
+C1272755|CHI|-|-|-|-|Y|-|lowered|-|-|CUSTOM|Disease|-|降低|0|N|256
+C1273348|CHI|-|-|-|-|Y|-|fungal microscopy|-|-|CUSTOM|Test|-|真菌显微镜|0|N|256
+C1273412|CHI|-|-|-|-|Y|-|chinese herbal medicine|-|-|CUSTOM|Treatment|-|中草药|0|N|256
+C1273412|CHI|-|-|-|-|Y|-|chinese herbal medicines|-|-|CUSTOM|Treatment|-|中草药|0|N|256
+C1274216|CHI|-|-|-|-|Y|-|punctate palmoplantar keratoderma|-|-|CUSTOM|Disease|-|点状掌跖角化病|0|N|256
+C1274552|CHI|-|-|-|-|Y|-|caterpillar dermatitis|-|-|CUSTOM|Disease|-|毛毛虫皮炎|0|N|256
+C1274576|CHI|-|-|-|-|Y|-|plantar callus|-|-|CUSTOM|Disease|-|足底骨痂|0|N|256
+C1275429|CHI|-|-|-|-|Y|-|chronic seborrheic dermatitis|-|-|CUSTOM|Disease|-|慢性脂溢性皮炎|0|N|256
+C1276092|CHI|-|-|-|-|Y|-|chronic hand dermatitis|-|-|CUSTOM|Disease|-|慢性手部皮炎|0|N|256
+C1276106|CHI|-|-|-|-|Y|-|frictional lichenoid eruption|-|-|CUSTOM|Disease|-|摩擦性地衣喷发|0|N|256
+C1277265|CHI|-|-|-|-|Y|-|dry eczema|-|-|CUSTOM|Disease|-|干性湿疹|0|N|256
+C1279621|CHI|-|-|-|-|Y|-|majocchi granuloma|-|-|CUSTOM|Disease|-|马约奇肉芽肿|0|N|256
+C1282977|CHI|-|-|-|-|Y|-|candidal paronychia|-|-|CUSTOM|Disease|-|念珠菌性甲沟炎|0|N|256
+C1288283|CHI|-|-|-|-|Y|-|macular atrophy|-|-|CUSTOM|Disease|-|黄斑萎缩|0|N|256
+C1290009|CHI|-|-|-|-|Y|-|chronic skin disease|-|-|CUSTOM|Disease|-|慢性皮肤病|0|N|256
+C1290871|CHI|-|-|-|-|Y|-|hand disease|-|-|CUSTOM|Disease|-|手部疾病|0|N|256
+C1290884|CHI|-|-|-|-|Y|-|inflammatory disease|-|-|CUSTOM|Disease|-|炎症性疾病|0|N|256
+C1291044|CHI|-|-|-|-|Y|-|dermatological|-|-|CUSTOM|Disease|-|皮肤科的|0|N|256
+C1293134|CHI|-|-|-|-|Y|-|enlarged|-|-|CUSTOM|Treatment|-|放大的|0|N|256
+C1304114|CHI|-|-|-|-|Y|-|generalized eczema|-|-|CUSTOM|Disease|-|全身性湿疹|0|N|256
+C1304164|CHI|-|-|-|-|Y|-|generalised granuloma annulare|-|-|CUSTOM|Disease|-|广泛性环状肉芽肿|0|N|256
+C1304408|CHI|-|-|-|-|Y|-|urticarial vasculitis|-|-|CUSTOM|Disease|-|荨麻疹血管炎|0|N|256
+C0343206|CHI|-|-|-|-|Y|-|urticarial vasculitis|-|-|CUSTOM|Disease|-|荨麻疹血管炎|0|N|256
+C1304434|CHI|-|-|-|-|Y|-|dermal elastolysis|-|-|CUSTOM|Disease|-|真皮弹性溶解|0|N|256
+C1306597|CHI|-|-|-|-|Y|-|psychological|-|-|CUSTOM|Disease|-|心灵的|0|N|256
+C1306726|CHI|-|-|-|-|Y|-|congenital nevus|-|-|CUSTOM|Disease|-|先天性痣|0|N|256
+C1306857|CHI|-|-|-|-|Y|-|hyperglobulinemia|-|-|CUSTOM|Disease|-|高球蛋白血症|0|N|256
+C1311681|CHI|-|-|-|-|Y|-|xyzal|-|-|CUSTOM|Treatment|-|抗组胺药|0|N|256
+C1318456|CHI|-|-|-|-|Y|-|cosmetic surgery|-|-|CUSTOM|Treatment|-|整容手术|0|N|256
+C1318558|CHI|-|-|-|-|Y|-|congenital melanocytic nevus|-|-|CUSTOM|Disease|-|先天性黑色素细胞痣|0|N|256
+C1318973|CHI|-|-|-|-|Y|-|staphylococcus aureus infection|-|-|CUSTOM|Disease|-|金黄色葡萄球菌感染|0|N|256
+C1333275|CHI|-|-|-|-|Y|-|skin fibroma|-|-|CUSTOM|Disease|-|皮肤纤维瘤|0|N|256
+C1360419|CHI|-|-|-|-|Y|-|herbal drug|-|-|CUSTOM|Treatment|-|草药|0|N|256
+C1360419|CHI|-|-|-|-|Y|-|herbal drugs|-|-|CUSTOM|Treatment|-|草药|0|N|256
+C1368816|CHI|-|-|-|-|Y|-|sebaceous adenoma|-|-|CUSTOM|Disease|-|皮脂腺腺瘤|0|N|256
+C1370662|CHI|-|-|-|-|Y|-|phellodendron|-|-|CUSTOM|Treatment|-|黄檗|0|N|256
+C1382849|CHI|-|-|-|-|Y|-|inula|-|-|CUSTOM|Treatment|-|旋覆花属|0|N|256
+C1384489|CHI|-|-|-|-|Y|-|scratch|-|-|CUSTOM|Disease|-|划痕|0|N|256
+C1384493|CHI|-|-|-|-|Y|-|catarrh|-|-|CUSTOM|Disease|-|卡他|0|N|256
+C1384589|CHI|-|-|-|-|Y|-|jock itch|-|-|CUSTOM|Disease|-|运动员瘙痒|0|N|256
+C1384589|CHI|-|-|-|-|Y|-|jock itch[SEP]tinea cruris|-|-|CUSTOM|Disease|-|运动员瘙痒|0|N|256
+C1384589|CHI|-|-|-|-|Y|-|tinea cruris|-|-|CUSTOM|Disease|-|股癣|0|N|256
+C1384641|CHI|-|-|-|-|Y|-|cervical spondylosis|-|-|CUSTOM|Disease|-|颈椎病|0|N|256
+C1384668|CHI|-|-|-|-|Y|-|irradiation|-|-|CUSTOM|Treatment|-|放射|0|N|256
+C1522449|CHI|-|-|-|-|Y|-|irradiation|-|-|CUSTOM|Treatment|-|放射|0|N|256
+C1384668|CHI|-|-|-|-|Y|-|radiotherapy|-|-|CUSTOM|Treatment|-|放射|0|N|256
+C1522449|CHI|-|-|-|-|Y|-|radiotherapy|-|-|CUSTOM|Treatment|-|放射|0|N|256
+C1408050|CHI|-|-|-|-|Y|-|urticaria papulosa|-|-|CUSTOM|Disease|-|丘疹性荨麻疹|0|N|256
+C1411926|CHI|-|-|-|-|Y|-|knot|-|-|CUSTOM|Disease|-|绳结|0|N|256
+C1441055|CHI|-|-|-|-|Y|-|paraneoplastic|-|-|CUSTOM|Treatment|-|副肿瘤的|0|N|256
+C1441759|CHI|-|-|-|-|Y|-|thin film|-|-|CUSTOM|Test|-|薄膜|0|N|256
+C1442901|CHI|-|-|-|-|Y|-|scorpion|-|-|CUSTOM|Treatment|-|蝎子|0|N|256
+C1442914|CHI|-|-|-|-|Y|-|malt|-|-|CUSTOM|Treatment|-|麦芽|0|N|256
+C1442923|CHI|-|-|-|-|Y|-|sheep|-|-|CUSTOM|Treatment|-|绵羊|0|N|256
+C1442948|CHI|-|-|-|-|Y|-|lead|-|-|CUSTOM|Treatment|-|铅|0|N|256
+C0023175|CHI|-|-|-|-|Y|-|lead|-|-|CUSTOM|Treatment|-|铅|0|N|256
+C1443048|CHI|-|-|-|-|Y|-|trichophyton|-|-|CUSTOM|Treatment|-|毛癣菌属|0|N|256
+C1445442|CHI|-|-|-|-|Y|-|trichophyton rubrum|-|-|CUSTOM|Treatment|-|红色毛癣菌|0|N|256
+C1445745|CHI|-|-|-|-|Y|-|chromium|-|-|CUSTOM|Treatment|-|铬|0|N|256
+C0008574|CHI|-|-|-|-|Y|-|chromium|-|-|CUSTOM|Treatment|-|铬|0|N|256
+C0373585|CHI|-|-|-|-|Y|-|chromium|-|-|CUSTOM|Treatment|-|铬|0|N|256
+C2348261|CHI|-|-|-|-|Y|-|chromium|-|-|CUSTOM|Treatment|-|铬|0|N|256
+C1446572|CHI|-|-|-|-|Y|-|kochia scoparia|-|-|CUSTOM|Treatment|-|地瓜|0|N|256
+C1446637|CHI|-|-|-|-|Y|-|malassezia furfur|-|-|CUSTOM|Treatment|-|秕糠马拉癣菌|0|N|256
+C1456454|CHI|-|-|-|-|Y|-|amyloid protein|-|-|CUSTOM|Treatment|-|淀粉样蛋白|0|N|256
+C1456781|CHI|-|-|-|-|Y|-|melanocytic nevus|-|-|CUSTOM|Disease|-|痣|0|N|256
+C0027960|CHI|-|-|-|-|Y|-|melanocytic nevus|-|-|CUSTOM|Disease|-|痣|0|N|256
+C0027962|CHI|-|-|-|-|Y|-|melanocytic nevus|-|-|CUSTOM|Disease|-|痣|0|N|256
+C3665593|CHI|-|-|-|-|Y|-|melanocytic nevus|-|-|CUSTOM|Disease|-|痣|0|N|256
+C0020217|CHI|-|-|-|-|Y|-|melanocytic nevus|-|-|CUSTOM|Disease|-|痣|0|N|256
+C1456781|CHI|-|-|-|-|Y|-|mole|-|-|CUSTOM|Disease|-|细胞痣|0|N|256
+C0027960|CHI|-|-|-|-|Y|-|mole|-|-|CUSTOM|Disease|-|细胞痣|0|N|256
+C0027962|CHI|-|-|-|-|Y|-|mole|-|-|CUSTOM|Disease|-|细胞痣|0|N|256
+C3665593|CHI|-|-|-|-|Y|-|mole|-|-|CUSTOM|Disease|-|细胞痣|0|N|256
+C0020217|CHI|-|-|-|-|Y|-|mole|-|-|CUSTOM|Disease|-|细胞痣|0|N|256
+C1456781|CHI|-|-|-|-|Y|-|moles|-|-|CUSTOM|Disease|-|细胞痣|0|N|256
+C0027960|CHI|-|-|-|-|Y|-|moles|-|-|CUSTOM|Disease|-|细胞痣|0|N|256
+C0027962|CHI|-|-|-|-|Y|-|moles|-|-|CUSTOM|Disease|-|细胞痣|0|N|256
+C3665593|CHI|-|-|-|-|Y|-|moles|-|-|CUSTOM|Disease|-|细胞痣|0|N|256
+C0020217|CHI|-|-|-|-|Y|-|moles|-|-|CUSTOM|Disease|-|细胞痣|0|N|256
+C1456781|CHI|-|-|-|-|Y|-|naevus|-|-|CUSTOM|Disease|-|宝石痣|0|N|256
+C0027960|CHI|-|-|-|-|Y|-|naevus|-|-|CUSTOM|Disease|-|宝石痣|0|N|256
+C0027962|CHI|-|-|-|-|Y|-|naevus|-|-|CUSTOM|Disease|-|宝石痣|0|N|256
+C3665593|CHI|-|-|-|-|Y|-|naevus|-|-|CUSTOM|Disease|-|宝石痣|0|N|256
+C0020217|CHI|-|-|-|-|Y|-|naevus|-|-|CUSTOM|Disease|-|宝石痣|0|N|256
+C1456781|CHI|-|-|-|-|Y|-|nevi|-|-|CUSTOM|Disease|-|毛细血管痣|0|N|256
+C0027960|CHI|-|-|-|-|Y|-|nevi|-|-|CUSTOM|Disease|-|毛细血管痣|0|N|256
+C0027962|CHI|-|-|-|-|Y|-|nevi|-|-|CUSTOM|Disease|-|毛细血管痣|0|N|256
+C3665593|CHI|-|-|-|-|Y|-|nevi|-|-|CUSTOM|Disease|-|毛细血管痣|0|N|256
+C0020217|CHI|-|-|-|-|Y|-|nevi|-|-|CUSTOM|Disease|-|毛细血管痣|0|N|256
+C1456781|CHI|-|-|-|-|Y|-|nevus|-|-|CUSTOM|Disease|-|痣|0|N|256
+C0027960|CHI|-|-|-|-|Y|-|nevus|-|-|CUSTOM|Disease|-|痣|0|N|256
+C0027962|CHI|-|-|-|-|Y|-|nevus|-|-|CUSTOM|Disease|-|痣|0|N|256
+C3665593|CHI|-|-|-|-|Y|-|nevus|-|-|CUSTOM|Disease|-|痣|0|N|256
+C0020217|CHI|-|-|-|-|Y|-|nevus|-|-|CUSTOM|Disease|-|痣|0|N|256
+C1456781|CHI|-|-|-|-|Y|-|pigmented mole|-|-|CUSTOM|Disease|-|痣|0|N|256
+C0027960|CHI|-|-|-|-|Y|-|pigmented mole|-|-|CUSTOM|Disease|-|痣|0|N|256
+C0027962|CHI|-|-|-|-|Y|-|pigmented mole|-|-|CUSTOM|Disease|-|痣|0|N|256
+C3665593|CHI|-|-|-|-|Y|-|pigmented mole|-|-|CUSTOM|Disease|-|痣|0|N|256
+C0020217|CHI|-|-|-|-|Y|-|pigmented mole|-|-|CUSTOM|Disease|-|痣|0|N|256
+C1456781|CHI|-|-|-|-|Y|-|pigmented nevus|-|-|CUSTOM|Disease|-|黑素细胞痣|0|N|256
+C0027960|CHI|-|-|-|-|Y|-|pigmented nevus|-|-|CUSTOM|Disease|-|黑素细胞痣|0|N|256
+C0027962|CHI|-|-|-|-|Y|-|pigmented nevus|-|-|CUSTOM|Disease|-|黑素细胞痣|0|N|256
+C3665593|CHI|-|-|-|-|Y|-|pigmented nevus|-|-|CUSTOM|Disease|-|黑素细胞痣|0|N|256
+C0020217|CHI|-|-|-|-|Y|-|pigmented nevus|-|-|CUSTOM|Disease|-|黑素细胞痣|0|N|256
+C1456781|CHI|-|-|-|-|Y|-|skin mole|-|-|CUSTOM|Disease|-|皮痣|0|N|256
+C0027960|CHI|-|-|-|-|Y|-|skin mole|-|-|CUSTOM|Disease|-|皮痣|0|N|256
+C0027962|CHI|-|-|-|-|Y|-|skin mole|-|-|CUSTOM|Disease|-|皮痣|0|N|256
+C3665593|CHI|-|-|-|-|Y|-|skin mole|-|-|CUSTOM|Disease|-|皮痣|0|N|256
+C0020217|CHI|-|-|-|-|Y|-|skin mole|-|-|CUSTOM|Disease|-|皮痣|0|N|256
+C1509143|CHI|-|-|-|-|Y|-|physical examination|-|-|CUSTOM|Disease|-|理学检查|0|N|256
+C1510437|CHI|-|-|-|-|Y|-|chronic actinic dermatitis|-|-|CUSTOM|Disease|-|慢性光化性皮炎|0|N|256
+C1515884|CHI|-|-|-|-|Y|-|traditional chinese medicine|-|-|CUSTOM|Treatment|-|中药|0|N|256
+C1521745|CHI|-|-|-|-|Y|-|conventional surgery|-|-|CUSTOM|Treatment|-|常规外科|0|N|256
+C1522468|CHI|-|-|-|-|Y|-|propionibacterium acnes|-|-|CUSTOM|Treatment|-|痤疮丙酸杆菌|0|N|256
+C1527062|CHI|-|-|-|-|Y|-|plantain|-|-|CUSTOM|Treatment|-|车前草|0|N|256
+C1527383|CHI|-|-|-|-|Y|-|morphea|-|-|CUSTOM|Disease|-|硬斑病|0|N|256
+C1529859|CHI|-|-|-|-|Y|-|butesin|-|-|CUSTOM|Treatment|-|丁烯|0|N|256
+C1533693|CHI|-|-|-|-|Y|-|quinolones|-|-|CUSTOM|Treatment|-|喹诺酮类药物|0|N|256
+C0034428|CHI|-|-|-|-|Y|-|quinolones|-|-|CUSTOM|Treatment|-|喹诺酮类药物|0|N|256
+C1535511|CHI|-|-|-|-|Y|-|infective eczema|-|-|CUSTOM|Disease|-|感染性湿疹|0|N|256
+C1550517|CHI|-|-|-|-|Y|-|marginal|-|-|CUSTOM|Disease|-|边缘|0|N|256
+C1567995|CHI|-|-|-|-|Y|-|plant|-|-|CUSTOM|Treatment|-|植物|0|N|256
+C1613434|CHI|-|-|-|-|Y|-|schizonepeta|-|-|CUSTOM|Treatment|-|裂叶荆芥属|0|N|256
+C1613453|CHI|-|-|-|-|Y|-|honeysuckle|-|-|CUSTOM|Treatment|-|忍冬属|0|N|256
+C1446573|CHI|-|-|-|-|Y|-|honeysuckle|-|-|CUSTOM|Treatment|-|忍冬属|0|N|256
+C1617085|CHI|-|-|-|-|Y|-|glycerin suppository|-|-|CUSTOM|Treatment|-|甘油栓剂|0|N|256
+C1620239|CHI|-|-|-|-|Y|-|qingkailing|-|-|CUSTOM|Treatment|-|清开灵|0|N|256
+C1644606|CHI|-|-|-|-|Y|-|dragon's blood|-|-|CUSTOM|Treatment|-|血竭|0|N|256
+C1646056|CHI|-|-|-|-|Y|-|skin moisturizing|-|-|CUSTOM|Treatment|-|皮肤保湿|0|N|256
+C1657761|CHI|-|-|-|-|Y|-|local injection|-|-|CUSTOM|Treatment|-|局部注射|0|N|256
+C1705285|CHI|-|-|-|-|Y|-|mutation|-|-|CUSTOM|Disease|-|突变|0|N|256
+C1706094|CHI|-|-|-|-|Y|-|cement|-|-|CUSTOM|Treatment|-|水泥|0|N|256
+C4722266|CHI|-|-|-|-|Y|-|cement|-|-|CUSTOM|Treatment|-|水泥|0|N|256
+C1704479|CHI|-|-|-|-|Y|-|cement|-|-|CUSTOM|Treatment|-|水泥|0|N|256
+C1764827|CHI|-|-|-|-|Y|-|isolate|-|-|CUSTOM|Treatment|-|隔离|0|N|256
+C1827268|CHI|-|-|-|-|Y|-|keratoacanthoma|-|-|CUSTOM|Disease|-|角化棘皮瘤|0|N|256
+C0022572|CHI|-|-|-|-|Y|-|keratoacanthoma|-|-|CUSTOM|Disease|-|角化棘皮瘤|0|N|256
+C1831743|CHI|-|-|-|-|Y|-|autologous|-|-|CUSTOM|Treatment|-|自体的|0|N|256
+C4522170|CHI|-|-|-|-|Y|-|autologous|-|-|CUSTOM|Treatment|-|自体的|0|N|256
+C1856953|CHI|-|-|-|-|Y|-|palmar hyperhidrosis|-|-|CUSTOM|Disease|-|手掌多汗症|0|N|256
+C1862862|CHI|-|-|-|-|Y|-|alopecia areata|-|-|CUSTOM|Disease|-|圆秃|0|N|256
+C0002171|CHI|-|-|-|-|Y|-|alopecia areata|-|-|CUSTOM|Disease|-|圆秃|0|N|256
+C1874281|CHI|-|-|-|-|Y|-|topical antifungal|-|-|CUSTOM|Treatment|-|局部抗真菌|0|N|256
+C1880282|CHI|-|-|-|-|Y|-|percussion|-|-|CUSTOM|Test|-|打击乐器|0|N|256
+C0030987|CHI|-|-|-|-|Y|-|percussion|-|-|CUSTOM|Test|-|打击乐器|0|N|256
+C1882401|CHI|-|-|-|-|Y|-|pitted|-|-|CUSTOM|Disease|-|坑坑洼洼的|0|N|256
+C1952586|CHI|-|-|-|-|Y|-|safflower|-|-|CUSTOM|Treatment|-|红花|0|N|256
+C1963093|CHI|-|-|-|-|Y|-|dizziness|-|-|CUSTOM|Disease|-|头晕|0|N|256
+C0012833|CHI|-|-|-|-|Y|-|dizziness|-|-|CUSTOM|Disease|-|头晕|0|N|256
+C4553830|CHI|-|-|-|-|Y|-|dizziness|-|-|CUSTOM|Disease|-|头晕|0|N|256
+C1998061|CHI|-|-|-|-|Y|-|malassezia folliculitis|-|-|CUSTOM|Disease|-|马拉色菌毛囊炎|0|N|256
+C2004458|CHI|-|-|-|-|Y|-|melanocytoma|-|-|CUSTOM|Disease|-|黑色素细胞瘤|0|N|256
+C2019022|CHI|-|-|-|-|Y|-|spots in the mouth|-|-|CUSTOM|Disease|-|口腔斑点|0|N|256
+C2021368|CHI|-|-|-|-|Y|-|excision for pathology|-|-|CUSTOM|Test|-|病理切除术|0|N|256
+C2034527|CHI|-|-|-|-|Y|-|sodium bicarbonate solution|-|-|CUSTOM|Treatment|-|碳酸氢钠溶液|0|N|256
+C2987686|CHI|-|-|-|-|Y|-|sodium bicarbonate solution|-|-|CUSTOM|Treatment|-|碳酸氢钠溶液|0|N|256
+C2037263|CHI|-|-|-|-|Y|-|sun protection|-|-|CUSTOM|Disease|-|防晒|0|N|256
+C2039684|CHI|-|-|-|-|Y|-|systemic symptoms|-|-|CUSTOM|Disease|-|全身症状|0|N|256
+C2064827|CHI|-|-|-|-|Y|-|topical steroids|-|-|CUSTOM|Treatment|-|局部类固醇|0|N|256
+C2073625|CHI|-|-|-|-|Y|-|pleural effusion|-|-|CUSTOM|Disease|-|胸腔积液|0|N|256
+C0032227|CHI|-|-|-|-|Y|-|pleural effusion|-|-|CUSTOM|Disease|-|胸腔积液|0|N|256
+C2075160|CHI|-|-|-|-|Y|-|circular skin lesions|-|-|CUSTOM|Disease|-|圆形皮肤病变|0|N|256
+C2116810|CHI|-|-|-|-|Y|-|clean the wound|-|-|CUSTOM|Treatment|-|清洁伤口|0|N|256
+C0455099|CHI|-|-|-|-|Y|-|clean the wound|-|-|CUSTOM|Treatment|-|清洁伤口|0|N|256
+C2116810|CHI|-|-|-|-|Y|-|wound cleaning|-|-|CUSTOM|Treatment|-|清洁伤口|0|N|256
+C0455099|CHI|-|-|-|-|Y|-|wound cleaning|-|-|CUSTOM|Treatment|-|清洁伤口|0|N|256
+C2126375|CHI|-|-|-|-|Y|-|red rash|-|-|CUSTOM|Disease|-|红疹|0|N|256
+C2129647|CHI|-|-|-|-|Y|-|menstruation|-|-|CUSTOM|Disease|-|月经|0|N|256
+C2137071|CHI|-|-|-|-|Y|-|oral intake|-|-|CUSTOM|Disease|-|口服|0|N|256
+C2146147|CHI|-|-|-|-|Y|-|treat the symptoms|-|-|CUSTOM|Treatment|-|治疗症状|0|N|256
+C2162377|CHI|-|-|-|-|Y|-|scales between the toes|-|-|CUSTOM|Disease|-|脚趾之间的鳞片|0|N|256
+C2168524|CHI|-|-|-|-|Y|-|lesions on the back|-|-|CUSTOM|Disease|-|背部损伤|0|N|256
+C2168629|CHI|-|-|-|-|Y|-|lesions on the scalp|-|-|CUSTOM|Disease|-|头皮损伤|0|N|256
+C2184262|CHI|-|-|-|-|Y|-|location of the skin lesion|-|-|CUSTOM|Disease|-|皮肤损伤部位|0|N|256
+C2188843|CHI|-|-|-|-|Y|-|using all cosmetics|-|-|CUSTOM|Disease|-|使用化妆品|0|N|256
+C2230150|CHI|-|-|-|-|Y|-|mucous membranes|-|-|CUSTOM|Disease|-|粘膜|0|N|256
+C2235358|CHI|-|-|-|-|Y|-|single skin lesion|-|-|CUSTOM|Disease|-|单一皮肤病变|0|N|256
+C2237319|CHI|-|-|-|-|Y|-|blockage|-|-|CUSTOM|Disease|-|堵塞|0|N|256
+C2237655|CHI|-|-|-|-|Y|-|body surface area|-|-|CUSTOM|Disease|-|体表面积|0|N|256
+C2239095|CHI|-|-|-|-|Y|-|lice bites|-|-|CUSTOM|Disease|-|虱子叮咬|0|N|256
+C2239120|CHI|-|-|-|-|Y|-|eyelid|-|-|CUSTOM|Disease|-|眼睑|0|N|256
+C2240391|CHI|-|-|-|-|Y|-|herbal medicine|-|-|CUSTOM|Treatment|-|草药医学|0|N|256
+C0242388|CHI|-|-|-|-|Y|-|herbal medicine|-|-|CUSTOM|Treatment|-|草药医学|0|N|256
+C2240391|CHI|-|-|-|-|Y|-|herbal medicines|-|-|CUSTOM|Treatment|-|草药医学|0|N|256
+C0242388|CHI|-|-|-|-|Y|-|herbal medicines|-|-|CUSTOM|Treatment|-|草药医学|0|N|256
+C2242855|CHI|-|-|-|-|Y|-|personal hygiene|-|-|CUSTOM|Disease|-|个人卫生|0|N|256
+C2348272|CHI|-|-|-|-|Y|-|mercury|-|-|CUSTOM|Treatment|-|红汞|0|N|256
+C0025424|CHI|-|-|-|-|Y|-|mercury|-|-|CUSTOM|Treatment|-|红汞|0|N|256
+C0428257|CHI|-|-|-|-|Y|-|mercury|-|-|CUSTOM|Treatment|-|红汞|0|N|256
+C2363963|CHI|-|-|-|-|Y|-|antifungal therapy|-|-|CUSTOM|Treatment|-|抗真菌治疗|0|N|256
+C0678026|CHI|-|-|-|-|Y|-|antifungal therapy|-|-|CUSTOM|Treatment|-|抗真菌治疗|0|N|256
+C2363963|CHI|-|-|-|-|Y|-|antifungal treatment|-|-|CUSTOM|Treatment|-|抗真菌治疗|0|N|256
+C0678026|CHI|-|-|-|-|Y|-|antifungal treatment|-|-|CUSTOM|Treatment|-|抗真菌治疗|0|N|256
+C2586298|CHI|-|-|-|-|Y|-|hydroxybenzoic acid|-|-|CUSTOM|Treatment|-|羟基苯甲酸|0|N|256
+C2607914|CHI|-|-|-|-|Y|-|allergic rhinitis|-|-|CUSTOM|Disease|-|过敏性鼻炎|0|N|256
+C2609465|CHI|-|-|-|-|Y|-|tribulus|-|-|CUSTOM|Treatment|-|蒺藜属|0|N|256
+C2699024|CHI|-|-|-|-|Y|-|rehmannia root|-|-|CUSTOM|Treatment|-|地黄|0|N|256
+C2702362|CHI|-|-|-|-|Y|-|milk|-|-|CUSTOM|Treatment|-|乳|0|N|256
+C2702401|CHI|-|-|-|-|Y|-|trichophyton tonsurans|-|-|CUSTOM|Treatment|-|鹿角毛癣菌|0|N|256
+C2725897|CHI|-|-|-|-|Y|-|goose|-|-|CUSTOM|Treatment|-|雁|0|N|256
+C2740760|CHI|-|-|-|-|Y|-|cauliflower|-|-|CUSTOM|Treatment|-|菜花|0|N|256
+C2741453|CHI|-|-|-|-|Y|-|watermelon|-|-|CUSTOM|Treatment|-|西瓜|0|N|256
+C0874041|CHI|-|-|-|-|Y|-|watermelon|-|-|CUSTOM|Treatment|-|西瓜|0|N|256
+C2750515|CHI|-|-|-|-|Y|-|subcutaneous bleeding|-|-|CUSTOM|Disease|-|皮下出血|0|N|256
+C2752138|CHI|-|-|-|-|Y|-|aloe vera|-|-|CUSTOM|Treatment|-|芦荟|0|N|256
+C0995182|CHI|-|-|-|-|Y|-|aloe vera|-|-|CUSTOM|Treatment|-|芦荟|0|N|256
+C0974143|CHI|-|-|-|-|Y|-|aloe vera|-|-|CUSTOM|Treatment|-|芦荟|0|N|256
+C2752138|CHI|-|-|-|-|Y|-|aloe vera gel|-|-|CUSTOM|Treatment|-|芦荟|0|N|256
+C0995182|CHI|-|-|-|-|Y|-|aloe vera gel|-|-|CUSTOM|Treatment|-|芦荟|0|N|256
+C0974143|CHI|-|-|-|-|Y|-|aloe vera gel|-|-|CUSTOM|Treatment|-|芦荟|0|N|256
+C2825076|CHI|-|-|-|-|Y|-|vitamin a|-|-|CUSTOM|Treatment|-|视黄醇|0|N|256
+C0042839|CHI|-|-|-|-|Y|-|vitamin a|-|-|CUSTOM|Treatment|-|视黄醇|0|N|256
+C0087161|CHI|-|-|-|-|Y|-|vitamin a|-|-|CUSTOM|Treatment|-|视黄醇|0|N|256
+C0373745|CHI|-|-|-|-|Y|-|vitamin a|-|-|CUSTOM|Treatment|-|视黄醇|0|N|256
+C2957537|CHI|-|-|-|-|Y|-|subcutaneous injection|-|-|CUSTOM|Treatment|-|皮下注射|0|N|256
+C2958873|CHI|-|-|-|-|Y|-|avoid spicy foods|-|-|CUSTOM|Treatment|-|避免辛辣食物|0|N|256
+C2960115|CHI|-|-|-|-|Y|-|fungal enteritis|-|-|CUSTOM|Disease|-|真菌性肠炎|0|N|256
+C2973529|CHI|-|-|-|-|Y|-|leukocytoclastic vasculitis|-|-|CUSTOM|Disease|-|白细胞碎屑性血管炎|0|N|256
+C2981831|CHI|-|-|-|-|Y|-|11111111111|-|-|CUSTOM|Treatment|-|nms-1116354|0|N|256
+C2986501|CHI|-|-|-|-|Y|-|blood stasis|-|-|CUSTOM|Disease|-|血瘀|0|N|256
+C3151398|CHI|-|-|-|-|Y|-|hypopigmentation spots|-|-|CUSTOM|Disease|-|色素减退斑|0|N|256
+C3179502|CHI|-|-|-|-|Y|-|linear verrucous epidermal nevus|-|-|CUSTOM|Disease|-|线状疣状表皮痣|0|N|256
+C3203359|CHI|-|-|-|-|Y|-|rupture|-|-|CUSTOM|Disease|-|破裂|0|N|256
+C3203359|CHI|-|-|-|-|Y|-|ruptured|-|-|CUSTOM|Disease|-|破裂|0|N|256
+C3212626|CHI|-|-|-|-|Y|-|topical tretinoin|-|-|CUSTOM|Treatment|-|局部维甲酸|0|N|256
+C3256960|CHI|-|-|-|-|Y|-|tangerine peel|-|-|CUSTOM|Treatment|-|陈皮|0|N|256
+C3276713|CHI|-|-|-|-|Y|-|erythrokeratodermia|-|-|CUSTOM|Disease|-|红角化病|0|N|256
+C3278281|CHI|-|-|-|-|Y|-|psoriatic nail changes|-|-|CUSTOM|Disease|-|银屑病指甲变化|0|N|256
+C3469597|CHI|-|-|-|-|Y|-|medication treatment|-|-|CUSTOM|Treatment|-|药物治疗|0|N|256
+C3495458|CHI|-|-|-|-|Y|-|antibodies|-|-|CUSTOM|Treatment|-|抗体|0|N|256
+C0003241|CHI|-|-|-|-|Y|-|antibodies|-|-|CUSTOM|Treatment|-|抗体|0|N|256
+C3495559|CHI|-|-|-|-|Y|-|juvenile rheumatoid arthritis|-|-|CUSTOM|Disease|-|幼年类风湿性关节炎|0|N|256
+C3714757|CHI|-|-|-|-|Y|-|juvenile rheumatoid arthritis|-|-|CUSTOM|Disease|-|幼年类风湿性关节炎|0|N|256
+C3503436|CHI|-|-|-|-|Y|-|sugarcane|-|-|CUSTOM|Treatment|-|甘蔗|0|N|256
+C3536880|CHI|-|-|-|-|Y|-|niacin|-|-|CUSTOM|Treatment|-|烟酸|0|N|256
+C0027996|CHI|-|-|-|-|Y|-|niacin|-|-|CUSTOM|Treatment|-|烟酸|0|N|256
+C1142562|CHI|-|-|-|-|Y|-|niacin|-|-|CUSTOM|Treatment|-|烟酸|0|N|256
+C3536880|CHI|-|-|-|-|Y|-|nicotinic acid|-|-|CUSTOM|Treatment|-|烟酸|0|N|256
+C0027996|CHI|-|-|-|-|Y|-|nicotinic acid|-|-|CUSTOM|Treatment|-|烟酸|0|N|256
+C1142562|CHI|-|-|-|-|Y|-|nicotinic acid|-|-|CUSTOM|Treatment|-|烟酸|0|N|256
+C3652465|CHI|-|-|-|-|Y|-|interferon|-|-|CUSTOM|Treatment|-|干扰素|0|N|256
+C0021747|CHI|-|-|-|-|Y|-|interferon|-|-|CUSTOM|Treatment|-|干扰素|0|N|256
+C0733470|CHI|-|-|-|-|Y|-|interferon|-|-|CUSTOM|Treatment|-|干扰素|0|N|256
+C3665492|CHI|-|-|-|-|Y|-|pigmentation|-|-|CUSTOM|Disease|-|色素沉着|0|N|256
+C3665596|CHI|-|-|-|-|Y|-|common wart|-|-|CUSTOM|Disease|-|寻常疣|0|N|256
+C0347390|CHI|-|-|-|-|Y|-|common wart|-|-|CUSTOM|Disease|-|寻常疣|0|N|256
+C0043037|CHI|-|-|-|-|Y|-|common wart|-|-|CUSTOM|Disease|-|寻常疣|0|N|256
+C3665596|CHI|-|-|-|-|Y|-|common warts|-|-|CUSTOM|Disease|-|寻常疣|0|N|256
+C0347390|CHI|-|-|-|-|Y|-|common warts|-|-|CUSTOM|Disease|-|寻常疣|0|N|256
+C0043037|CHI|-|-|-|-|Y|-|common warts|-|-|CUSTOM|Disease|-|寻常疣|0|N|256
+C3665596|CHI|-|-|-|-|Y|-|verruca vulgaris|-|-|CUSTOM|Disease|-|寻常疣|0|N|256
+C0347390|CHI|-|-|-|-|Y|-|verruca vulgaris|-|-|CUSTOM|Disease|-|寻常疣|0|N|256
+C0043037|CHI|-|-|-|-|Y|-|verruca vulgaris|-|-|CUSTOM|Disease|-|寻常疣|0|N|256
+C3665596|CHI|-|-|-|-|Y|-|viral wart|-|-|CUSTOM|Disease|-|疣|0|N|256
+C0347390|CHI|-|-|-|-|Y|-|viral wart|-|-|CUSTOM|Disease|-|疣|0|N|256
+C0043037|CHI|-|-|-|-|Y|-|viral wart|-|-|CUSTOM|Disease|-|疣|0|N|256
+C3665596|CHI|-|-|-|-|Y|-|wart|-|-|CUSTOM|Disease|-|疣|0|N|256
+C0347390|CHI|-|-|-|-|Y|-|wart|-|-|CUSTOM|Disease|-|疣|0|N|256
+C0043037|CHI|-|-|-|-|Y|-|wart|-|-|CUSTOM|Disease|-|疣|0|N|256
+C3665596|CHI|-|-|-|-|Y|-|wart[SEP]common warts|-|-|CUSTOM|Disease|-|疣|0|N|256
+C0347390|CHI|-|-|-|-|Y|-|wart[SEP]common warts|-|-|CUSTOM|Disease|-|疣|0|N|256
+C0043037|CHI|-|-|-|-|Y|-|wart[SEP]common warts|-|-|CUSTOM|Disease|-|疣|0|N|256
+C3665596|CHI|-|-|-|-|Y|-|warts|-|-|CUSTOM|Disease|-|疣|0|N|256
+C0347390|CHI|-|-|-|-|Y|-|warts|-|-|CUSTOM|Disease|-|疣|0|N|256
+C0043037|CHI|-|-|-|-|Y|-|warts|-|-|CUSTOM|Disease|-|疣|0|N|256
+C3665930|CHI|-|-|-|-|Y|-|paederus dermatitis|-|-|CUSTOM|Disease|-|隐翅虫皮炎|0|N|256
+C3670752|CHI|-|-|-|-|Y|-|deep pyoderma|-|-|CUSTOM|Disease|-|深层脓皮病|0|N|256
+C3714660|CHI|-|-|-|-|Y|-|injuries|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0043250|CHI|-|-|-|-|Y|-|injuries|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263723|CHI|-|-|-|-|Y|-|injuries|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497561|CHI|-|-|-|-|Y|-|injuries|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497571|CHI|-|-|-|-|Y|-|injuries|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497582|CHI|-|-|-|-|Y|-|injuries|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263722|CHI|-|-|-|-|Y|-|injuries|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3714660|CHI|-|-|-|-|Y|-|injury|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0043250|CHI|-|-|-|-|Y|-|injury|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263723|CHI|-|-|-|-|Y|-|injury|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497561|CHI|-|-|-|-|Y|-|injury|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497571|CHI|-|-|-|-|Y|-|injury|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497582|CHI|-|-|-|-|Y|-|injury|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263722|CHI|-|-|-|-|Y|-|injury|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3714660|CHI|-|-|-|-|Y|-|injury[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0043250|CHI|-|-|-|-|Y|-|injury[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263723|CHI|-|-|-|-|Y|-|injury[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497561|CHI|-|-|-|-|Y|-|injury[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497571|CHI|-|-|-|-|Y|-|injury[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497582|CHI|-|-|-|-|Y|-|injury[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263722|CHI|-|-|-|-|Y|-|injury[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3714660|CHI|-|-|-|-|Y|-|trauma|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0043250|CHI|-|-|-|-|Y|-|trauma|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263723|CHI|-|-|-|-|Y|-|trauma|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497561|CHI|-|-|-|-|Y|-|trauma|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497571|CHI|-|-|-|-|Y|-|trauma|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497582|CHI|-|-|-|-|Y|-|trauma|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263722|CHI|-|-|-|-|Y|-|trauma|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3714660|CHI|-|-|-|-|Y|-|traumas[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0043250|CHI|-|-|-|-|Y|-|traumas[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263723|CHI|-|-|-|-|Y|-|traumas[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497561|CHI|-|-|-|-|Y|-|traumas[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497571|CHI|-|-|-|-|Y|-|traumas[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497582|CHI|-|-|-|-|Y|-|traumas[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263722|CHI|-|-|-|-|Y|-|traumas[SEP]wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3714660|CHI|-|-|-|-|Y|-|wound|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0043250|CHI|-|-|-|-|Y|-|wound|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263723|CHI|-|-|-|-|Y|-|wound|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497561|CHI|-|-|-|-|Y|-|wound|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497571|CHI|-|-|-|-|Y|-|wound|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497582|CHI|-|-|-|-|Y|-|wound|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263722|CHI|-|-|-|-|Y|-|wound|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3714660|CHI|-|-|-|-|Y|-|wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0043250|CHI|-|-|-|-|Y|-|wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263723|CHI|-|-|-|-|Y|-|wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497561|CHI|-|-|-|-|Y|-|wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497571|CHI|-|-|-|-|Y|-|wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C0497582|CHI|-|-|-|-|Y|-|wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3263722|CHI|-|-|-|-|Y|-|wounds|-|-|CUSTOM|Disease|-|伤口|0|N|256
+C3827868|CHI|-|-|-|-|Y|-|tachycardia|-|-|CUSTOM|Disease|-|心跳过速|0|N|256
+C0039231|CHI|-|-|-|-|Y|-|tachycardia|-|-|CUSTOM|Disease|-|心跳过速|0|N|256
+C3840668|CHI|-|-|-|-|Y|-|itchiness|-|-|CUSTOM|Disease|-|发痒|0|N|256
+C3844638|CHI|-|-|-|-|Y|-|either|-|-|CUSTOM|Disease|-|任何一个|0|N|256
+C3853573|CHI|-|-|-|-|Y|-|granules|-|-|CUSTOM|Treatment|-|颗粒|0|N|256
+C3854029|CHI|-|-|-|-|Y|-|alcohol|-|-|CUSTOM|Treatment|-|乙醇|0|N|256
+C3854030|CHI|-|-|-|-|Y|-|alcohol|-|-|CUSTOM|Treatment|-|乙醇|0|N|256
+C0001962|CHI|-|-|-|-|Y|-|alcohol|-|-|CUSTOM|Treatment|-|乙醇|0|N|256
+C0001975|CHI|-|-|-|-|Y|-|alcohol|-|-|CUSTOM|Treatment|-|乙醇|0|N|256
+C0202304|CHI|-|-|-|-|Y|-|alcohol|-|-|CUSTOM|Treatment|-|乙醇|0|N|256
+C3854029|CHI|-|-|-|-|Y|-|ethanol|-|-|CUSTOM|Treatment|-|乙醇|0|N|256
+C3854030|CHI|-|-|-|-|Y|-|ethanol|-|-|CUSTOM|Treatment|-|乙醇|0|N|256
+C0001962|CHI|-|-|-|-|Y|-|ethanol|-|-|CUSTOM|Treatment|-|乙醇|0|N|256
+C0001975|CHI|-|-|-|-|Y|-|ethanol|-|-|CUSTOM|Treatment|-|乙醇|0|N|256
+C0202304|CHI|-|-|-|-|Y|-|ethanol|-|-|CUSTOM|Treatment|-|乙醇|0|N|256
+C3887677|CHI|-|-|-|-|Y|-|suppurative granuloma|-|-|CUSTOM|Disease|-|化脓性肉芽肿|0|N|256
+C3888971|CHI|-|-|-|-|Y|-|nodular rash|-|-|CUSTOM|Disease|-|结节性皮疹|0|N|256
+C4033565|CHI|-|-|-|-|Y|-|kudzu root|-|-|CUSTOM|Treatment|-|葛根|0|N|256
+C4048181|CHI|-|-|-|-|Y|-|broken skin|-|-|CUSTOM|Disease|-|破损的皮肤|0|N|256
+C4049491|CHI|-|-|-|-|Y|-|verrucous keratosis|-|-|CUSTOM|Disease|-|疣状角化病|0|N|256
+C4049863|CHI|-|-|-|-|Y|-|impression|-|-|CUSTOM|Disease|-|印象|0|N|256
+C4082459|CHI|-|-|-|-|Y|-|oral hygiene|-|-|CUSTOM|Disease|-|口腔卫生|0|N|256
+C4082719|CHI|-|-|-|-|Y|-|zentel|-|-|CUSTOM|Treatment|-|驱虫药|0|N|256
+C4229975|CHI|-|-|-|-|Y|-|verrucous hyperplasia|-|-|CUSTOM|Disease|-|疣状增生|0|N|256
+C4282165|CHI|-|-|-|-|Y|-|lymph node enlargement|-|-|CUSTOM|Disease|-|淋巴结肿大|0|N|256
+C0497156|CHI|-|-|-|-|Y|-|lymph node enlargement|-|-|CUSTOM|Disease|-|淋巴结肿大|0|N|256
+C4282165|CHI|-|-|-|-|Y|-|swollen lymph nodes|-|-|CUSTOM|Disease|-|淋巴结肿大|0|N|256
+C0497156|CHI|-|-|-|-|Y|-|swollen lymph nodes|-|-|CUSTOM|Disease|-|淋巴结肿大|0|N|256
+C4317126|CHI|-|-|-|-|Y|-|niacin deficiency|-|-|CUSTOM|Disease|-|烟酸缺乏|0|N|256
+C4321379|CHI|-|-|-|-|Y|-|maidong|-|-|CUSTOM|Treatment|-|麦东|0|N|256
+C4476828|CHI|-|-|-|-|Y|-|palmoplantar psoriasis|-|-|CUSTOM|Disease|-|掌跖银屑病|0|N|256
+C4521024|CHI|-|-|-|-|Y|-|sulfur ointment|-|-|CUSTOM|Treatment|-|硫软膏|0|N|256
+C4521292|CHI|-|-|-|-|Y|-|quinoa|-|-|CUSTOM|Treatment|-|藜麦|0|N|256
+C4521324|CHI|-|-|-|-|Y|-|isolation|-|-|CUSTOM|Treatment|-|隔离|0|N|256
+C0204727|CHI|-|-|-|-|Y|-|isolation|-|-|CUSTOM|Treatment|-|隔离|0|N|256
+C0260397|CHI|-|-|-|-|Y|-|isolation|-|-|CUSTOM|Treatment|-|隔离|0|N|256
+C0220862|CHI|-|-|-|-|Y|-|isolation|-|-|CUSTOM|Treatment|-|隔离|0|N|256
+C2064685|CHI|-|-|-|-|Y|-|isolation|-|-|CUSTOM|Treatment|-|隔离|0|N|256
+C4522080|CHI|-|-|-|-|Y|-|vitamin c|-|-|CUSTOM|Treatment|-|维生素c|0|N|256
+C0003968|CHI|-|-|-|-|Y|-|vitamin c|-|-|CUSTOM|Treatment|-|维生素c|0|N|256
+C0201898|CHI|-|-|-|-|Y|-|vitamin c|-|-|CUSTOM|Treatment|-|维生素c|0|N|256
+C2349136|CHI|-|-|-|-|Y|-|vitamin c|-|-|CUSTOM|Treatment|-|维生素c|0|N|256
+C4548560|CHI|-|-|-|-|Y|-|kangfuxin|-|-|CUSTOM|Treatment|-|康复新|0|N|256
+C4551675|CHI|-|-|-|-|Y|-|palmoplantar keratoderma|-|-|CUSTOM|Disease|-|掌跖角化病|0|N|256
+C4551833|CHI|-|-|-|-|Y|-|cryotherapy|-|-|CUSTOM|Treatment|-|冷疗|0|N|256
+C4551716|CHI|-|-|-|-|Y|-|cryotherapy|-|-|CUSTOM|Treatment|-|冷疗|0|N|256
+C4552097|CHI|-|-|-|-|Y|-|nevus sebaceous|-|-|CUSTOM|Disease|-|皮脂腺痣|0|N|256
+C3854181|CHI|-|-|-|-|Y|-|nevus sebaceous|-|-|CUSTOM|Disease|-|皮脂腺痣|0|N|256
+C4552097|CHI|-|-|-|-|Y|-|sebaceous nevus|-|-|CUSTOM|Disease|-|皮脂腺痣|0|N|256
+C3854181|CHI|-|-|-|-|Y|-|sebaceous nevus|-|-|CUSTOM|Disease|-|皮脂腺痣|0|N|256
+C4553302|CHI|-|-|-|-|Y|-|toxic epidermal necrolysis|-|-|CUSTOM|Disease|-|中毒性表皮坏死松解|0|N|256
+C0014518|CHI|-|-|-|-|Y|-|toxic epidermal necrolysis|-|-|CUSTOM|Disease|-|中毒性表皮坏死松解|0|N|256
+C4554073|CHI|-|-|-|-|Y|-|erythema multiforme|-|-|CUSTOM|Disease|-|多形红斑|0|N|256
+C0014742|CHI|-|-|-|-|Y|-|erythema multiforme|-|-|CUSTOM|Disease|-|多形红斑|0|N|256
+C4682337|CHI|-|-|-|-|Y|-|epidermal dysplasia|-|-|CUSTOM|Disease|-|表皮发育不良|0|N|256
+C4706514|CHI|-|-|-|-|Y|-|cephalosporin|-|-|CUSTOM|Treatment|-|头孢菌素|0|N|256
+C3536856|CHI|-|-|-|-|Y|-|cephalosporin|-|-|CUSTOM|Treatment|-|头孢菌素|0|N|256
+C4721714|CHI|-|-|-|-|Y|-|tea|-|-|CUSTOM|Treatment|-|茶|0|N|256
+C4722778|CHI|-|-|-|-|Y|-|mometasone furoate cream|-|-|CUSTOM|Treatment|-|糠酸莫米松乳膏|0|N|256
+C4722794|CHI|-|-|-|-|Y|-|hydrocortisone butyrate cream|-|-|CUSTOM|Treatment|-|丁酸氢化可的松乳膏|0|N|256
+C4722797|CHI|-|-|-|-|Y|-|hydrocortisone acetate cream|-|-|CUSTOM|Treatment|-|醋酸氢化可的松乳膏|0|N|256
+C4722852|CHI|-|-|-|-|Y|-|hydrocortisone butyrate ointment|-|-|CUSTOM|Treatment|-|丁酸氢化可的松软膏|0|N|256
+C4726677|CHI|-|-|-|-|Y|-|remdesivir|-|-|CUSTOM|Treatment|-|瑞德西韦|0|N|256
+C4759686|CHI|-|-|-|-|Y|-|fungi|-|-|CUSTOM|Disease|-|真菌|0|N|256
+C4759686|CHI|-|-|-|-|Y|-|fungus|-|-|CUSTOM|Disease|-|真菌|0|N|256
+C4761670|CHI|-|-|-|-|Y|-|complex|-|-|CUSTOM|Treatment|-|复杂|0|N|256
+C1704241|CHI|-|-|-|-|Y|-|complex|-|-|CUSTOM|Treatment|-|复杂|0|N|256
+C5235113|CHI|-|-|-|-|Y|-|zinc oxide ointment|-|-|CUSTOM|Treatment|-|氧化锌软膏|0|N|256
+C0691958|CHI|-|-|-|-|Y|-|zinc oxide ointment|-|-|CUSTOM|Treatment|-|氧化锌软膏|0|N|256
+C5238637|CHI|-|-|-|-|Y|-|aspirin|-|-|CUSTOM|Treatment|-|乙酰水杨酸|0|N|256
+C5238638|CHI|-|-|-|-|Y|-|aspirin|-|-|CUSTOM|Treatment|-|乙酰水杨酸|0|N|256
+C0004057|CHI|-|-|-|-|Y|-|aspirin|-|-|CUSTOM|Treatment|-|乙酰水杨酸|0|N|256
+C5243901|CHI|-|-|-|-|Y|-|symptomatic treatment|-|-|CUSTOM|Treatment|-|对症治疗|0|N|256
+C5400142|CHI|-|-|-|-|Y|-|seborrheic alopecia|-|-|CUSTOM|Disease|-|脂溢性脱发|0|N|256
+C5401264|CHI|-|-|-|-|Y|-|pseudomonas aeruginosa|-|-|CUSTOM|Test|-|绿脓杆菌|0|N|256
+C5401413|CHI|-|-|-|-|Y|-|itraconazole|-|-|CUSTOM|Treatment|-|伊曲康唑|0|N|256
+C0064113|CHI|-|-|-|-|Y|-|itraconazole|-|-|CUSTOM|Treatment|-|伊曲康唑|0|N|256
+C5441573|CHI|-|-|-|-|Y|-|vascular nevus|-|-|CUSTOM|Disease|-|血管痣|0|N|256
+C5444593|CHI|-|-|-|-|Y|-|loquat|-|-|CUSTOM|Treatment|-|枇杷|0|N|256
+C5551904|CHI|-|-|-|-|Y|-|infantile seborrheic dermatitis|-|-|CUSTOM|Disease|-|婴儿脂溢性皮炎|0|N|256
+C5553885|CHI|-|-|-|-|Y|-|candida|-|-|CUSTOM|Test|-|念珠菌|0|N|256
+C5559802|CHI|-|-|-|-|Y|-|eczema with infection|-|-|CUSTOM|Disease|-|湿疹伴感染|0|N|256
+C5565147|CHI|-|-|-|-|Y|-|red peony root|-|-|CUSTOM|Treatment|-|红牡丹根|0|N|256
