@@ -6,7 +6,7 @@
 
 # Task Description
 
-Thist dataset includes clinical dermatology textual queries and their associated images, as well as the answers to the queries.
+This dataset includes clinical dermatology textual queries and their associated images, as well as the answers to the queries.
 
 The languages used here are Chinese (zh), English (en), and Spanish (es).
 
@@ -18,7 +18,9 @@ The following table is the number of instances for each split.
 | -------- | ------- |------- |
 | 842|56|100|
 
-There will be a Chinese, English, and Spanish version of each. All non-English train splits are machine translated from the Chinese original. All valid/test sets are human translated.
+- There will be a Chinese, English, and Spanish version of each. 
+- All non-Chinese train splits are machine translated from the Chinese original. 
+- All valid/test sets are human translated and validated by medical doctors.
 
 # Data Description
 
@@ -29,11 +31,11 @@ Input Content
 | attribute_id | description |
 | -------- | ------- |
 |encounter_id|unique identification string for the case|
-|image_ids|list of strings of the image_id’s|
+|image_ids|list of strings of the image_ids|
 |query_title_{LANGUAGE}|a string representing the query title|
 |query_content_{LANGUAGE}|a string representing the query content|
 
-(b) image files with unique id’s
+(b) image files with unique ids
 
 Images are stored in the following folders respectively:
 images_{train,valid,test}/
@@ -75,7 +77,7 @@ Output should be json list with at least the following content
 **We use the following evaluation metrics:**
 - **DeltaBLEU** and **bertscore** for general NLG evaluation. DeltaBLEU weighs n-grams according to a human-evaluated score. BERTSCORE takes the maximum score for any available reference. The evaluation scripts used are in evaluation/nlg.
 
-- **MEDCON** for medical concept and assertion evaluation. QUICKUMLS is used to identify concepts (https://github.com/Georgetown-IR-Lab/QuickUMLS), assertion classification is obtained using an in-house llama classifier for English and gpt4 for Chinese. The assertion models are not released, please approximate using your own classifiers. Evaluation scripts are found in evaluation/medcon.
+- **MEDCON** for medical concept and assertion evaluation. QUICKUMLS is used to identify concepts (<https://github.com/Georgetown-IR-Lab/QuickUMLS>), assertion classification is obtained using an in-house Llama classifier for English and GPT-4 for Chinese. The assertion models are not released, please approximate using your own classifiers. Evaluation scripts are found in evaluation/medcon.
 
 
 # Contact
